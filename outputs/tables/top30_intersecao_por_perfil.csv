@@ -1,0 +1,6 @@
+perfil,perfil_pt,n_llama,n_qwen,intersecao,uniao,jaccard,cobertura_llama_pct,cobertura_qwen_pct
+anxious,Ansioso,30,30,16,44,0.3636,53.3,53.3
+demanding,Exigente,30,30,17,43,0.3953,56.7,56.7
+economic,Econômico,30,30,7,53,0.1321,23.3,23.3
+impulsive,Impulsivo,30,30,9,51,0.1765,30.0,30.0
+rational,Racional,30,30,16,44,0.3636,53.3,53.3

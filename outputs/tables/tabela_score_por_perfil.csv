@@ -1,0 +1,11 @@
+Modelo,Perfil,n,Score Médio,Intenção de Compra
+llama3.2,Ansioso,297,5.494,49.091
+llama3.2,Exigente,295,5.720,56.102
+llama3.2,Econômico,298,5.490,55.604
+llama3.2,Impulsivo,296,6.243,70.845
+llama3.2,Racional,294,5.665,47.449
+qwen2.5:7b,Ansioso,299,5.191,37.174
+qwen2.5:7b,Exigente,297,5.623,42.189
+qwen2.5:7b,Econômico,299,6.084,48.445
+qwen2.5:7b,Impulsivo,299,7.455,84.799
+qwen2.5:7b,Racional,298,5.456,36.678

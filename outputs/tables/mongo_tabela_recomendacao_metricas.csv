@@ -1,0 +1,3 @@
+Modelo,n,Caracteres médios,Palavras médias,Prompt tokens (média),Completion tokens (média)
+llama3.2,300,696.500,91.100,1761.000,178.900
+qwen2.5:7b,300,596.100,77.500,1791.900,152.500

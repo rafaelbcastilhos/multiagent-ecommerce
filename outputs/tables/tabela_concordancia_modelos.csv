@@ -1,0 +1,6 @@
+Métrica,Diferença Média Absoluta,Diferença Mediana,Correlação Pearson
+consensus_level,6.812,1.800,0.027
+conversion_potential,11.773,6.000,0.728
+coverage_score,21.178,-20.000,0.798
+mean_score,0.609,-0.200,0.863
+overall_appeal,0.609,-0.200,0.863

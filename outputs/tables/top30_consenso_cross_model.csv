@@ -1,0 +1,1081 @@
+product_id,title,n_combos,modelo,perfil,presente,score,rank,purchase_intention
+TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",9,llama3.2,anxious,1,8.0,8.0,80.0
+TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",9,llama3.2,demanding,1,8.0,13.0,90.0
+TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",9,llama3.2,economic,1,8.0,7.0,60.0
+TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",9,llama3.2,impulsive,1,8.0,15.0,100.0
+TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",9,llama3.2,rational,1,8.0,8.0,80.0
+TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",9,qwen2.5:7b,anxious,1,8.0,8.0,75.0
+TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",9,qwen2.5:7b,demanding,1,8.0,11.0,65.0
+TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",9,qwen2.5:7b,economic,1,8.0,17.0,85.0
+TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",9,qwen2.5:7b,impulsive,0,,,
+TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",9,qwen2.5:7b,rational,1,8.0,6.0,60.0
+CRGFGQRH8JTUDNHW,Men Cargos,9,llama3.2,anxious,1,8.0,4.0,80.0
+CRGFGQRH8JTUDNHW,Men Cargos,9,llama3.2,demanding,1,8.0,9.0,80.0
+CRGFGQRH8JTUDNHW,Men Cargos,9,llama3.2,economic,1,8.0,4.0,80.0
+CRGFGQRH8JTUDNHW,Men Cargos,9,llama3.2,impulsive,1,8.0,10.0,100.0
+CRGFGQRH8JTUDNHW,Men Cargos,9,llama3.2,rational,1,8.2,1.0,60.0
+CRGFGQRH8JTUDNHW,Men Cargos,9,qwen2.5:7b,anxious,1,8.0,4.0,65.0
+CRGFGQRH8JTUDNHW,Men Cargos,9,qwen2.5:7b,demanding,1,8.0,6.0,90.0
+CRGFGQRH8JTUDNHW,Men Cargos,9,qwen2.5:7b,economic,1,8.0,9.0,80.0
+CRGFGQRH8JTUDNHW,Men Cargos,9,qwen2.5:7b,impulsive,0,,,
+CRGFGQRH8JTUDNHW,Men Cargos,9,qwen2.5:7b,rational,1,8.0,2.0,60.0
+TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,8,llama3.2,anxious,1,8.0,5.0,80.0
+TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,8,llama3.2,demanding,1,8.2,3.0,90.0
+TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,8,llama3.2,economic,1,8.0,5.0,80.0
+TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,8,llama3.2,impulsive,1,8.0,12.0,100.0
+TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,8,llama3.2,rational,0,,,
+TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,8,qwen2.5:7b,anxious,1,8.0,5.0,75.0
+TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,8,qwen2.5:7b,demanding,1,8.0,7.0,90.0
+TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,8,qwen2.5:7b,economic,1,8.0,10.0,60.0
+TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,8,qwen2.5:7b,impulsive,0,,,
+TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,8,qwen2.5:7b,rational,1,8.0,3.0,60.0
+SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,8,llama3.2,anxious,1,8.0,3.0,80.0
+SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,8,llama3.2,demanding,1,8.0,8.0,100.0
+SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,8,llama3.2,economic,1,8.0,3.0,80.0
+SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,8,llama3.2,impulsive,1,8.0,9.0,100.0
+SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,8,llama3.2,rational,1,8.0,4.0,60.0
+SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,8,qwen2.5:7b,anxious,0,,,
+SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,8,qwen2.5:7b,demanding,1,8.0,5.0,90.0
+SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,8,qwen2.5:7b,economic,1,8.0,8.0,75.0
+SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,8,qwen2.5:7b,impulsive,1,8.0,29.0,90.0
+SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,8,qwen2.5:7b,rational,0,,,
+TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,8,llama3.2,anxious,1,8.0,25.0,100.0
+TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,8,llama3.2,demanding,1,8.0,30.0,100.0
+TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,8,llama3.2,economic,1,8.0,19.0,60.0
+TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,8,llama3.2,impulsive,0,,,
+TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,8,llama3.2,rational,1,8.0,20.0,60.0
+TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,8,qwen2.5:7b,anxious,1,8.0,18.0,65.0
+TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,8,qwen2.5:7b,demanding,1,8.0,30.0,95.0
+TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,8,qwen2.5:7b,economic,0,,,
+TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,8,qwen2.5:7b,impulsive,1,9.0,4.0,85.0
+TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,8,qwen2.5:7b,rational,1,8.0,16.0,60.0
+TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,7,llama3.2,anxious,0,,,
+TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,7,llama3.2,demanding,1,8.0,18.0,90.0
+TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,7,llama3.2,economic,1,8.0,9.0,60.0
+TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,7,llama3.2,impulsive,1,8.0,21.0,80.0
+TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,7,llama3.2,rational,1,8.0,9.0,80.0
+TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,7,qwen2.5:7b,anxious,0,,,
+TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,7,qwen2.5:7b,demanding,1,8.0,14.0,65.0
+TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,7,qwen2.5:7b,economic,1,8.0,23.0,85.0
+TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,7,qwen2.5:7b,impulsive,0,,,
+TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,7,qwen2.5:7b,rational,1,8.0,7.0,60.0
+TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,7,llama3.2,anxious,0,,,
+TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,7,llama3.2,demanding,1,8.0,7.0,80.0
+TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,7,llama3.2,economic,0,,,
+TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,7,llama3.2,impulsive,1,8.0,1.0,100.0
+TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,7,llama3.2,rational,0,,,
+TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,7,qwen2.5:7b,anxious,1,8.0,2.0,95.0
+TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,7,qwen2.5:7b,demanding,1,8.0,2.0,95.0
+TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,7,qwen2.5:7b,economic,1,8.0,1.0,90.0
+TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,7,qwen2.5:7b,impulsive,1,8.0,13.0,90.0
+TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,7,qwen2.5:7b,rational,1,8.0,1.0,60.0
+TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,7,llama3.2,anxious,1,8.2,1.0,75.0
+TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,7,llama3.2,demanding,1,8.2,6.0,100.0
+TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,7,llama3.2,economic,1,8.0,27.0,80.0
+TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,7,llama3.2,impulsive,0,,,
+TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,7,llama3.2,rational,1,8.0,23.0,80.0
+TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,7,qwen2.5:7b,anxious,1,9.0,1.0,80.0
+TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,7,qwen2.5:7b,demanding,1,9.0,1.0,85.0
+TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,7,qwen2.5:7b,economic,0,,,
+TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,7,qwen2.5:7b,impulsive,0,,,
+TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,7,qwen2.5:7b,rational,1,8.0,21.0,60.0
+BRFFZJG8WPC6W3UQ,Men Brief Pack of 6,6,llama3.2,anxious,1,8.0,11.0,60.0
+BRFFZJG8WPC6W3UQ,Men Brief Pack of 6,6,llama3.2,demanding,1,8.0,19.0,60.0
+BRFFZJG8WPC6W3UQ,Men Brief Pack of 6,6,llama3.2,economic,0,,,
+BRFFZJG8WPC6W3UQ,Men Brief Pack of 6,6,llama3.2,impulsive,1,8.0,22.0,100.0
+BRFFZJG8WPC6W3UQ,Men Brief Pack of 6,6,llama3.2,rational,1,8.0,10.0,60.0
+BRFFZJG8WPC6W3UQ,Men Brief Pack of 6,6,qwen2.5:7b,anxious,0,,,
+BRFFZJG8WPC6W3UQ,Men Brief Pack of 6,6,qwen2.5:7b,demanding,1,8.0,15.0,65.0
+BRFFZJG8WPC6W3UQ,Men Brief Pack of 6,6,qwen2.5:7b,economic,1,8.0,24.0,65.0
+BRFFZJG8WPC6W3UQ,Men Brief Pack of 6,6,qwen2.5:7b,impulsive,0,,,
+BRFFZJG8WPC6W3UQ,Men Brief Pack of 6,6,qwen2.5:7b,rational,0,,,
+TRKFC3YSEZ5HJEH8,Men Trunks,6,llama3.2,anxious,1,8.0,23.0,60.0
+TRKFC3YSEZ5HJEH8,Men Trunks,6,llama3.2,demanding,1,8.0,29.0,80.0
+TRKFC3YSEZ5HJEH8,Men Trunks,6,llama3.2,economic,0,,,
+TRKFC3YSEZ5HJEH8,Men Trunks,6,llama3.2,impulsive,0,,,
+TRKFC3YSEZ5HJEH8,Men Trunks,6,llama3.2,rational,1,8.0,19.0,60.0
+TRKFC3YSEZ5HJEH8,Men Trunks,6,qwen2.5:7b,anxious,1,8.0,17.0,65.0
+TRKFC3YSEZ5HJEH8,Men Trunks,6,qwen2.5:7b,demanding,1,8.0,29.0,90.0
+TRKFC3YSEZ5HJEH8,Men Trunks,6,qwen2.5:7b,economic,0,,,
+TRKFC3YSEZ5HJEH8,Men Trunks,6,qwen2.5:7b,impulsive,0,,,
+TRKFC3YSEZ5HJEH8,Men Trunks,6,qwen2.5:7b,rational,1,8.0,15.0,65.0
+SRTFDT7FY3CFFNYV,Self Design Men Black Sports Shorts,6,llama3.2,anxious,1,8.0,12.0,60.0
+SRTFDT7FY3CFFNYV,Self Design Men Black Sports Shorts,6,llama3.2,demanding,0,,,
+SRTFDT7FY3CFFNYV,Self Design Men Black Sports Shorts,6,llama3.2,economic,0,,,
+SRTFDT7FY3CFFNYV,Self Design Men Black Sports Shorts,6,llama3.2,impulsive,1,8.0,24.0,100.0
+SRTFDT7FY3CFFNYV,Self Design Men Black Sports Shorts,6,llama3.2,rational,1,8.0,12.0,100.0
+SRTFDT7FY3CFFNYV,Self Design Men Black Sports Shorts,6,qwen2.5:7b,anxious,1,8.0,9.0,65.0
+SRTFDT7FY3CFFNYV,Self Design Men Black Sports Shorts,6,qwen2.5:7b,demanding,1,8.0,17.0,65.0
+SRTFDT7FY3CFFNYV,Self Design Men Black Sports Shorts,6,qwen2.5:7b,economic,0,,,
+SRTFDT7FY3CFFNYV,Self Design Men Black Sports Shorts,6,qwen2.5:7b,impulsive,0,,,
+SRTFDT7FY3CFFNYV,Self Design Men Black Sports Shorts,6,qwen2.5:7b,rational,1,8.0,8.0,60.0
+JCKFMYFZHXZH4FGE,Full Sleeve Colorblock Men Sports Jacket,6,llama3.2,anxious,1,8.0,13.0,60.0
+JCKFMYFZHXZH4FGE,Full Sleeve Colorblock Men Sports Jacket,6,llama3.2,demanding,1,8.2,5.0,75.0
+JCKFMYFZHXZH4FGE,Full Sleeve Colorblock Men Sports Jacket,6,llama3.2,economic,0,,,
+JCKFMYFZHXZH4FGE,Full Sleeve Colorblock Men Sports Jacket,6,llama3.2,impulsive,1,8.0,26.0,100.0
+JCKFMYFZHXZH4FGE,Full Sleeve Colorblock Men Sports Jacket,6,llama3.2,rational,0,,,
+JCKFMYFZHXZH4FGE,Full Sleeve Colorblock Men Sports Jacket,6,qwen2.5:7b,anxious,1,8.0,10.0,65.0
+JCKFMYFZHXZH4FGE,Full Sleeve Colorblock Men Sports Jacket,6,qwen2.5:7b,demanding,1,8.0,18.0,65.0
+JCKFMYFZHXZH4FGE,Full Sleeve Colorblock Men Sports Jacket,6,qwen2.5:7b,economic,1,8.0,25.0,65.0
+JCKFMYFZHXZH4FGE,Full Sleeve Colorblock Men Sports Jacket,6,qwen2.5:7b,impulsive,0,,,
+JCKFMYFZHXZH4FGE,Full Sleeve Colorblock Men Sports Jacket,6,qwen2.5:7b,rational,0,,,
+TSHFNUGVREHCPWGE,Solid Men Round Neck Black T-Shirt,6,llama3.2,anxious,1,8.0,15.0,80.0
+TSHFNUGVREHCPWGE,Solid Men Round Neck Black T-Shirt,6,llama3.2,demanding,1,8.0,22.0,80.0
+TSHFNUGVREHCPWGE,Solid Men Round Neck Black T-Shirt,6,llama3.2,economic,0,,,
+TSHFNUGVREHCPWGE,Solid Men Round Neck Black T-Shirt,6,llama3.2,impulsive,1,8.0,30.0,100.0
+TSHFNUGVREHCPWGE,Solid Men Round Neck Black T-Shirt,6,llama3.2,rational,0,,,
+TSHFNUGVREHCPWGE,Solid Men Round Neck Black T-Shirt,6,qwen2.5:7b,anxious,1,8.0,11.0,65.0
+TSHFNUGVREHCPWGE,Solid Men Round Neck Black T-Shirt,6,qwen2.5:7b,demanding,0,,,
+TSHFNUGVREHCPWGE,Solid Men Round Neck Black T-Shirt,6,qwen2.5:7b,economic,1,8.0,28.0,60.0
+TSHFNUGVREHCPWGE,Solid Men Round Neck Black T-Shirt,6,qwen2.5:7b,impulsive,0,,,
+TSHFNUGVREHCPWGE,Solid Men Round Neck Black T-Shirt,6,qwen2.5:7b,rational,1,8.0,9.0,60.0
+TSHFPNR322XKKCKW,Printed Men Polo Neck White T-Shirt,6,llama3.2,anxious,1,8.0,6.0,75.0
+TSHFPNR322XKKCKW,Printed Men Polo Neck White T-Shirt,6,llama3.2,demanding,1,8.0,11.0,80.0
+TSHFPNR322XKKCKW,Printed Men Polo Neck White T-Shirt,6,llama3.2,economic,1,8.0,6.0,50.0
+TSHFPNR322XKKCKW,Printed Men Polo Neck White T-Shirt,6,llama3.2,impulsive,1,8.0,13.0,100.0
+TSHFPNR322XKKCKW,Printed Men Polo Neck White T-Shirt,6,llama3.2,rational,1,8.0,5.0,75.0
+TSHFPNR322XKKCKW,Printed Men Polo Neck White T-Shirt,6,qwen2.5:7b,anxious,1,8.0,6.0,60.0
+TSHFPNR322XKKCKW,Printed Men Polo Neck White T-Shirt,6,qwen2.5:7b,demanding,0,,,
+TSHFPNR322XKKCKW,Printed Men Polo Neck White T-Shirt,6,qwen2.5:7b,economic,0,,,
+TSHFPNR322XKKCKW,Printed Men Polo Neck White T-Shirt,6,qwen2.5:7b,impulsive,0,,,
+TSHFPNR322XKKCKW,Printed Men Polo Neck White T-Shirt,6,qwen2.5:7b,rational,0,,,
+JEAFGUGYHZHGZSE4,Regular Men Light Blue Jeans,6,llama3.2,anxious,1,8.0,21.0,70.0
+JEAFGUGYHZHGZSE4,Regular Men Light Blue Jeans,6,llama3.2,demanding,0,,,
+JEAFGUGYHZHGZSE4,Regular Men Light Blue Jeans,6,llama3.2,economic,1,8.0,18.0,75.0
+JEAFGUGYHZHGZSE4,Regular Men Light Blue Jeans,6,llama3.2,impulsive,0,,,
+JEAFGUGYHZHGZSE4,Regular Men Light Blue Jeans,6,llama3.2,rational,1,8.2,2.0,80.0
+JEAFGUGYHZHGZSE4,Regular Men Light Blue Jeans,6,qwen2.5:7b,anxious,1,8.0,15.0,60.0
+JEAFGUGYHZHGZSE4,Regular Men Light Blue Jeans,6,qwen2.5:7b,demanding,1,8.0,27.0,65.0
+JEAFGUGYHZHGZSE4,Regular Men Light Blue Jeans,6,qwen2.5:7b,economic,0,,,
+JEAFGUGYHZHGZSE4,Regular Men Light Blue Jeans,6,qwen2.5:7b,impulsive,0,,,
+JEAFGUGYHZHGZSE4,Regular Men Light Blue Jeans,6,qwen2.5:7b,rational,1,8.0,13.0,60.0
+SHTFVVCNDWPWPQDE,Men Tailored Fit Solid Casual Shirt,6,llama3.2,anxious,1,8.0,7.0,75.0
+SHTFVVCNDWPWPQDE,Men Tailored Fit Solid Casual Shirt,6,llama3.2,demanding,0,,,
+SHTFVVCNDWPWPQDE,Men Tailored Fit Solid Casual Shirt,6,llama3.2,economic,0,,,
+SHTFVVCNDWPWPQDE,Men Tailored Fit Solid Casual Shirt,6,llama3.2,impulsive,1,8.0,14.0,80.0
+SHTFVVCNDWPWPQDE,Men Tailored Fit Solid Casual Shirt,6,llama3.2,rational,1,8.0,7.0,80.0
+SHTFVVCNDWPWPQDE,Men Tailored Fit Solid Casual Shirt,6,qwen2.5:7b,anxious,0,,,
+SHTFVVCNDWPWPQDE,Men Tailored Fit Solid Casual Shirt,6,qwen2.5:7b,demanding,1,8.0,10.0,65.0
+SHTFVVCNDWPWPQDE,Men Tailored Fit Solid Casual Shirt,6,qwen2.5:7b,economic,1,8.0,14.0,80.0
+SHTFVVCNDWPWPQDE,Men Tailored Fit Solid Casual Shirt,6,qwen2.5:7b,impulsive,0,,,
+SHTFVVCNDWPWPQDE,Men Tailored Fit Solid Casual Shirt,6,qwen2.5:7b,rational,1,8.0,5.0,65.0
+TSHFZ3JDZGXTEQ6M,Printed Men Round Neck Grey T-Shirt,6,llama3.2,anxious,1,8.0,20.0,100.0
+TSHFZ3JDZGXTEQ6M,Printed Men Round Neck Grey T-Shirt,6,llama3.2,demanding,1,8.0,26.0,80.0
+TSHFZ3JDZGXTEQ6M,Printed Men Round Neck Grey T-Shirt,6,llama3.2,economic,0,,,
+TSHFZ3JDZGXTEQ6M,Printed Men Round Neck Grey T-Shirt,6,llama3.2,impulsive,0,,,
+TSHFZ3JDZGXTEQ6M,Printed Men Round Neck Grey T-Shirt,6,llama3.2,rational,1,8.0,17.0,60.0
+TSHFZ3JDZGXTEQ6M,Printed Men Round Neck Grey T-Shirt,6,qwen2.5:7b,anxious,1,8.0,14.0,65.0
+TSHFZ3JDZGXTEQ6M,Printed Men Round Neck Grey T-Shirt,6,qwen2.5:7b,demanding,1,8.0,26.0,90.0
+TSHFZ3JDZGXTEQ6M,Printed Men Round Neck Grey T-Shirt,6,qwen2.5:7b,economic,0,,,
+TSHFZ3JDZGXTEQ6M,Printed Men Round Neck Grey T-Shirt,6,qwen2.5:7b,impulsive,0,,,
+TSHFZ3JDZGXTEQ6M,Printed Men Round Neck Grey T-Shirt,6,qwen2.5:7b,rational,1,8.0,11.0,60.0
+SHTFZKUFJSP9RJWN,Men Slim Fit Solid Casual Shirt,6,llama3.2,anxious,0,,,
+SHTFZKUFJSP9RJWN,Men Slim Fit Solid Casual Shirt,6,llama3.2,demanding,0,,,
+SHTFZKUFJSP9RJWN,Men Slim Fit Solid Casual Shirt,6,llama3.2,economic,0,,,
+SHTFZKUFJSP9RJWN,Men Slim Fit Solid Casual Shirt,6,llama3.2,impulsive,1,8.0,3.0,100.0
+SHTFZKUFJSP9RJWN,Men Slim Fit Solid Casual Shirt,6,llama3.2,rational,1,8.0,3.0,70.0
+SHTFZKUFJSP9RJWN,Men Slim Fit Solid Casual Shirt,6,qwen2.5:7b,anxious,1,8.0,3.0,60.0
+SHTFZKUFJSP9RJWN,Men Slim Fit Solid Casual Shirt,6,qwen2.5:7b,demanding,1,8.0,3.0,65.0
+SHTFZKUFJSP9RJWN,Men Slim Fit Solid Casual Shirt,6,qwen2.5:7b,economic,1,8.0,2.0,65.0
+SHTFZKUFJSP9RJWN,Men Slim Fit Solid Casual Shirt,6,qwen2.5:7b,impulsive,1,9.0,1.0,85.0
+SHTFZKUFJSP9RJWN,Men Slim Fit Solid Casual Shirt,6,qwen2.5:7b,rational,0,,,
+TSHFWCPH77RAYAFF,Solid Men Polo Neck White T-Shirt,5,llama3.2,anxious,0,,,
+TSHFWCPH77RAYAFF,Solid Men Polo Neck White T-Shirt,5,llama3.2,demanding,0,,,
+TSHFWCPH77RAYAFF,Solid Men Polo Neck White T-Shirt,5,llama3.2,economic,0,,,
+TSHFWCPH77RAYAFF,Solid Men Polo Neck White T-Shirt,5,llama3.2,impulsive,0,,,
+TSHFWCPH77RAYAFF,Solid Men Polo Neck White T-Shirt,5,llama3.2,rational,1,8.0,6.0,70.0
+TSHFWCPH77RAYAFF,Solid Men Polo Neck White T-Shirt,5,qwen2.5:7b,anxious,1,8.0,7.0,60.0
+TSHFWCPH77RAYAFF,Solid Men Polo Neck White T-Shirt,5,qwen2.5:7b,demanding,1,8.0,9.0,95.0
+TSHFWCPH77RAYAFF,Solid Men Polo Neck White T-Shirt,5,qwen2.5:7b,economic,1,8.0,12.0,60.0
+TSHFWCPH77RAYAFF,Solid Men Polo Neck White T-Shirt,5,qwen2.5:7b,impulsive,0,,,
+TSHFWCPH77RAYAFF,Solid Men Polo Neck White T-Shirt,5,qwen2.5:7b,rational,1,8.0,4.0,60.0
+TSHFW8F9PZH9RRQK,Solid Men Polo Neck Green T-Shirt,5,llama3.2,anxious,1,8.0,19.0,75.0
+TSHFW8F9PZH9RRQK,Solid Men Polo Neck Green T-Shirt,5,llama3.2,demanding,1,8.0,25.0,60.0
+TSHFW8F9PZH9RRQK,Solid Men Polo Neck Green T-Shirt,5,llama3.2,economic,1,8.0,14.0,100.0
+TSHFW8F9PZH9RRQK,Solid Men Polo Neck Green T-Shirt,5,llama3.2,impulsive,0,,,
+TSHFW8F9PZH9RRQK,Solid Men Polo Neck Green T-Shirt,5,llama3.2,rational,0,,,
+TSHFW8F9PZH9RRQK,Solid Men Polo Neck Green T-Shirt,5,qwen2.5:7b,anxious,1,8.0,12.0,65.0
+TSHFW8F9PZH9RRQK,Solid Men Polo Neck Green T-Shirt,5,qwen2.5:7b,demanding,1,8.0,24.0,65.0
+TSHFW8F9PZH9RRQK,Solid Men Polo Neck Green T-Shirt,5,qwen2.5:7b,economic,0,,,
+TSHFW8F9PZH9RRQK,Solid Men Polo Neck Green T-Shirt,5,qwen2.5:7b,impulsive,0,,,
+TSHFW8F9PZH9RRQK,Solid Men Polo Neck Green T-Shirt,5,qwen2.5:7b,rational,0,,,
+TSHFME2ENATAPJBP,Solid Men Polo Neck Dark Blue T-Shirt,5,llama3.2,anxious,1,8.0,9.0,60.0
+TSHFME2ENATAPJBP,Solid Men Polo Neck Dark Blue T-Shirt,5,llama3.2,demanding,1,8.2,4.0,60.0
+TSHFME2ENATAPJBP,Solid Men Polo Neck Dark Blue T-Shirt,5,llama3.2,economic,1,8.0,8.0,90.0
+TSHFME2ENATAPJBP,Solid Men Polo Neck Dark Blue T-Shirt,5,llama3.2,impulsive,1,8.0,19.0,100.0
+TSHFME2ENATAPJBP,Solid Men Polo Neck Dark Blue T-Shirt,5,llama3.2,rational,0,,,
+TSHFME2ENATAPJBP,Solid Men Polo Neck Dark Blue T-Shirt,5,qwen2.5:7b,anxious,0,,,
+TSHFME2ENATAPJBP,Solid Men Polo Neck Dark Blue T-Shirt,5,qwen2.5:7b,demanding,0,,,
+TSHFME2ENATAPJBP,Solid Men Polo Neck Dark Blue T-Shirt,5,qwen2.5:7b,economic,1,8.0,21.0,65.0
+TSHFME2ENATAPJBP,Solid Men Polo Neck Dark Blue T-Shirt,5,qwen2.5:7b,impulsive,0,,,
+TSHFME2ENATAPJBP,Solid Men Polo Neck Dark Blue T-Shirt,5,qwen2.5:7b,rational,0,,,
+KTAFD3ZMPXPC3GE4,Men Printed Cotton Blend Straight Kurta Orange,5,llama3.2,anxious,1,8.0,22.0,60.0
+KTAFD3ZMPXPC3GE4,Men Printed Cotton Blend Straight Kurta Orange,5,llama3.2,demanding,1,8.0,28.0,80.0
+KTAFD3ZMPXPC3GE4,Men Printed Cotton Blend Straight Kurta Orange,5,llama3.2,economic,0,,,
+KTAFD3ZMPXPC3GE4,Men Printed Cotton Blend Straight Kurta Orange,5,llama3.2,impulsive,0,,,
+KTAFD3ZMPXPC3GE4,Men Printed Cotton Blend Straight Kurta Orange,5,llama3.2,rational,0,,,
+KTAFD3ZMPXPC3GE4,Men Printed Cotton Blend Straight Kurta Orange,5,qwen2.5:7b,anxious,1,8.0,16.0,65.0
+KTAFD3ZMPXPC3GE4,Men Printed Cotton Blend Straight Kurta Orange,5,qwen2.5:7b,demanding,1,8.0,28.0,65.0
+KTAFD3ZMPXPC3GE4,Men Printed Cotton Blend Straight Kurta Orange,5,qwen2.5:7b,economic,0,,,
+KTAFD3ZMPXPC3GE4,Men Printed Cotton Blend Straight Kurta Orange,5,qwen2.5:7b,impulsive,0,,,
+KTAFD3ZMPXPC3GE4,Men Printed Cotton Blend Straight Kurta Orange,5,qwen2.5:7b,rational,1,8.0,14.0,65.0
+TSHFPVNS3HFFYGBM,Printed Men Round Neck White T-Shirt,4,llama3.2,anxious,0,,,
+TSHFPVNS3HFFYGBM,Printed Men Round Neck White T-Shirt,4,llama3.2,demanding,0,,,
+TSHFPVNS3HFFYGBM,Printed Men Round Neck White T-Shirt,4,llama3.2,economic,0,,,
+TSHFPVNS3HFFYGBM,Printed Men Round Neck White T-Shirt,4,llama3.2,impulsive,1,8.0,27.0,100.0
+TSHFPVNS3HFFYGBM,Printed Men Round Neck White T-Shirt,4,llama3.2,rational,1,8.0,13.0,60.0
+TSHFPVNS3HFFYGBM,Printed Men Round Neck White T-Shirt,4,qwen2.5:7b,anxious,0,,,
+TSHFPVNS3HFFYGBM,Printed Men Round Neck White T-Shirt,4,qwen2.5:7b,demanding,1,8.0,19.0,60.0
+TSHFPVNS3HFFYGBM,Printed Men Round Neck White T-Shirt,4,qwen2.5:7b,economic,1,8.0,26.0,60.0
+TSHFPVNS3HFFYGBM,Printed Men Round Neck White T-Shirt,4,qwen2.5:7b,impulsive,0,,,
+TSHFPVNS3HFFYGBM,Printed Men Round Neck White T-Shirt,4,qwen2.5:7b,rational,0,,,
+TSHFPZY7ZNFBHM3U,Printed Men Round Neck White T-Shirt,4,llama3.2,anxious,1,8.0,2.0,60.0
+TSHFPZY7ZNFBHM3U,Printed Men Round Neck White T-Shirt,4,llama3.2,demanding,0,,,
+TSHFPZY7ZNFBHM3U,Printed Men Round Neck White T-Shirt,4,llama3.2,economic,0,,,
+TSHFPZY7ZNFBHM3U,Printed Men Round Neck White T-Shirt,4,llama3.2,impulsive,1,8.0,4.0,90.0
+TSHFPZY7ZNFBHM3U,Printed Men Round Neck White T-Shirt,4,llama3.2,rational,0,,,
+TSHFPZY7ZNFBHM3U,Printed Men Round Neck White T-Shirt,4,qwen2.5:7b,anxious,0,,,
+TSHFPZY7ZNFBHM3U,Printed Men Round Neck White T-Shirt,4,qwen2.5:7b,demanding,0,,,
+TSHFPZY7ZNFBHM3U,Printed Men Round Neck White T-Shirt,4,qwen2.5:7b,economic,1,8.0,3.0,65.0
+TSHFPZY7ZNFBHM3U,Printed Men Round Neck White T-Shirt,4,qwen2.5:7b,impulsive,1,8.0,22.0,95.0
+TSHFPZY7ZNFBHM3U,Printed Men Round Neck White T-Shirt,4,qwen2.5:7b,rational,0,,,
+SHTFACSAYNHFFRYF,Men Slim Fit Solid Mandarin Collar Casual Shirt,4,llama3.2,anxious,0,,,
+SHTFACSAYNHFFRYF,Men Slim Fit Solid Mandarin Collar Casual Shirt,4,llama3.2,demanding,0,,,
+SHTFACSAYNHFFRYF,Men Slim Fit Solid Mandarin Collar Casual Shirt,4,llama3.2,economic,0,,,
+SHTFACSAYNHFFRYF,Men Slim Fit Solid Mandarin Collar Casual Shirt,4,llama3.2,impulsive,1,8.0,7.0,100.0
+SHTFACSAYNHFFRYF,Men Slim Fit Solid Mandarin Collar Casual Shirt,4,llama3.2,rational,0,,,
+SHTFACSAYNHFFRYF,Men Slim Fit Solid Mandarin Collar Casual Shirt,4,qwen2.5:7b,anxious,0,,,
+SHTFACSAYNHFFRYF,Men Slim Fit Solid Mandarin Collar Casual Shirt,4,qwen2.5:7b,demanding,1,8.0,4.0,65.0
+SHTFACSAYNHFFRYF,Men Slim Fit Solid Mandarin Collar Casual Shirt,4,qwen2.5:7b,economic,1,8.0,7.0,65.0
+SHTFACSAYNHFFRYF,Men Slim Fit Solid Mandarin Collar Casual Shirt,4,qwen2.5:7b,impulsive,1,9.0,3.0,85.0
+SHTFACSAYNHFFRYF,Men Slim Fit Solid Mandarin Collar Casual Shirt,4,qwen2.5:7b,rational,0,,,
+SHTFH24CEGU2HGXP,Men Slim Fit Checkered Casual Shirt,4,llama3.2,anxious,1,8.0,18.0,80.0
+SHTFH24CEGU2HGXP,Men Slim Fit Checkered Casual Shirt,4,llama3.2,demanding,1,8.0,24.0,60.0
+SHTFH24CEGU2HGXP,Men Slim Fit Checkered Casual Shirt,4,llama3.2,economic,0,,,
+SHTFH24CEGU2HGXP,Men Slim Fit Checkered Casual Shirt,4,llama3.2,impulsive,0,,,
+SHTFH24CEGU2HGXP,Men Slim Fit Checkered Casual Shirt,4,llama3.2,rational,1,8.0,16.0,60.0
+SHTFH24CEGU2HGXP,Men Slim Fit Checkered Casual Shirt,4,qwen2.5:7b,anxious,0,,,
+SHTFH24CEGU2HGXP,Men Slim Fit Checkered Casual Shirt,4,qwen2.5:7b,demanding,1,8.0,23.0,65.0
+SHTFH24CEGU2HGXP,Men Slim Fit Checkered Casual Shirt,4,qwen2.5:7b,economic,0,,,
+SHTFH24CEGU2HGXP,Men Slim Fit Checkered Casual Shirt,4,qwen2.5:7b,impulsive,0,,,
+SHTFH24CEGU2HGXP,Men Slim Fit Checkered Casual Shirt,4,qwen2.5:7b,rational,0,,,
+TSHFRAMFGRD6FHGU,Graphic Print Men Round Neck Grey T-Shirt,4,llama3.2,anxious,1,8.0,10.0,70.0
+TSHFRAMFGRD6FHGU,Graphic Print Men Round Neck Grey T-Shirt,4,llama3.2,demanding,1,8.0,17.0,80.0
+TSHFRAMFGRD6FHGU,Graphic Print Men Round Neck Grey T-Shirt,4,llama3.2,economic,0,,,
+TSHFRAMFGRD6FHGU,Graphic Print Men Round Neck Grey T-Shirt,4,llama3.2,impulsive,1,8.0,20.0,100.0
+TSHFRAMFGRD6FHGU,Graphic Print Men Round Neck Grey T-Shirt,4,llama3.2,rational,0,,,
+TSHFRAMFGRD6FHGU,Graphic Print Men Round Neck Grey T-Shirt,4,qwen2.5:7b,anxious,0,,,
+TSHFRAMFGRD6FHGU,Graphic Print Men Round Neck Grey T-Shirt,4,qwen2.5:7b,demanding,0,,,
+TSHFRAMFGRD6FHGU,Graphic Print Men Round Neck Grey T-Shirt,4,qwen2.5:7b,economic,1,8.0,22.0,65.0
+TSHFRAMFGRD6FHGU,Graphic Print Men Round Neck Grey T-Shirt,4,qwen2.5:7b,impulsive,0,,,
+TSHFRAMFGRD6FHGU,Graphic Print Men Round Neck Grey T-Shirt,4,qwen2.5:7b,rational,0,,,
+SFFFUZAZZFFUDFBE,Slides,4,llama3.2,anxious,0,,,
+SFFFUZAZZFFUDFBE,Slides,4,llama3.2,demanding,0,,,
+SFFFUZAZZFFUDFBE,Slides,4,llama3.2,economic,1,8.0,2.0,75.0
+SFFFUZAZZFFUDFBE,Slides,4,llama3.2,impulsive,1,8.0,5.0,100.0
+SFFFUZAZZFFUDFBE,Slides,4,llama3.2,rational,0,,,
+SFFFUZAZZFFUDFBE,Slides,4,qwen2.5:7b,anxious,0,,,
+SFFFUZAZZFFUDFBE,Slides,4,qwen2.5:7b,demanding,0,,,
+SFFFUZAZZFFUDFBE,Slides,4,qwen2.5:7b,economic,1,8.0,4.0,60.0
+SFFFUZAZZFFUDFBE,Slides,4,qwen2.5:7b,impulsive,1,9.0,2.0,85.0
+SFFFUZAZZFFUDFBE,Slides,4,qwen2.5:7b,rational,0,,,
+TSHEUUPDTD5AKZP2,Striped Men Polo Neck Green T-Shirt,4,llama3.2,anxious,0,,,
+TSHEUUPDTD5AKZP2,Striped Men Polo Neck Green T-Shirt,4,llama3.2,demanding,1,8.0,15.0,90.0
+TSHEUUPDTD5AKZP2,Striped Men Polo Neck Green T-Shirt,4,llama3.2,economic,0,,,
+TSHEUUPDTD5AKZP2,Striped Men Polo Neck Green T-Shirt,4,llama3.2,impulsive,1,8.0,18.0,100.0
+TSHEUUPDTD5AKZP2,Striped Men Polo Neck Green T-Shirt,4,llama3.2,rational,0,,,
+TSHEUUPDTD5AKZP2,Striped Men Polo Neck Green T-Shirt,4,qwen2.5:7b,anxious,0,,,
+TSHEUUPDTD5AKZP2,Striped Men Polo Neck Green T-Shirt,4,qwen2.5:7b,demanding,1,8.0,13.0,65.0
+TSHEUUPDTD5AKZP2,Striped Men Polo Neck Green T-Shirt,4,qwen2.5:7b,economic,1,8.0,20.0,65.0
+TSHEUUPDTD5AKZP2,Striped Men Polo Neck Green T-Shirt,4,qwen2.5:7b,impulsive,0,,,
+TSHEUUPDTD5AKZP2,Striped Men Polo Neck Green T-Shirt,4,qwen2.5:7b,rational,0,,,
+TSHFHBQXJE8FFKVH,Self Design Men Round Neck Black T-Shirt,3,llama3.2,anxious,0,,,
+TSHFHBQXJE8FFKVH,Self Design Men Round Neck Black T-Shirt,3,llama3.2,demanding,0,,,
+TSHFHBQXJE8FFKVH,Self Design Men Round Neck Black T-Shirt,3,llama3.2,economic,0,,,
+TSHFHBQXJE8FFKVH,Self Design Men Round Neck Black T-Shirt,3,llama3.2,impulsive,1,8.0,16.0,100.0
+TSHFHBQXJE8FFKVH,Self Design Men Round Neck Black T-Shirt,3,llama3.2,rational,0,,,
+TSHFHBQXJE8FFKVH,Self Design Men Round Neck Black T-Shirt,3,qwen2.5:7b,anxious,0,,,
+TSHFHBQXJE8FFKVH,Self Design Men Round Neck Black T-Shirt,3,qwen2.5:7b,demanding,1,8.0,12.0,65.0
+TSHFHBQXJE8FFKVH,Self Design Men Round Neck Black T-Shirt,3,qwen2.5:7b,economic,1,8.0,18.0,65.0
+TSHFHBQXJE8FFKVH,Self Design Men Round Neck Black T-Shirt,3,qwen2.5:7b,impulsive,0,,,
+TSHFHBQXJE8FFKVH,Self Design Men Round Neck Black T-Shirt,3,qwen2.5:7b,rational,0,,,
+TROFGQSFMPC8HGZU,Regular Fit Men Brown Pure Cotton Trousers,3,llama3.2,anxious,0,,,
+TROFGQSFMPC8HGZU,Regular Fit Men Brown Pure Cotton Trousers,3,llama3.2,demanding,0,,,
+TROFGQSFMPC8HGZU,Regular Fit Men Brown Pure Cotton Trousers,3,llama3.2,economic,0,,,
+TROFGQSFMPC8HGZU,Regular Fit Men Brown Pure Cotton Trousers,3,llama3.2,impulsive,0,,,
+TROFGQSFMPC8HGZU,Regular Fit Men Brown Pure Cotton Trousers,3,llama3.2,rational,1,8.0,24.0,75.0
+TROFGQSFMPC8HGZU,Regular Fit Men Brown Pure Cotton Trousers,3,qwen2.5:7b,anxious,1,8.0,26.0,65.0
+TROFGQSFMPC8HGZU,Regular Fit Men Brown Pure Cotton Trousers,3,qwen2.5:7b,demanding,0,,,
+TROFGQSFMPC8HGZU,Regular Fit Men Brown Pure Cotton Trousers,3,qwen2.5:7b,economic,0,,,
+TROFGQSFMPC8HGZU,Regular Fit Men Brown Pure Cotton Trousers,3,qwen2.5:7b,impulsive,0,,,
+TROFGQSFMPC8HGZU,Regular Fit Men Brown Pure Cotton Trousers,3,qwen2.5:7b,rational,1,8.0,22.0,60.0
+SWSFX6YYPCV87HUA,Full Sleeve Self Design Men Sweatshirt,3,llama3.2,anxious,0,,,
+SWSFX6YYPCV87HUA,Full Sleeve Self Design Men Sweatshirt,3,llama3.2,demanding,0,,,
+SWSFX6YYPCV87HUA,Full Sleeve Self Design Men Sweatshirt,3,llama3.2,economic,0,,,
+SWSFX6YYPCV87HUA,Full Sleeve Self Design Men Sweatshirt,3,llama3.2,impulsive,0,,,
+SWSFX6YYPCV87HUA,Full Sleeve Self Design Men Sweatshirt,3,llama3.2,rational,1,8.0,21.0,60.0
+SWSFX6YYPCV87HUA,Full Sleeve Self Design Men Sweatshirt,3,qwen2.5:7b,anxious,1,8.0,21.0,60.0
+SWSFX6YYPCV87HUA,Full Sleeve Self Design Men Sweatshirt,3,qwen2.5:7b,demanding,0,,,
+SWSFX6YYPCV87HUA,Full Sleeve Self Design Men Sweatshirt,3,qwen2.5:7b,economic,0,,,
+SWSFX6YYPCV87HUA,Full Sleeve Self Design Men Sweatshirt,3,qwen2.5:7b,impulsive,0,,,
+SWSFX6YYPCV87HUA,Full Sleeve Self Design Men Sweatshirt,3,qwen2.5:7b,rational,1,8.0,19.0,65.0
+TSHFGJB52TQ8SUKM,Abstract Men Round Neck Light Blue T-Shirt,3,llama3.2,anxious,1,8.0,30.0,60.0
+TSHFGJB52TQ8SUKM,Abstract Men Round Neck Light Blue T-Shirt,3,llama3.2,demanding,0,,,
+TSHFGJB52TQ8SUKM,Abstract Men Round Neck Light Blue T-Shirt,3,llama3.2,economic,0,,,
+TSHFGJB52TQ8SUKM,Abstract Men Round Neck Light Blue T-Shirt,3,llama3.2,impulsive,0,,,
+TSHFGJB52TQ8SUKM,Abstract Men Round Neck Light Blue T-Shirt,3,llama3.2,rational,0,,,
+TSHFGJB52TQ8SUKM,Abstract Men Round Neck Light Blue T-Shirt,3,qwen2.5:7b,anxious,1,8.0,20.0,65.0
+TSHFGJB52TQ8SUKM,Abstract Men Round Neck Light Blue T-Shirt,3,qwen2.5:7b,demanding,0,,,
+TSHFGJB52TQ8SUKM,Abstract Men Round Neck Light Blue T-Shirt,3,qwen2.5:7b,economic,0,,,
+TSHFGJB52TQ8SUKM,Abstract Men Round Neck Light Blue T-Shirt,3,qwen2.5:7b,impulsive,0,,,
+TSHFGJB52TQ8SUKM,Abstract Men Round Neck Light Blue T-Shirt,3,qwen2.5:7b,rational,1,8.0,18.0,60.0
+TSHFVG9UHHD2YZUE,Solid Men Round Neck Multicolor T-Shirt Pack of 2,3,llama3.2,anxious,0,,,
+TSHFVG9UHHD2YZUE,Solid Men Round Neck Multicolor T-Shirt Pack of 2,3,llama3.2,demanding,0,,,
+TSHFVG9UHHD2YZUE,Solid Men Round Neck Multicolor T-Shirt Pack of 2,3,llama3.2,economic,1,8.0,13.0,60.0
+TSHFVG9UHHD2YZUE,Solid Men Round Neck Multicolor T-Shirt Pack of 2,3,llama3.2,impulsive,0,,,
+TSHFVG9UHHD2YZUE,Solid Men Round Neck Multicolor T-Shirt Pack of 2,3,llama3.2,rational,0,,,
+TSHFVG9UHHD2YZUE,Solid Men Round Neck Multicolor T-Shirt Pack of 2,3,qwen2.5:7b,anxious,0,,,
+TSHFVG9UHHD2YZUE,Solid Men Round Neck Multicolor T-Shirt Pack of 2,3,qwen2.5:7b,demanding,1,8.0,22.0,60.0
+TSHFVG9UHHD2YZUE,Solid Men Round Neck Multicolor T-Shirt Pack of 2,3,qwen2.5:7b,economic,0,,,
+TSHFVG9UHHD2YZUE,Solid Men Round Neck Multicolor T-Shirt Pack of 2,3,qwen2.5:7b,impulsive,0,,,
+TSHFVG9UHHD2YZUE,Solid Men Round Neck Multicolor T-Shirt Pack of 2,3,qwen2.5:7b,rational,1,8.0,10.0,60.0
+TSHFWJZEZYHJFJQU,Solid Men Polo Neck Light Green T-Shirt,3,llama3.2,anxious,0,,,
+TSHFWJZEZYHJFJQU,Solid Men Polo Neck Light Green T-Shirt,3,llama3.2,demanding,0,,,
+TSHFWJZEZYHJFJQU,Solid Men Polo Neck Light Green T-Shirt,3,llama3.2,economic,0,,,
+TSHFWJZEZYHJFJQU,Solid Men Polo Neck Light Green T-Shirt,3,llama3.2,impulsive,0,,,
+TSHFWJZEZYHJFJQU,Solid Men Polo Neck Light Green T-Shirt,3,llama3.2,rational,1,8.0,29.0,60.0
+TSHFWJZEZYHJFJQU,Solid Men Polo Neck Light Green T-Shirt,3,qwen2.5:7b,anxious,0,,,
+TSHFWJZEZYHJFJQU,Solid Men Polo Neck Light Green T-Shirt,3,qwen2.5:7b,demanding,0,,,
+TSHFWJZEZYHJFJQU,Solid Men Polo Neck Light Green T-Shirt,3,qwen2.5:7b,economic,0,,,
+TSHFWJZEZYHJFJQU,Solid Men Polo Neck Light Green T-Shirt,3,qwen2.5:7b,impulsive,1,9.0,8.0,85.0
+TSHFWJZEZYHJFJQU,Solid Men Polo Neck Light Green T-Shirt,3,qwen2.5:7b,rational,1,8.0,26.0,60.0
+SFFFUZAZMPVDGAPZ,Slides,3,llama3.2,anxious,0,,,
+SFFFUZAZMPVDGAPZ,Slides,3,llama3.2,demanding,1,8.0,12.0,80.0
+SFFFUZAZMPVDGAPZ,Slides,3,llama3.2,economic,0,,,
+SFFFUZAZMPVDGAPZ,Slides,3,llama3.2,impulsive,0,,,
+SFFFUZAZMPVDGAPZ,Slides,3,llama3.2,rational,0,,,
+SFFFUZAZMPVDGAPZ,Slides,3,qwen2.5:7b,anxious,0,,,
+SFFFUZAZMPVDGAPZ,Slides,3,qwen2.5:7b,demanding,1,8.0,8.0,65.0
+SFFFUZAZMPVDGAPZ,Slides,3,qwen2.5:7b,economic,1,8.0,11.0,60.0
+SFFFUZAZMPVDGAPZ,Slides,3,qwen2.5:7b,impulsive,0,,,
+SFFFUZAZMPVDGAPZ,Slides,3,qwen2.5:7b,rational,0,,,
+CAPEXJZKJX86NZKH,Self Design Woolen Cap Cap Pack of 2,3,llama3.2,anxious,1,8.0,27.0,50.0
+CAPEXJZKJX86NZKH,Self Design Woolen Cap Cap Pack of 2,3,llama3.2,demanding,0,,,
+CAPEXJZKJX86NZKH,Self Design Woolen Cap Cap Pack of 2,3,llama3.2,economic,0,,,
+CAPEXJZKJX86NZKH,Self Design Woolen Cap Cap Pack of 2,3,llama3.2,impulsive,0,,,
+CAPEXJZKJX86NZKH,Self Design Woolen Cap Cap Pack of 2,3,llama3.2,rational,0,,,
+CAPEXJZKJX86NZKH,Self Design Woolen Cap Cap Pack of 2,3,qwen2.5:7b,anxious,1,8.0,19.0,60.0
+CAPEXJZKJX86NZKH,Self Design Woolen Cap Cap Pack of 2,3,qwen2.5:7b,demanding,0,,,
+CAPEXJZKJX86NZKH,Self Design Woolen Cap Cap Pack of 2,3,qwen2.5:7b,economic,0,,,
+CAPEXJZKJX86NZKH,Self Design Woolen Cap Cap Pack of 2,3,qwen2.5:7b,impulsive,0,,,
+CAPEXJZKJX86NZKH,Self Design Woolen Cap Cap Pack of 2,3,qwen2.5:7b,rational,1,8.0,17.0,60.0
+SHTEDV4QBHABZSGE,Men Extra Slim Fit Solid Casual Shirt,3,llama3.2,anxious,1,8.0,16.0,50.0
+SHTEDV4QBHABZSGE,Men Extra Slim Fit Solid Casual Shirt,3,llama3.2,demanding,0,,,
+SHTEDV4QBHABZSGE,Men Extra Slim Fit Solid Casual Shirt,3,llama3.2,economic,0,,,
+SHTEDV4QBHABZSGE,Men Extra Slim Fit Solid Casual Shirt,3,llama3.2,impulsive,0,,,
+SHTEDV4QBHABZSGE,Men Extra Slim Fit Solid Casual Shirt,3,llama3.2,rational,0,,,
+SHTEDV4QBHABZSGE,Men Extra Slim Fit Solid Casual Shirt,3,qwen2.5:7b,anxious,0,,,
+SHTEDV4QBHABZSGE,Men Extra Slim Fit Solid Casual Shirt,3,qwen2.5:7b,demanding,1,8.0,21.0,65.0
+SHTEDV4QBHABZSGE,Men Extra Slim Fit Solid Casual Shirt,3,qwen2.5:7b,economic,1,8.0,30.0,65.0
+SHTEDV4QBHABZSGE,Men Extra Slim Fit Solid Casual Shirt,3,qwen2.5:7b,impulsive,0,,,
+SHTEDV4QBHABZSGE,Men Extra Slim Fit Solid Casual Shirt,3,qwen2.5:7b,rational,0,,,
+SHTFNGP5DCW4KZS4,Men Slim Fit Printed Casual Shirt,3,llama3.2,anxious,0,,,
+SHTFNGP5DCW4KZS4,Men Slim Fit Printed Casual Shirt,3,llama3.2,demanding,0,,,
+SHTFNGP5DCW4KZS4,Men Slim Fit Printed Casual Shirt,3,llama3.2,economic,1,8.0,28.0,60.0
+SHTFNGP5DCW4KZS4,Men Slim Fit Printed Casual Shirt,3,llama3.2,impulsive,0,,,
+SHTFNGP5DCW4KZS4,Men Slim Fit Printed Casual Shirt,3,llama3.2,rational,0,,,
+SHTFNGP5DCW4KZS4,Men Slim Fit Printed Casual Shirt,3,qwen2.5:7b,anxious,1,8.0,24.0,60.0
+SHTFNGP5DCW4KZS4,Men Slim Fit Printed Casual Shirt,3,qwen2.5:7b,demanding,0,,,
+SHTFNGP5DCW4KZS4,Men Slim Fit Printed Casual Shirt,3,qwen2.5:7b,economic,0,,,
+SHTFNGP5DCW4KZS4,Men Slim Fit Printed Casual Shirt,3,qwen2.5:7b,impulsive,1,9.0,6.0,85.0
+SHTFNGP5DCW4KZS4,Men Slim Fit Printed Casual Shirt,3,qwen2.5:7b,rational,0,,,
+JEAFF4YGFVA5EWQG,Regular Men Blue Jeans,3,llama3.2,anxious,0,,,
+JEAFF4YGFVA5EWQG,Regular Men Blue Jeans,3,llama3.2,demanding,0,,,
+JEAFF4YGFVA5EWQG,Regular Men Blue Jeans,3,llama3.2,economic,0,,,
+JEAFF4YGFVA5EWQG,Regular Men Blue Jeans,3,llama3.2,impulsive,1,8.0,23.0,100.0
+JEAFF4YGFVA5EWQG,Regular Men Blue Jeans,3,llama3.2,rational,1,8.0,11.0,50.0
+JEAFF4YGFVA5EWQG,Regular Men Blue Jeans,3,qwen2.5:7b,anxious,0,,,
+JEAFF4YGFVA5EWQG,Regular Men Blue Jeans,3,qwen2.5:7b,demanding,1,8.0,16.0,65.0
+JEAFF4YGFVA5EWQG,Regular Men Blue Jeans,3,qwen2.5:7b,economic,0,,,
+JEAFF4YGFVA5EWQG,Regular Men Blue Jeans,3,qwen2.5:7b,impulsive,0,,,
+JEAFF4YGFVA5EWQG,Regular Men Blue Jeans,3,qwen2.5:7b,rational,0,,,
+CAPETCFNFDHFYGYZ,ADJUSTER Cap,3,llama3.2,anxious,1,8.0,14.0,100.0
+CAPETCFNFDHFYGYZ,ADJUSTER Cap,3,llama3.2,demanding,1,8.0,21.0,80.0
+CAPETCFNFDHFYGYZ,ADJUSTER Cap,3,llama3.2,economic,0,,,
+CAPETCFNFDHFYGYZ,ADJUSTER Cap,3,llama3.2,impulsive,0,,,
+CAPETCFNFDHFYGYZ,ADJUSTER Cap,3,llama3.2,rational,1,8.0,14.0,60.0
+CAPETCFNFDHFYGYZ,ADJUSTER Cap,3,qwen2.5:7b,anxious,0,,,
+CAPETCFNFDHFYGYZ,ADJUSTER Cap,3,qwen2.5:7b,demanding,0,,,
+CAPETCFNFDHFYGYZ,ADJUSTER Cap,3,qwen2.5:7b,economic,0,,,
+CAPETCFNFDHFYGYZ,ADJUSTER Cap,3,qwen2.5:7b,impulsive,0,,,
+CAPETCFNFDHFYGYZ,ADJUSTER Cap,3,qwen2.5:7b,rational,0,,,
+VESFN9F3FJY5G4FC,VIP Men Vest Pack of 3,3,llama3.2,anxious,0,,,
+VESFN9F3FJY5G4FC,VIP Men Vest Pack of 3,3,llama3.2,demanding,0,,,
+VESFN9F3FJY5G4FC,VIP Men Vest Pack of 3,3,llama3.2,economic,1,8.0,22.0,60.0
+VESFN9F3FJY5G4FC,VIP Men Vest Pack of 3,3,llama3.2,impulsive,0,,,
+VESFN9F3FJY5G4FC,VIP Men Vest Pack of 3,3,llama3.2,rational,0,,,
+VESFN9F3FJY5G4FC,VIP Men Vest Pack of 3,3,qwen2.5:7b,anxious,1,8.0,22.0,65.0
+VESFN9F3FJY5G4FC,VIP Men Vest Pack of 3,3,qwen2.5:7b,demanding,0,,,
+VESFN9F3FJY5G4FC,VIP Men Vest Pack of 3,3,qwen2.5:7b,economic,0,,,
+VESFN9F3FJY5G4FC,VIP Men Vest Pack of 3,3,qwen2.5:7b,impulsive,0,,,
+VESFN9F3FJY5G4FC,VIP Men Vest Pack of 3,3,qwen2.5:7b,rational,1,8.0,20.0,65.0
+TSHFYWFQMUCGYVUV,Graphic Print Men Round Neck Dark Blue T-Shirt,3,llama3.2,anxious,0,,,
+TSHFYWFQMUCGYVUV,Graphic Print Men Round Neck Dark Blue T-Shirt,3,llama3.2,demanding,0,,,
+TSHFYWFQMUCGYVUV,Graphic Print Men Round Neck Dark Blue T-Shirt,3,llama3.2,economic,1,8.0,15.0,80.0
+TSHFYWFQMUCGYVUV,Graphic Print Men Round Neck Dark Blue T-Shirt,3,llama3.2,impulsive,0,,,
+TSHFYWFQMUCGYVUV,Graphic Print Men Round Neck Dark Blue T-Shirt,3,llama3.2,rational,0,,,
+TSHFYWFQMUCGYVUV,Graphic Print Men Round Neck Dark Blue T-Shirt,3,qwen2.5:7b,anxious,1,8.0,13.0,60.0
+TSHFYWFQMUCGYVUV,Graphic Print Men Round Neck Dark Blue T-Shirt,3,qwen2.5:7b,demanding,1,8.0,25.0,65.0
+TSHFYWFQMUCGYVUV,Graphic Print Men Round Neck Dark Blue T-Shirt,3,qwen2.5:7b,economic,0,,,
+TSHFYWFQMUCGYVUV,Graphic Print Men Round Neck Dark Blue T-Shirt,3,qwen2.5:7b,impulsive,0,,,
+TSHFYWFQMUCGYVUV,Graphic Print Men Round Neck Dark Blue T-Shirt,3,qwen2.5:7b,rational,0,,,
+CTPFBM2GGNGA9NBR,Tripin Stainless Steel Tie Pin Silver,2,llama3.2,anxious,0,,,
+CTPFBM2GGNGA9NBR,Tripin Stainless Steel Tie Pin Silver,2,llama3.2,demanding,0,,,
+CTPFBM2GGNGA9NBR,Tripin Stainless Steel Tie Pin Silver,2,llama3.2,economic,0,,,
+CTPFBM2GGNGA9NBR,Tripin Stainless Steel Tie Pin Silver,2,llama3.2,impulsive,0,,,
+CTPFBM2GGNGA9NBR,Tripin Stainless Steel Tie Pin Silver,2,llama3.2,rational,0,,,
+CTPFBM2GGNGA9NBR,Tripin Stainless Steel Tie Pin Silver,2,qwen2.5:7b,anxious,0,,,
+CTPFBM2GGNGA9NBR,Tripin Stainless Steel Tie Pin Silver,2,qwen2.5:7b,demanding,0,,,
+CTPFBM2GGNGA9NBR,Tripin Stainless Steel Tie Pin Silver,2,qwen2.5:7b,economic,1,8.0,5.0,60.0
+CTPFBM2GGNGA9NBR,Tripin Stainless Steel Tie Pin Silver,2,qwen2.5:7b,impulsive,1,8.0,23.0,90.0
+CTPFBM2GGNGA9NBR,Tripin Stainless Steel Tie Pin Silver,2,qwen2.5:7b,rational,0,,,
+DHTFZYFZGCZFJYBS,Mps Striped Men Dhoti,2,llama3.2,anxious,0,,,
+DHTFZYFZGCZFJYBS,Mps Striped Men Dhoti,2,llama3.2,demanding,0,,,
+DHTFZYFZGCZFJYBS,Mps Striped Men Dhoti,2,llama3.2,economic,0,,,
+DHTFZYFZGCZFJYBS,Mps Striped Men Dhoti,2,llama3.2,impulsive,1,8.0,2.0,100.0
+DHTFZYFZGCZFJYBS,Mps Striped Men Dhoti,2,llama3.2,rational,0,,,
+DHTFZYFZGCZFJYBS,Mps Striped Men Dhoti,2,qwen2.5:7b,anxious,0,,,
+DHTFZYFZGCZFJYBS,Mps Striped Men Dhoti,2,qwen2.5:7b,demanding,0,,,
+DHTFZYFZGCZFJYBS,Mps Striped Men Dhoti,2,qwen2.5:7b,economic,0,,,
+DHTFZYFZGCZFJYBS,Mps Striped Men Dhoti,2,qwen2.5:7b,impulsive,1,8.0,17.0,90.0
+DHTFZYFZGCZFJYBS,Mps Striped Men Dhoti,2,qwen2.5:7b,rational,0,,,
+HKFFUG57ZW6KWUCX,Cotson Premium Cotton Handkerchief for Men Red Handkerchief Pack of 12,2,llama3.2,anxious,0,,,
+HKFFUG57ZW6KWUCX,Cotson Premium Cotton Handkerchief for Men Red Handkerchief Pack of 12,2,llama3.2,demanding,0,,,
+HKFFUG57ZW6KWUCX,Cotson Premium Cotton Handkerchief for Men Red Handkerchief Pack of 12,2,llama3.2,economic,0,,,
+HKFFUG57ZW6KWUCX,Cotson Premium Cotton Handkerchief for Men Red Handkerchief Pack of 12,2,llama3.2,impulsive,1,8.0,29.0,100.0
+HKFFUG57ZW6KWUCX,Cotson Premium Cotton Handkerchief for Men Red Handkerchief Pack of 12,2,llama3.2,rational,0,,,
+HKFFUG57ZW6KWUCX,Cotson Premium Cotton Handkerchief for Men Red Handkerchief Pack of 12,2,qwen2.5:7b,anxious,0,,,
+HKFFUG57ZW6KWUCX,Cotson Premium Cotton Handkerchief for Men Red Handkerchief Pack of 12,2,qwen2.5:7b,demanding,1,8.0,20.0,60.0
+HKFFUG57ZW6KWUCX,Cotson Premium Cotton Handkerchief for Men Red Handkerchief Pack of 12,2,qwen2.5:7b,economic,0,,,
+HKFFUG57ZW6KWUCX,Cotson Premium Cotton Handkerchief for Men Red Handkerchief Pack of 12,2,qwen2.5:7b,impulsive,0,,,
+HKFFUG57ZW6KWUCX,Cotson Premium Cotton Handkerchief for Men Red Handkerchief Pack of 12,2,qwen2.5:7b,rational,0,,,
+TSHFVWQUKSE3YBH4,Typography Men Round Neck White T-Shirt,2,llama3.2,anxious,0,,,
+TSHFVWQUKSE3YBH4,Typography Men Round Neck White T-Shirt,2,llama3.2,demanding,0,,,
+TSHFVWQUKSE3YBH4,Typography Men Round Neck White T-Shirt,2,llama3.2,economic,0,,,
+TSHFVWQUKSE3YBH4,Typography Men Round Neck White T-Shirt,2,llama3.2,impulsive,0,,,
+TSHFVWQUKSE3YBH4,Typography Men Round Neck White T-Shirt,2,llama3.2,rational,0,,,
+TSHFVWQUKSE3YBH4,Typography Men Round Neck White T-Shirt,2,qwen2.5:7b,anxious,0,,,
+TSHFVWQUKSE3YBH4,Typography Men Round Neck White T-Shirt,2,qwen2.5:7b,demanding,0,,,
+TSHFVWQUKSE3YBH4,Typography Men Round Neck White T-Shirt,2,qwen2.5:7b,economic,0,,,
+TSHFVWQUKSE3YBH4,Typography Men Round Neck White T-Shirt,2,qwen2.5:7b,impulsive,1,9.0,9.0,85.0
+TSHFVWQUKSE3YBH4,Typography Men Round Neck White T-Shirt,2,qwen2.5:7b,rational,1,8.0,28.0,65.0
+TSHFQ37HHHGHHHBJ,Printed Men Round Neck Black T-Shirt,2,llama3.2,anxious,1,8.0,28.0,60.0
+TSHFQ37HHHGHHHBJ,Printed Men Round Neck Black T-Shirt,2,llama3.2,demanding,0,,,
+TSHFQ37HHHGHHHBJ,Printed Men Round Neck Black T-Shirt,2,llama3.2,economic,1,8.0,21.0,60.0
+TSHFQ37HHHGHHHBJ,Printed Men Round Neck Black T-Shirt,2,llama3.2,impulsive,0,,,
+TSHFQ37HHHGHHHBJ,Printed Men Round Neck Black T-Shirt,2,llama3.2,rational,0,,,
+TSHFQ37HHHGHHHBJ,Printed Men Round Neck Black T-Shirt,2,qwen2.5:7b,anxious,0,,,
+TSHFQ37HHHGHHHBJ,Printed Men Round Neck Black T-Shirt,2,qwen2.5:7b,demanding,0,,,
+TSHFQ37HHHGHHHBJ,Printed Men Round Neck Black T-Shirt,2,qwen2.5:7b,economic,0,,,
+TSHFQ37HHHGHHHBJ,Printed Men Round Neck Black T-Shirt,2,qwen2.5:7b,impulsive,0,,,
+TSHFQ37HHHGHHHBJ,Printed Men Round Neck Black T-Shirt,2,qwen2.5:7b,rational,0,,,
+TSHFDT664Q5KTZ4A,Solid Men Round Neck Dark Blue T-Shirt,2,llama3.2,anxious,0,,,
+TSHFDT664Q5KTZ4A,Solid Men Round Neck Dark Blue T-Shirt,2,llama3.2,demanding,0,,,
+TSHFDT664Q5KTZ4A,Solid Men Round Neck Dark Blue T-Shirt,2,llama3.2,economic,1,8.0,23.0,60.0
+TSHFDT664Q5KTZ4A,Solid Men Round Neck Dark Blue T-Shirt,2,llama3.2,impulsive,0,,,
+TSHFDT664Q5KTZ4A,Solid Men Round Neck Dark Blue T-Shirt,2,llama3.2,rational,1,8.0,22.0,60.0
+TSHFDT664Q5KTZ4A,Solid Men Round Neck Dark Blue T-Shirt,2,qwen2.5:7b,anxious,0,,,
+TSHFDT664Q5KTZ4A,Solid Men Round Neck Dark Blue T-Shirt,2,qwen2.5:7b,demanding,0,,,
+TSHFDT664Q5KTZ4A,Solid Men Round Neck Dark Blue T-Shirt,2,qwen2.5:7b,economic,0,,,
+TSHFDT664Q5KTZ4A,Solid Men Round Neck Dark Blue T-Shirt,2,qwen2.5:7b,impulsive,0,,,
+TSHFDT664Q5KTZ4A,Solid Men Round Neck Dark Blue T-Shirt,2,qwen2.5:7b,rational,0,,,
+TSHFUH9ZFFUYDM9Z,Printed Men Round Neck Grey T-Shirt,2,llama3.2,anxious,0,,,
+TSHFUH9ZFFUYDM9Z,Printed Men Round Neck Grey T-Shirt,2,llama3.2,demanding,1,8.0,14.0,50.0
+TSHFUH9ZFFUYDM9Z,Printed Men Round Neck Grey T-Shirt,2,llama3.2,economic,0,,,
+TSHFUH9ZFFUYDM9Z,Printed Men Round Neck Grey T-Shirt,2,llama3.2,impulsive,1,8.0,17.0,100.0
+TSHFUH9ZFFUYDM9Z,Printed Men Round Neck Grey T-Shirt,2,llama3.2,rational,0,,,
+TSHFUH9ZFFUYDM9Z,Printed Men Round Neck Grey T-Shirt,2,qwen2.5:7b,anxious,0,,,
+TSHFUH9ZFFUYDM9Z,Printed Men Round Neck Grey T-Shirt,2,qwen2.5:7b,demanding,0,,,
+TSHFUH9ZFFUYDM9Z,Printed Men Round Neck Grey T-Shirt,2,qwen2.5:7b,economic,0,,,
+TSHFUH9ZFFUYDM9Z,Printed Men Round Neck Grey T-Shirt,2,qwen2.5:7b,impulsive,0,,,
+TSHFUH9ZFFUYDM9Z,Printed Men Round Neck Grey T-Shirt,2,qwen2.5:7b,rational,0,,,
+TSHF2DZ6NMBSVBKB,Solid Men Round Neck Grey T-Shirt,2,llama3.2,anxious,0,,,
+TSHF2DZ6NMBSVBKB,Solid Men Round Neck Grey T-Shirt,2,llama3.2,demanding,0,,,
+TSHF2DZ6NMBSVBKB,Solid Men Round Neck Grey T-Shirt,2,llama3.2,economic,0,,,
+TSHF2DZ6NMBSVBKB,Solid Men Round Neck Grey T-Shirt,2,llama3.2,impulsive,1,8.0,6.0,100.0
+TSHF2DZ6NMBSVBKB,Solid Men Round Neck Grey T-Shirt,2,llama3.2,rational,0,,,
+TSHF2DZ6NMBSVBKB,Solid Men Round Neck Grey T-Shirt,2,qwen2.5:7b,anxious,0,,,
+TSHF2DZ6NMBSVBKB,Solid Men Round Neck Grey T-Shirt,2,qwen2.5:7b,demanding,0,,,
+TSHF2DZ6NMBSVBKB,Solid Men Round Neck Grey T-Shirt,2,qwen2.5:7b,economic,0,,,
+TSHF2DZ6NMBSVBKB,Solid Men Round Neck Grey T-Shirt,2,qwen2.5:7b,impulsive,1,8.0,25.0,90.0
+TSHF2DZ6NMBSVBKB,Solid Men Round Neck Grey T-Shirt,2,qwen2.5:7b,rational,0,,,
+NSTFUYHQW7K5FUFT,Men Solid Multicolor Top Pyjama Set,2,llama3.2,anxious,0,,,
+NSTFUYHQW7K5FUFT,Men Solid Multicolor Top Pyjama Set,2,llama3.2,demanding,0,,,
+NSTFUYHQW7K5FUFT,Men Solid Multicolor Top Pyjama Set,2,llama3.2,economic,0,,,
+NSTFUYHQW7K5FUFT,Men Solid Multicolor Top Pyjama Set,2,llama3.2,impulsive,0,,,
+NSTFUYHQW7K5FUFT,Men Solid Multicolor Top Pyjama Set,2,llama3.2,rational,1,8.0,27.0,70.0
+NSTFUYHQW7K5FUFT,Men Solid Multicolor Top Pyjama Set,2,qwen2.5:7b,anxious,1,8.0,29.0,60.0
+NSTFUYHQW7K5FUFT,Men Solid Multicolor Top Pyjama Set,2,qwen2.5:7b,demanding,0,,,
+NSTFUYHQW7K5FUFT,Men Solid Multicolor Top Pyjama Set,2,qwen2.5:7b,economic,0,,,
+NSTFUYHQW7K5FUFT,Men Solid Multicolor Top Pyjama Set,2,qwen2.5:7b,impulsive,0,,,
+NSTFUYHQW7K5FUFT,Men Solid Multicolor Top Pyjama Set,2,qwen2.5:7b,rational,0,,,
+TSHFWMRVHM3RXYUQ,Printed Men Round Neck Black T-Shirt,2,llama3.2,anxious,0,,,
+TSHFWMRVHM3RXYUQ,Printed Men Round Neck Black T-Shirt,2,llama3.2,demanding,0,,,
+TSHFWMRVHM3RXYUQ,Printed Men Round Neck Black T-Shirt,2,llama3.2,economic,1,8.0,17.0,50.0
+TSHFWMRVHM3RXYUQ,Printed Men Round Neck Black T-Shirt,2,llama3.2,impulsive,0,,,
+TSHFWMRVHM3RXYUQ,Printed Men Round Neck Black T-Shirt,2,llama3.2,rational,0,,,
+TSHFWMRVHM3RXYUQ,Printed Men Round Neck Black T-Shirt,2,qwen2.5:7b,anxious,0,,,
+TSHFWMRVHM3RXYUQ,Printed Men Round Neck Black T-Shirt,2,qwen2.5:7b,demanding,0,,,
+TSHFWMRVHM3RXYUQ,Printed Men Round Neck Black T-Shirt,2,qwen2.5:7b,economic,0,,,
+TSHFWMRVHM3RXYUQ,Printed Men Round Neck Black T-Shirt,2,qwen2.5:7b,impulsive,0,,,
+TSHFWMRVHM3RXYUQ,Printed Men Round Neck Black T-Shirt,2,qwen2.5:7b,rational,1,8.0,12.0,60.0
+BRFFMUKDBU3DDZZ9,Men Brief Pack of 12,2,llama3.2,anxious,0,,,
+BRFFMUKDBU3DDZZ9,Men Brief Pack of 12,2,llama3.2,demanding,0,,,
+BRFFMUKDBU3DDZZ9,Men Brief Pack of 12,2,llama3.2,economic,0,,,
+BRFFMUKDBU3DDZZ9,Men Brief Pack of 12,2,llama3.2,impulsive,0,,,
+BRFFMUKDBU3DDZZ9,Men Brief Pack of 12,2,llama3.2,rational,1,8.0,28.0,60.0
+BRFFMUKDBU3DDZZ9,Men Brief Pack of 12,2,qwen2.5:7b,anxious,0,,,
+BRFFMUKDBU3DDZZ9,Men Brief Pack of 12,2,qwen2.5:7b,demanding,0,,,
+BRFFMUKDBU3DDZZ9,Men Brief Pack of 12,2,qwen2.5:7b,economic,0,,,
+BRFFMUKDBU3DDZZ9,Men Brief Pack of 12,2,qwen2.5:7b,impulsive,0,,,
+BRFFMUKDBU3DDZZ9,Men Brief Pack of 12,2,qwen2.5:7b,rational,1,8.0,24.0,60.0
+TSHFVYHATEUHCF3W,Solid Men Round Neck Yellow T-Shirt,2,llama3.2,anxious,0,,,
+TSHFVYHATEUHCF3W,Solid Men Round Neck Yellow T-Shirt,2,llama3.2,demanding,0,,,
+TSHFVYHATEUHCF3W,Solid Men Round Neck Yellow T-Shirt,2,llama3.2,economic,1,8.0,11.0,60.0
+TSHFVYHATEUHCF3W,Solid Men Round Neck Yellow T-Shirt,2,llama3.2,impulsive,1,8.0,28.0,80.0
+TSHFVYHATEUHCF3W,Solid Men Round Neck Yellow T-Shirt,2,llama3.2,rational,0,,,
+TSHFVYHATEUHCF3W,Solid Men Round Neck Yellow T-Shirt,2,qwen2.5:7b,anxious,0,,,
+TSHFVYHATEUHCF3W,Solid Men Round Neck Yellow T-Shirt,2,qwen2.5:7b,demanding,0,,,
+TSHFVYHATEUHCF3W,Solid Men Round Neck Yellow T-Shirt,2,qwen2.5:7b,economic,0,,,
+TSHFVYHATEUHCF3W,Solid Men Round Neck Yellow T-Shirt,2,qwen2.5:7b,impulsive,0,,,
+TSHFVYHATEUHCF3W,Solid Men Round Neck Yellow T-Shirt,2,qwen2.5:7b,rational,0,,,
+TSHFY24P2NUSRAZN,Printed Men Round Neck Multicolor T-Shirt Pack of 2,2,llama3.2,anxious,1,8.0,17.0,80.0
+TSHFY24P2NUSRAZN,Printed Men Round Neck Multicolor T-Shirt Pack of 2,2,llama3.2,demanding,1,8.0,23.0,80.0
+TSHFY24P2NUSRAZN,Printed Men Round Neck Multicolor T-Shirt Pack of 2,2,llama3.2,economic,0,,,
+TSHFY24P2NUSRAZN,Printed Men Round Neck Multicolor T-Shirt Pack of 2,2,llama3.2,impulsive,0,,,
+TSHFY24P2NUSRAZN,Printed Men Round Neck Multicolor T-Shirt Pack of 2,2,llama3.2,rational,0,,,
+TSHFY24P2NUSRAZN,Printed Men Round Neck Multicolor T-Shirt Pack of 2,2,qwen2.5:7b,anxious,0,,,
+TSHFY24P2NUSRAZN,Printed Men Round Neck Multicolor T-Shirt Pack of 2,2,qwen2.5:7b,demanding,0,,,
+TSHFY24P2NUSRAZN,Printed Men Round Neck Multicolor T-Shirt Pack of 2,2,qwen2.5:7b,economic,0,,,
+TSHFY24P2NUSRAZN,Printed Men Round Neck Multicolor T-Shirt Pack of 2,2,qwen2.5:7b,impulsive,0,,,
+TSHFY24P2NUSRAZN,Printed Men Round Neck Multicolor T-Shirt Pack of 2,2,qwen2.5:7b,rational,0,,,
+TKPFZ3JRZGNUZQEY,Solid Men Black Track Pants,2,llama3.2,anxious,0,,,
+TKPFZ3JRZGNUZQEY,Solid Men Black Track Pants,2,llama3.2,demanding,0,,,
+TKPFZ3JRZGNUZQEY,Solid Men Black Track Pants,2,llama3.2,economic,0,,,
+TKPFZ3JRZGNUZQEY,Solid Men Black Track Pants,2,llama3.2,impulsive,0,,,
+TKPFZ3JRZGNUZQEY,Solid Men Black Track Pants,2,llama3.2,rational,1,8.0,30.0,50.0
+TKPFZ3JRZGNUZQEY,Solid Men Black Track Pants,2,qwen2.5:7b,anxious,0,,,
+TKPFZ3JRZGNUZQEY,Solid Men Black Track Pants,2,qwen2.5:7b,demanding,0,,,
+TKPFZ3JRZGNUZQEY,Solid Men Black Track Pants,2,qwen2.5:7b,economic,0,,,
+TKPFZ3JRZGNUZQEY,Solid Men Black Track Pants,2,qwen2.5:7b,impulsive,0,,,
+TKPFZ3JRZGNUZQEY,Solid Men Black Track Pants,2,qwen2.5:7b,rational,1,8.0,27.0,65.0
+SHTF7YU85HHDMZZM,Men Slim Fit Solid Mandarin Collar Party Shirt,2,llama3.2,anxious,0,,,
+SHTF7YU85HHDMZZM,Men Slim Fit Solid Mandarin Collar Party Shirt,2,llama3.2,demanding,0,,,
+SHTF7YU85HHDMZZM,Men Slim Fit Solid Mandarin Collar Party Shirt,2,llama3.2,economic,0,,,
+SHTF7YU85HHDMZZM,Men Slim Fit Solid Mandarin Collar Party Shirt,2,llama3.2,impulsive,0,,,
+SHTF7YU85HHDMZZM,Men Slim Fit Solid Mandarin Collar Party Shirt,2,llama3.2,rational,0,,,
+SHTF7YU85HHDMZZM,Men Slim Fit Solid Mandarin Collar Party Shirt,2,qwen2.5:7b,anxious,0,,,
+SHTF7YU85HHDMZZM,Men Slim Fit Solid Mandarin Collar Party Shirt,2,qwen2.5:7b,demanding,0,,,
+SHTF7YU85HHDMZZM,Men Slim Fit Solid Mandarin Collar Party Shirt,2,qwen2.5:7b,economic,1,8.0,6.0,65.0
+SHTF7YU85HHDMZZM,Men Slim Fit Solid Mandarin Collar Party Shirt,2,qwen2.5:7b,impulsive,1,8.0,26.0,95.0
+SHTF7YU85HHDMZZM,Men Slim Fit Solid Mandarin Collar Party Shirt,2,qwen2.5:7b,rational,0,,,
+SNDFVJ9HGZHFYQVM,Men Black Sandal,2,llama3.2,anxious,0,,,
+SNDFVJ9HGZHFYQVM,Men Black Sandal,2,llama3.2,demanding,0,,,
+SNDFVJ9HGZHFYQVM,Men Black Sandal,2,llama3.2,economic,1,8.0,29.0,100.0
+SNDFVJ9HGZHFYQVM,Men Black Sandal,2,llama3.2,impulsive,0,,,
+SNDFVJ9HGZHFYQVM,Men Black Sandal,2,llama3.2,rational,1,8.0,25.0,75.0
+SNDFVJ9HGZHFYQVM,Men Black Sandal,2,qwen2.5:7b,anxious,0,,,
+SNDFVJ9HGZHFYQVM,Men Black Sandal,2,qwen2.5:7b,demanding,0,,,
+SNDFVJ9HGZHFYQVM,Men Black Sandal,2,qwen2.5:7b,economic,0,,,
+SNDFVJ9HGZHFYQVM,Men Black Sandal,2,qwen2.5:7b,impulsive,0,,,
+SNDFVJ9HGZHFYQVM,Men Black Sandal,2,qwen2.5:7b,rational,0,,,
+TKPFP8KHSHYDJGPW,Solid Men Multicolor Track Pants,2,llama3.2,anxious,1,8.0,26.0,60.0
+TKPFP8KHSHYDJGPW,Solid Men Multicolor Track Pants,2,llama3.2,demanding,0,,,
+TKPFP8KHSHYDJGPW,Solid Men Multicolor Track Pants,2,llama3.2,economic,1,8.0,20.0,60.0
+TKPFP8KHSHYDJGPW,Solid Men Multicolor Track Pants,2,llama3.2,impulsive,0,,,
+TKPFP8KHSHYDJGPW,Solid Men Multicolor Track Pants,2,llama3.2,rational,0,,,
+TKPFP8KHSHYDJGPW,Solid Men Multicolor Track Pants,2,qwen2.5:7b,anxious,0,,,
+TKPFP8KHSHYDJGPW,Solid Men Multicolor Track Pants,2,qwen2.5:7b,demanding,0,,,
+TKPFP8KHSHYDJGPW,Solid Men Multicolor Track Pants,2,qwen2.5:7b,economic,0,,,
+TKPFP8KHSHYDJGPW,Solid Men Multicolor Track Pants,2,qwen2.5:7b,impulsive,0,,,
+TKPFP8KHSHYDJGPW,Solid Men Multicolor Track Pants,2,qwen2.5:7b,rational,0,,,
+TSHFXZXMFMBZNHZE,"Color Block Men Hooded Neck Black, Yellow T-Shirt",2,llama3.2,anxious,0,,,
+TSHFXZXMFMBZNHZE,"Color Block Men Hooded Neck Black, Yellow T-Shirt",2,llama3.2,demanding,0,,,
+TSHFXZXMFMBZNHZE,"Color Block Men Hooded Neck Black, Yellow T-Shirt",2,llama3.2,economic,1,8.0,25.0,60.0
+TSHFXZXMFMBZNHZE,"Color Block Men Hooded Neck Black, Yellow T-Shirt",2,llama3.2,impulsive,0,,,
+TSHFXZXMFMBZNHZE,"Color Block Men Hooded Neck Black, Yellow T-Shirt",2,llama3.2,rational,0,,,
+TSHFXZXMFMBZNHZE,"Color Block Men Hooded Neck Black, Yellow T-Shirt",2,qwen2.5:7b,anxious,0,,,
+TSHFXZXMFMBZNHZE,"Color Block Men Hooded Neck Black, Yellow T-Shirt",2,qwen2.5:7b,demanding,0,,,
+TSHFXZXMFMBZNHZE,"Color Block Men Hooded Neck Black, Yellow T-Shirt",2,qwen2.5:7b,economic,0,,,
+TSHFXZXMFMBZNHZE,"Color Block Men Hooded Neck Black, Yellow T-Shirt",2,qwen2.5:7b,impulsive,1,9.0,5.0,85.0
+TSHFXZXMFMBZNHZE,"Color Block Men Hooded Neck Black, Yellow T-Shirt",2,qwen2.5:7b,rational,0,,,
+SWSFM8B6K2QZJUFB,Full Sleeve Solid Men Sweatshirt,2,llama3.2,anxious,0,,,
+SWSFM8B6K2QZJUFB,Full Sleeve Solid Men Sweatshirt,2,llama3.2,demanding,1,8.0,10.0,80.0
+SWSFM8B6K2QZJUFB,Full Sleeve Solid Men Sweatshirt,2,llama3.2,economic,0,,,
+SWSFM8B6K2QZJUFB,Full Sleeve Solid Men Sweatshirt,2,llama3.2,impulsive,1,8.0,11.0,75.0
+SWSFM8B6K2QZJUFB,Full Sleeve Solid Men Sweatshirt,2,llama3.2,rational,0,,,
+SWSFM8B6K2QZJUFB,Full Sleeve Solid Men Sweatshirt,2,qwen2.5:7b,anxious,0,,,
+SWSFM8B6K2QZJUFB,Full Sleeve Solid Men Sweatshirt,2,qwen2.5:7b,demanding,0,,,
+SWSFM8B6K2QZJUFB,Full Sleeve Solid Men Sweatshirt,2,qwen2.5:7b,economic,0,,,
+SWSFM8B6K2QZJUFB,Full Sleeve Solid Men Sweatshirt,2,qwen2.5:7b,impulsive,0,,,
+SWSFM8B6K2QZJUFB,Full Sleeve Solid Men Sweatshirt,2,qwen2.5:7b,rational,0,,,
+SHTFNZRGEY73BGAH,Men Regular Fit Solid Formal Shirt,2,llama3.2,anxious,0,,,
+SHTFNZRGEY73BGAH,Men Regular Fit Solid Formal Shirt,2,llama3.2,demanding,0,,,
+SHTFNZRGEY73BGAH,Men Regular Fit Solid Formal Shirt,2,llama3.2,economic,0,,,
+SHTFNZRGEY73BGAH,Men Regular Fit Solid Formal Shirt,2,llama3.2,impulsive,0,,,
+SHTFNZRGEY73BGAH,Men Regular Fit Solid Formal Shirt,2,llama3.2,rational,1,8.0,26.0,60.0
+SHTFNZRGEY73BGAH,Men Regular Fit Solid Formal Shirt,2,qwen2.5:7b,anxious,1,8.0,28.0,65.0
+SHTFNZRGEY73BGAH,Men Regular Fit Solid Formal Shirt,2,qwen2.5:7b,demanding,0,,,
+SHTFNZRGEY73BGAH,Men Regular Fit Solid Formal Shirt,2,qwen2.5:7b,economic,0,,,
+SHTFNZRGEY73BGAH,Men Regular Fit Solid Formal Shirt,2,qwen2.5:7b,impulsive,0,,,
+SHTFNZRGEY73BGAH,Men Regular Fit Solid Formal Shirt,2,qwen2.5:7b,rational,0,,,
+SRTFZ3JZAMDB3CAS,Solid Men Green Sports Shorts,2,llama3.2,anxious,0,,,
+SRTFZ3JZAMDB3CAS,Solid Men Green Sports Shorts,2,llama3.2,demanding,0,,,
+SRTFZ3JZAMDB3CAS,Solid Men Green Sports Shorts,2,llama3.2,economic,1,8.0,12.0,70.0
+SRTFZ3JZAMDB3CAS,Solid Men Green Sports Shorts,2,llama3.2,impulsive,0,,,
+SRTFZ3JZAMDB3CAS,Solid Men Green Sports Shorts,2,llama3.2,rational,1,8.0,15.0,60.0
+SRTFZ3JZAMDB3CAS,Solid Men Green Sports Shorts,2,qwen2.5:7b,anxious,0,,,
+SRTFZ3JZAMDB3CAS,Solid Men Green Sports Shorts,2,qwen2.5:7b,demanding,0,,,
+SRTFZ3JZAMDB3CAS,Solid Men Green Sports Shorts,2,qwen2.5:7b,economic,0,,,
+SRTFZ3JZAMDB3CAS,Solid Men Green Sports Shorts,2,qwen2.5:7b,impulsive,0,,,
+SRTFZ3JZAMDB3CAS,Solid Men Green Sports Shorts,2,qwen2.5:7b,rational,0,,,
+SWSF8922GWPP4QKF,Full Sleeve Self Design Men Sweatshirt,2,llama3.2,anxious,0,,,
+SWSF8922GWPP4QKF,Full Sleeve Self Design Men Sweatshirt,2,llama3.2,demanding,0,,,
+SWSF8922GWPP4QKF,Full Sleeve Self Design Men Sweatshirt,2,llama3.2,economic,0,,,
+SWSF8922GWPP4QKF,Full Sleeve Self Design Men Sweatshirt,2,llama3.2,impulsive,1,8.0,8.0,100.0
+SWSF8922GWPP4QKF,Full Sleeve Self Design Men Sweatshirt,2,llama3.2,rational,0,,,
+SWSF8922GWPP4QKF,Full Sleeve Self Design Men Sweatshirt,2,qwen2.5:7b,anxious,0,,,
+SWSF8922GWPP4QKF,Full Sleeve Self Design Men Sweatshirt,2,qwen2.5:7b,demanding,0,,,
+SWSF8922GWPP4QKF,Full Sleeve Self Design Men Sweatshirt,2,qwen2.5:7b,economic,0,,,
+SWSF8922GWPP4QKF,Full Sleeve Self Design Men Sweatshirt,2,qwen2.5:7b,impulsive,1,8.0,27.0,95.0
+SWSF8922GWPP4QKF,Full Sleeve Self Design Men Sweatshirt,2,qwen2.5:7b,rational,0,,,
+TSHFSPXRGRE5SDYG,Solid Men Round Neck Yellow T-Shirt,1,llama3.2,anxious,0,,,
+TSHFSPXRGRE5SDYG,Solid Men Round Neck Yellow T-Shirt,1,llama3.2,demanding,0,,,
+TSHFSPXRGRE5SDYG,Solid Men Round Neck Yellow T-Shirt,1,llama3.2,economic,0,,,
+TSHFSPXRGRE5SDYG,Solid Men Round Neck Yellow T-Shirt,1,llama3.2,impulsive,0,,,
+TSHFSPXRGRE5SDYG,Solid Men Round Neck Yellow T-Shirt,1,llama3.2,rational,0,,,
+TSHFSPXRGRE5SDYG,Solid Men Round Neck Yellow T-Shirt,1,qwen2.5:7b,anxious,0,,,
+TSHFSPXRGRE5SDYG,Solid Men Round Neck Yellow T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHFSPXRGRE5SDYG,Solid Men Round Neck Yellow T-Shirt,1,qwen2.5:7b,economic,0,,,
+TSHFSPXRGRE5SDYG,Solid Men Round Neck Yellow T-Shirt,1,qwen2.5:7b,impulsive,1,9.0,12.0,85.0
+TSHFSPXRGRE5SDYG,Solid Men Round Neck Yellow T-Shirt,1,qwen2.5:7b,rational,0,,,
+VESFN8F5PANCPHWF,VIP Men Vest Pack of 6,1,llama3.2,anxious,0,,,
+VESFN8F5PANCPHWF,VIP Men Vest Pack of 6,1,llama3.2,demanding,0,,,
+VESFN8F5PANCPHWF,VIP Men Vest Pack of 6,1,llama3.2,economic,1,8.0,30.0,80.0
+VESFN8F5PANCPHWF,VIP Men Vest Pack of 6,1,llama3.2,impulsive,0,,,
+VESFN8F5PANCPHWF,VIP Men Vest Pack of 6,1,llama3.2,rational,0,,,
+VESFN8F5PANCPHWF,VIP Men Vest Pack of 6,1,qwen2.5:7b,anxious,0,,,
+VESFN8F5PANCPHWF,VIP Men Vest Pack of 6,1,qwen2.5:7b,demanding,0,,,
+VESFN8F5PANCPHWF,VIP Men Vest Pack of 6,1,qwen2.5:7b,economic,0,,,
+VESFN8F5PANCPHWF,VIP Men Vest Pack of 6,1,qwen2.5:7b,impulsive,0,,,
+VESFN8F5PANCPHWF,VIP Men Vest Pack of 6,1,qwen2.5:7b,rational,0,,,
+TSHFSPXR5BZMUEC8,Printed Men Round Neck Dark Blue T-Shirt,1,llama3.2,anxious,0,,,
+TSHFSPXR5BZMUEC8,Printed Men Round Neck Dark Blue T-Shirt,1,llama3.2,demanding,0,,,
+TSHFSPXR5BZMUEC8,Printed Men Round Neck Dark Blue T-Shirt,1,llama3.2,economic,0,,,
+TSHFSPXR5BZMUEC8,Printed Men Round Neck Dark Blue T-Shirt,1,llama3.2,impulsive,0,,,
+TSHFSPXR5BZMUEC8,Printed Men Round Neck Dark Blue T-Shirt,1,llama3.2,rational,0,,,
+TSHFSPXR5BZMUEC8,Printed Men Round Neck Dark Blue T-Shirt,1,qwen2.5:7b,anxious,0,,,
+TSHFSPXR5BZMUEC8,Printed Men Round Neck Dark Blue T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHFSPXR5BZMUEC8,Printed Men Round Neck Dark Blue T-Shirt,1,qwen2.5:7b,economic,0,,,
+TSHFSPXR5BZMUEC8,Printed Men Round Neck Dark Blue T-Shirt,1,qwen2.5:7b,impulsive,1,9.0,10.0,85.0
+TSHFSPXR5BZMUEC8,Printed Men Round Neck Dark Blue T-Shirt,1,qwen2.5:7b,rational,0,,,
+VESFKGD9Y5EXQKHK,ATTIITUDE Men Vest,1,llama3.2,anxious,0,,,
+VESFKGD9Y5EXQKHK,ATTIITUDE Men Vest,1,llama3.2,demanding,0,,,
+VESFKGD9Y5EXQKHK,ATTIITUDE Men Vest,1,llama3.2,economic,0,,,
+VESFKGD9Y5EXQKHK,ATTIITUDE Men Vest,1,llama3.2,impulsive,0,,,
+VESFKGD9Y5EXQKHK,ATTIITUDE Men Vest,1,llama3.2,rational,0,,,
+VESFKGD9Y5EXQKHK,ATTIITUDE Men Vest,1,qwen2.5:7b,anxious,1,8.0,23.0,65.0
+VESFKGD9Y5EXQKHK,ATTIITUDE Men Vest,1,qwen2.5:7b,demanding,0,,,
+VESFKGD9Y5EXQKHK,ATTIITUDE Men Vest,1,qwen2.5:7b,economic,0,,,
+VESFKGD9Y5EXQKHK,ATTIITUDE Men Vest,1,qwen2.5:7b,impulsive,0,,,
+VESFKGD9Y5EXQKHK,ATTIITUDE Men Vest,1,qwen2.5:7b,rational,0,,,
+TSHFTX4FQMM5DEM2,Printed Men Round Neck Blue T-Shirt,1,llama3.2,anxious,0,,,
+TSHFTX4FQMM5DEM2,Printed Men Round Neck Blue T-Shirt,1,llama3.2,demanding,0,,,
+TSHFTX4FQMM5DEM2,Printed Men Round Neck Blue T-Shirt,1,llama3.2,economic,0,,,
+TSHFTX4FQMM5DEM2,Printed Men Round Neck Blue T-Shirt,1,llama3.2,impulsive,0,,,
+TSHFTX4FQMM5DEM2,Printed Men Round Neck Blue T-Shirt,1,llama3.2,rational,0,,,
+TSHFTX4FQMM5DEM2,Printed Men Round Neck Blue T-Shirt,1,qwen2.5:7b,anxious,0,,,
+TSHFTX4FQMM5DEM2,Printed Men Round Neck Blue T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHFTX4FQMM5DEM2,Printed Men Round Neck Blue T-Shirt,1,qwen2.5:7b,economic,0,,,
+TSHFTX4FQMM5DEM2,Printed Men Round Neck Blue T-Shirt,1,qwen2.5:7b,impulsive,1,8.0,24.0,90.0
+TSHFTX4FQMM5DEM2,Printed Men Round Neck Blue T-Shirt,1,qwen2.5:7b,rational,0,,,
+TSHFU63CFYRHYKGT,Printed Men Round Neck Multicolor T-Shirt Pack of 3,1,llama3.2,anxious,0,,,
+TSHFU63CFYRHYKGT,Printed Men Round Neck Multicolor T-Shirt Pack of 3,1,llama3.2,demanding,0,,,
+TSHFU63CFYRHYKGT,Printed Men Round Neck Multicolor T-Shirt Pack of 3,1,llama3.2,economic,0,,,
+TSHFU63CFYRHYKGT,Printed Men Round Neck Multicolor T-Shirt Pack of 3,1,llama3.2,impulsive,0,,,
+TSHFU63CFYRHYKGT,Printed Men Round Neck Multicolor T-Shirt Pack of 3,1,llama3.2,rational,0,,,
+TSHFU63CFYRHYKGT,Printed Men Round Neck Multicolor T-Shirt Pack of 3,1,qwen2.5:7b,anxious,0,,,
+TSHFU63CFYRHYKGT,Printed Men Round Neck Multicolor T-Shirt Pack of 3,1,qwen2.5:7b,demanding,0,,,
+TSHFU63CFYRHYKGT,Printed Men Round Neck Multicolor T-Shirt Pack of 3,1,qwen2.5:7b,economic,0,,,
+TSHFU63CFYRHYKGT,Printed Men Round Neck Multicolor T-Shirt Pack of 3,1,qwen2.5:7b,impulsive,1,8.0,20.0,90.0
+TSHFU63CFYRHYKGT,Printed Men Round Neck Multicolor T-Shirt Pack of 3,1,qwen2.5:7b,rational,0,,,
+TSHFYY3Z9R2NHVGJ,Printed Men Henley Neck Black T-Shirt,1,llama3.2,anxious,0,,,
+TSHFYY3Z9R2NHVGJ,Printed Men Henley Neck Black T-Shirt,1,llama3.2,demanding,0,,,
+TSHFYY3Z9R2NHVGJ,Printed Men Henley Neck Black T-Shirt,1,llama3.2,economic,1,8.0,16.0,80.0
+TSHFYY3Z9R2NHVGJ,Printed Men Henley Neck Black T-Shirt,1,llama3.2,impulsive,0,,,
+TSHFYY3Z9R2NHVGJ,Printed Men Henley Neck Black T-Shirt,1,llama3.2,rational,0,,,
+TSHFYY3Z9R2NHVGJ,Printed Men Henley Neck Black T-Shirt,1,qwen2.5:7b,anxious,0,,,
+TSHFYY3Z9R2NHVGJ,Printed Men Henley Neck Black T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHFYY3Z9R2NHVGJ,Printed Men Henley Neck Black T-Shirt,1,qwen2.5:7b,economic,0,,,
+TSHFYY3Z9R2NHVGJ,Printed Men Henley Neck Black T-Shirt,1,qwen2.5:7b,impulsive,0,,,
+TSHFYY3Z9R2NHVGJ,Printed Men Henley Neck Black T-Shirt,1,qwen2.5:7b,rational,0,,,
+TSHFUF5SDEUQNY96,Solid Men Round Neck Black T-Shirt,1,llama3.2,anxious,0,,,
+TSHFUF5SDEUQNY96,Solid Men Round Neck Black T-Shirt,1,llama3.2,demanding,1,8.5,2.0,100.0
+TSHFUF5SDEUQNY96,Solid Men Round Neck Black T-Shirt,1,llama3.2,economic,0,,,
+TSHFUF5SDEUQNY96,Solid Men Round Neck Black T-Shirt,1,llama3.2,impulsive,0,,,
+TSHFUF5SDEUQNY96,Solid Men Round Neck Black T-Shirt,1,llama3.2,rational,0,,,
+TSHFUF5SDEUQNY96,Solid Men Round Neck Black T-Shirt,1,qwen2.5:7b,anxious,0,,,
+TSHFUF5SDEUQNY96,Solid Men Round Neck Black T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHFUF5SDEUQNY96,Solid Men Round Neck Black T-Shirt,1,qwen2.5:7b,economic,0,,,
+TSHFUF5SDEUQNY96,Solid Men Round Neck Black T-Shirt,1,qwen2.5:7b,impulsive,0,,,
+TSHFUF5SDEUQNY96,Solid Men Round Neck Black T-Shirt,1,qwen2.5:7b,rational,0,,,
+TSHFZ5BF8FDR9HQC,Solid Men Collared Neck Yellow T-Shirt,1,llama3.2,anxious,1,8.0,24.0,80.0
+TSHFZ5BF8FDR9HQC,Solid Men Collared Neck Yellow T-Shirt,1,llama3.2,demanding,0,,,
+TSHFZ5BF8FDR9HQC,Solid Men Collared Neck Yellow T-Shirt,1,llama3.2,economic,0,,,
+TSHFZ5BF8FDR9HQC,Solid Men Collared Neck Yellow T-Shirt,1,llama3.2,impulsive,0,,,
+TSHFZ5BF8FDR9HQC,Solid Men Collared Neck Yellow T-Shirt,1,llama3.2,rational,0,,,
+TSHFZ5BF8FDR9HQC,Solid Men Collared Neck Yellow T-Shirt,1,qwen2.5:7b,anxious,0,,,
+TSHFZ5BF8FDR9HQC,Solid Men Collared Neck Yellow T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHFZ5BF8FDR9HQC,Solid Men Collared Neck Yellow T-Shirt,1,qwen2.5:7b,economic,0,,,
+TSHFZ5BF8FDR9HQC,Solid Men Collared Neck Yellow T-Shirt,1,qwen2.5:7b,impulsive,0,,,
+TSHFZ5BF8FDR9HQC,Solid Men Collared Neck Yellow T-Shirt,1,qwen2.5:7b,rational,0,,,
+TSHFW7F3FMEMUSX2,"Solid Men Polo Neck Yellow, Orange T-Shirt Pack of 2",1,llama3.2,anxious,0,,,
+TSHFW7F3FMEMUSX2,"Solid Men Polo Neck Yellow, Orange T-Shirt Pack of 2",1,llama3.2,demanding,1,8.0,27.0,50.0
+TSHFW7F3FMEMUSX2,"Solid Men Polo Neck Yellow, Orange T-Shirt Pack of 2",1,llama3.2,economic,0,,,
+TSHFW7F3FMEMUSX2,"Solid Men Polo Neck Yellow, Orange T-Shirt Pack of 2",1,llama3.2,impulsive,0,,,
+TSHFW7F3FMEMUSX2,"Solid Men Polo Neck Yellow, Orange T-Shirt Pack of 2",1,llama3.2,rational,0,,,
+TSHFW7F3FMEMUSX2,"Solid Men Polo Neck Yellow, Orange T-Shirt Pack of 2",1,qwen2.5:7b,anxious,0,,,
+TSHFW7F3FMEMUSX2,"Solid Men Polo Neck Yellow, Orange T-Shirt Pack of 2",1,qwen2.5:7b,demanding,0,,,
+TSHFW7F3FMEMUSX2,"Solid Men Polo Neck Yellow, Orange T-Shirt Pack of 2",1,qwen2.5:7b,economic,0,,,
+TSHFW7F3FMEMUSX2,"Solid Men Polo Neck Yellow, Orange T-Shirt Pack of 2",1,qwen2.5:7b,impulsive,0,,,
+TSHFW7F3FMEMUSX2,"Solid Men Polo Neck Yellow, Orange T-Shirt Pack of 2",1,qwen2.5:7b,rational,0,,,
+TSHFV9YU6KVGNTKF,Solid Men Round Neck Dark Blue T-Shirt,1,llama3.2,anxious,0,,,
+TSHFV9YU6KVGNTKF,Solid Men Round Neck Dark Blue T-Shirt,1,llama3.2,demanding,0,,,
+TSHFV9YU6KVGNTKF,Solid Men Round Neck Dark Blue T-Shirt,1,llama3.2,economic,1,8.0,24.0,90.0
+TSHFV9YU6KVGNTKF,Solid Men Round Neck Dark Blue T-Shirt,1,llama3.2,impulsive,0,,,
+TSHFV9YU6KVGNTKF,Solid Men Round Neck Dark Blue T-Shirt,1,llama3.2,rational,0,,,
+TSHFV9YU6KVGNTKF,Solid Men Round Neck Dark Blue T-Shirt,1,qwen2.5:7b,anxious,0,,,
+TSHFV9YU6KVGNTKF,Solid Men Round Neck Dark Blue T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHFV9YU6KVGNTKF,Solid Men Round Neck Dark Blue T-Shirt,1,qwen2.5:7b,economic,0,,,
+TSHFV9YU6KVGNTKF,Solid Men Round Neck Dark Blue T-Shirt,1,qwen2.5:7b,impulsive,0,,,
+TSHFV9YU6KVGNTKF,Solid Men Round Neck Dark Blue T-Shirt,1,qwen2.5:7b,rational,0,,,
+TSHFY24Q875XUHDZ,Graphic Print Men Round Neck Multicolor T-Shirt Pack of 2,1,llama3.2,anxious,0,,,
+TSHFY24Q875XUHDZ,Graphic Print Men Round Neck Multicolor T-Shirt Pack of 2,1,llama3.2,demanding,0,,,
+TSHFY24Q875XUHDZ,Graphic Print Men Round Neck Multicolor T-Shirt Pack of 2,1,llama3.2,economic,0,,,
+TSHFY24Q875XUHDZ,Graphic Print Men Round Neck Multicolor T-Shirt Pack of 2,1,llama3.2,impulsive,0,,,
+TSHFY24Q875XUHDZ,Graphic Print Men Round Neck Multicolor T-Shirt Pack of 2,1,llama3.2,rational,0,,,
+TSHFY24Q875XUHDZ,Graphic Print Men Round Neck Multicolor T-Shirt Pack of 2,1,qwen2.5:7b,anxious,0,,,
+TSHFY24Q875XUHDZ,Graphic Print Men Round Neck Multicolor T-Shirt Pack of 2,1,qwen2.5:7b,demanding,0,,,
+TSHFY24Q875XUHDZ,Graphic Print Men Round Neck Multicolor T-Shirt Pack of 2,1,qwen2.5:7b,economic,0,,,
+TSHFY24Q875XUHDZ,Graphic Print Men Round Neck Multicolor T-Shirt Pack of 2,1,qwen2.5:7b,impulsive,0,,,
+TSHFY24Q875XUHDZ,Graphic Print Men Round Neck Multicolor T-Shirt Pack of 2,1,qwen2.5:7b,rational,1,8.0,25.0,60.0
+TSHFWYWDM7PCZGVQ,Printed Men Round Neck Green T-Shirt,1,llama3.2,anxious,0,,,
+TSHFWYWDM7PCZGVQ,Printed Men Round Neck Green T-Shirt,1,llama3.2,demanding,0,,,
+TSHFWYWDM7PCZGVQ,Printed Men Round Neck Green T-Shirt,1,llama3.2,economic,0,,,
+TSHFWYWDM7PCZGVQ,Printed Men Round Neck Green T-Shirt,1,llama3.2,impulsive,0,,,
+TSHFWYWDM7PCZGVQ,Printed Men Round Neck Green T-Shirt,1,llama3.2,rational,0,,,
+TSHFWYWDM7PCZGVQ,Printed Men Round Neck Green T-Shirt,1,qwen2.5:7b,anxious,0,,,
+TSHFWYWDM7PCZGVQ,Printed Men Round Neck Green T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHFWYWDM7PCZGVQ,Printed Men Round Neck Green T-Shirt,1,qwen2.5:7b,economic,1,8.0,13.0,70.0
+TSHFWYWDM7PCZGVQ,Printed Men Round Neck Green T-Shirt,1,qwen2.5:7b,impulsive,0,,,
+TSHFWYWDM7PCZGVQ,Printed Men Round Neck Green T-Shirt,1,qwen2.5:7b,rational,0,,,
+TSHEGAWGSHXYAZ6Z,Solid Men Round Neck Brown T-Shirt,1,llama3.2,anxious,0,,,
+TSHEGAWGSHXYAZ6Z,Solid Men Round Neck Brown T-Shirt,1,llama3.2,demanding,0,,,
+TSHEGAWGSHXYAZ6Z,Solid Men Round Neck Brown T-Shirt,1,llama3.2,economic,0,,,
+TSHEGAWGSHXYAZ6Z,Solid Men Round Neck Brown T-Shirt,1,llama3.2,impulsive,0,,,
+TSHEGAWGSHXYAZ6Z,Solid Men Round Neck Brown T-Shirt,1,llama3.2,rational,0,,,
+TSHEGAWGSHXYAZ6Z,Solid Men Round Neck Brown T-Shirt,1,qwen2.5:7b,anxious,0,,,
+TSHEGAWGSHXYAZ6Z,Solid Men Round Neck Brown T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHEGAWGSHXYAZ6Z,Solid Men Round Neck Brown T-Shirt,1,qwen2.5:7b,economic,1,8.0,27.0,65.0
+TSHEGAWGSHXYAZ6Z,Solid Men Round Neck Brown T-Shirt,1,qwen2.5:7b,impulsive,0,,,
+TSHEGAWGSHXYAZ6Z,Solid Men Round Neck Brown T-Shirt,1,qwen2.5:7b,rational,0,,,
+TSHFSA794HV3GJ5Z,Printed Men Round Neck White T-Shirt,1,llama3.2,anxious,0,,,
+TSHFSA794HV3GJ5Z,Printed Men Round Neck White T-Shirt,1,llama3.2,demanding,0,,,
+TSHFSA794HV3GJ5Z,Printed Men Round Neck White T-Shirt,1,llama3.2,economic,1,8.0,26.0,80.0
+TSHFSA794HV3GJ5Z,Printed Men Round Neck White T-Shirt,1,llama3.2,impulsive,0,,,
+TSHFSA794HV3GJ5Z,Printed Men Round Neck White T-Shirt,1,llama3.2,rational,0,,,
+TSHFSA794HV3GJ5Z,Printed Men Round Neck White T-Shirt,1,qwen2.5:7b,anxious,0,,,
+TSHFSA794HV3GJ5Z,Printed Men Round Neck White T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHFSA794HV3GJ5Z,Printed Men Round Neck White T-Shirt,1,qwen2.5:7b,economic,0,,,
+TSHFSA794HV3GJ5Z,Printed Men Round Neck White T-Shirt,1,qwen2.5:7b,impulsive,0,,,
+TSHFSA794HV3GJ5Z,Printed Men Round Neck White T-Shirt,1,qwen2.5:7b,rational,0,,,
+SHTFZTRRMYSXTV74,Men Regular Fit Solid Formal Shirt,1,llama3.2,anxious,0,,,
+SHTFZTRRMYSXTV74,Men Regular Fit Solid Formal Shirt,1,llama3.2,demanding,0,,,
+SHTFZTRRMYSXTV74,Men Regular Fit Solid Formal Shirt,1,llama3.2,economic,0,,,
+SHTFZTRRMYSXTV74,Men Regular Fit Solid Formal Shirt,1,llama3.2,impulsive,0,,,
+SHTFZTRRMYSXTV74,Men Regular Fit Solid Formal Shirt,1,llama3.2,rational,0,,,
+SHTFZTRRMYSXTV74,Men Regular Fit Solid Formal Shirt,1,qwen2.5:7b,anxious,0,,,
+SHTFZTRRMYSXTV74,Men Regular Fit Solid Formal Shirt,1,qwen2.5:7b,demanding,0,,,
+SHTFZTRRMYSXTV74,Men Regular Fit Solid Formal Shirt,1,qwen2.5:7b,economic,1,8.0,15.0,65.0
+SHTFZTRRMYSXTV74,Men Regular Fit Solid Formal Shirt,1,qwen2.5:7b,impulsive,0,,,
+SHTFZTRRMYSXTV74,Men Regular Fit Solid Formal Shirt,1,qwen2.5:7b,rational,0,,,
+BXRFM6KHJ2ZWWKCG,Printed Men Boxer Pack of 2,1,llama3.2,anxious,0,,,
+BXRFM6KHJ2ZWWKCG,Printed Men Boxer Pack of 2,1,llama3.2,demanding,0,,,
+BXRFM6KHJ2ZWWKCG,Printed Men Boxer Pack of 2,1,llama3.2,economic,0,,,
+BXRFM6KHJ2ZWWKCG,Printed Men Boxer Pack of 2,1,llama3.2,impulsive,0,,,
+BXRFM6KHJ2ZWWKCG,Printed Men Boxer Pack of 2,1,llama3.2,rational,0,,,
+BXRFM6KHJ2ZWWKCG,Printed Men Boxer Pack of 2,1,qwen2.5:7b,anxious,0,,,
+BXRFM6KHJ2ZWWKCG,Printed Men Boxer Pack of 2,1,qwen2.5:7b,demanding,0,,,
+BXRFM6KHJ2ZWWKCG,Printed Men Boxer Pack of 2,1,qwen2.5:7b,economic,0,,,
+BXRFM6KHJ2ZWWKCG,Printed Men Boxer Pack of 2,1,qwen2.5:7b,impulsive,1,8.0,30.0,95.0
+BXRFM6KHJ2ZWWKCG,Printed Men Boxer Pack of 2,1,qwen2.5:7b,rational,0,,,
+BXRFWGB4DMGNF6VZ,Checkered Men Boxer Pack of 3,1,llama3.2,anxious,0,,,
+BXRFWGB4DMGNF6VZ,Checkered Men Boxer Pack of 3,1,llama3.2,demanding,0,,,
+BXRFWGB4DMGNF6VZ,Checkered Men Boxer Pack of 3,1,llama3.2,economic,0,,,
+BXRFWGB4DMGNF6VZ,Checkered Men Boxer Pack of 3,1,llama3.2,impulsive,0,,,
+BXRFWGB4DMGNF6VZ,Checkered Men Boxer Pack of 3,1,llama3.2,rational,1,8.0,18.0,60.0
+BXRFWGB4DMGNF6VZ,Checkered Men Boxer Pack of 3,1,qwen2.5:7b,anxious,0,,,
+BXRFWGB4DMGNF6VZ,Checkered Men Boxer Pack of 3,1,qwen2.5:7b,demanding,0,,,
+BXRFWGB4DMGNF6VZ,Checkered Men Boxer Pack of 3,1,qwen2.5:7b,economic,0,,,
+BXRFWGB4DMGNF6VZ,Checkered Men Boxer Pack of 3,1,qwen2.5:7b,impulsive,0,,,
+BXRFWGB4DMGNF6VZ,Checkered Men Boxer Pack of 3,1,qwen2.5:7b,rational,0,,,
+ETHFYE22SZXXAZKY,Men Kurta and Pyjama Set Pure Cotton,1,llama3.2,anxious,0,,,
+ETHFYE22SZXXAZKY,Men Kurta and Pyjama Set Pure Cotton,1,llama3.2,demanding,0,,,
+ETHFYE22SZXXAZKY,Men Kurta and Pyjama Set Pure Cotton,1,llama3.2,economic,0,,,
+ETHFYE22SZXXAZKY,Men Kurta and Pyjama Set Pure Cotton,1,llama3.2,impulsive,0,,,
+ETHFYE22SZXXAZKY,Men Kurta and Pyjama Set Pure Cotton,1,llama3.2,rational,0,,,
+ETHFYE22SZXXAZKY,Men Kurta and Pyjama Set Pure Cotton,1,qwen2.5:7b,anxious,0,,,
+ETHFYE22SZXXAZKY,Men Kurta and Pyjama Set Pure Cotton,1,qwen2.5:7b,demanding,0,,,
+ETHFYE22SZXXAZKY,Men Kurta and Pyjama Set Pure Cotton,1,qwen2.5:7b,economic,0,,,
+ETHFYE22SZXXAZKY,Men Kurta and Pyjama Set Pure Cotton,1,qwen2.5:7b,impulsive,1,8.0,15.0,90.0
+ETHFYE22SZXXAZKY,Men Kurta and Pyjama Set Pure Cotton,1,qwen2.5:7b,rational,0,,,
+JCKFRP3HZPQNZ9VM,Full Sleeve Printed Men Jacket,1,llama3.2,anxious,0,,,
+JCKFRP3HZPQNZ9VM,Full Sleeve Printed Men Jacket,1,llama3.2,demanding,0,,,
+JCKFRP3HZPQNZ9VM,Full Sleeve Printed Men Jacket,1,llama3.2,economic,1,8.0,10.0,60.0
+JCKFRP3HZPQNZ9VM,Full Sleeve Printed Men Jacket,1,llama3.2,impulsive,0,,,
+JCKFRP3HZPQNZ9VM,Full Sleeve Printed Men Jacket,1,llama3.2,rational,0,,,
+JCKFRP3HZPQNZ9VM,Full Sleeve Printed Men Jacket,1,qwen2.5:7b,anxious,0,,,
+JCKFRP3HZPQNZ9VM,Full Sleeve Printed Men Jacket,1,qwen2.5:7b,demanding,0,,,
+JCKFRP3HZPQNZ9VM,Full Sleeve Printed Men Jacket,1,qwen2.5:7b,economic,0,,,
+JCKFRP3HZPQNZ9VM,Full Sleeve Printed Men Jacket,1,qwen2.5:7b,impulsive,0,,,
+JCKFRP3HZPQNZ9VM,Full Sleeve Printed Men Jacket,1,qwen2.5:7b,rational,0,,,
+KTAFDVG4HGJQMZQK,"Men Solid Cotton Blend Straight Kurta Black, Yellow",1,llama3.2,anxious,0,,,
+KTAFDVG4HGJQMZQK,"Men Solid Cotton Blend Straight Kurta Black, Yellow",1,llama3.2,demanding,0,,,
+KTAFDVG4HGJQMZQK,"Men Solid Cotton Blend Straight Kurta Black, Yellow",1,llama3.2,economic,0,,,
+KTAFDVG4HGJQMZQK,"Men Solid Cotton Blend Straight Kurta Black, Yellow",1,llama3.2,impulsive,0,,,
+KTAFDVG4HGJQMZQK,"Men Solid Cotton Blend Straight Kurta Black, Yellow",1,llama3.2,rational,0,,,
+KTAFDVG4HGJQMZQK,"Men Solid Cotton Blend Straight Kurta Black, Yellow",1,qwen2.5:7b,anxious,0,,,
+KTAFDVG4HGJQMZQK,"Men Solid Cotton Blend Straight Kurta Black, Yellow",1,qwen2.5:7b,demanding,0,,,
+KTAFDVG4HGJQMZQK,"Men Solid Cotton Blend Straight Kurta Black, Yellow",1,qwen2.5:7b,economic,0,,,
+KTAFDVG4HGJQMZQK,"Men Solid Cotton Blend Straight Kurta Black, Yellow",1,qwen2.5:7b,impulsive,1,9.0,11.0,85.0
+KTAFDVG4HGJQMZQK,"Men Solid Cotton Blend Straight Kurta Black, Yellow",1,qwen2.5:7b,rational,0,,,
+SFFFUZB3AYVGD8FM,Slides,1,llama3.2,anxious,0,,,
+SFFFUZB3AYVGD8FM,Slides,1,llama3.2,demanding,0,,,
+SFFFUZB3AYVGD8FM,Slides,1,llama3.2,economic,0,,,
+SFFFUZB3AYVGD8FM,Slides,1,llama3.2,impulsive,1,8.0,25.0,100.0
+SFFFUZB3AYVGD8FM,Slides,1,llama3.2,rational,0,,,
+SFFFUZB3AYVGD8FM,Slides,1,qwen2.5:7b,anxious,0,,,
+SFFFUZB3AYVGD8FM,Slides,1,qwen2.5:7b,demanding,0,,,
+SFFFUZB3AYVGD8FM,Slides,1,qwen2.5:7b,economic,0,,,
+SFFFUZB3AYVGD8FM,Slides,1,qwen2.5:7b,impulsive,0,,,
+SFFFUZB3AYVGD8FM,Slides,1,qwen2.5:7b,rational,0,,,
+SHOFJVXUQYC7WXYP,Loafers For Men Black,1,llama3.2,anxious,0,,,
+SHOFJVXUQYC7WXYP,Loafers For Men Black,1,llama3.2,demanding,0,,,
+SHOFJVXUQYC7WXYP,Loafers For Men Black,1,llama3.2,economic,0,,,
+SHOFJVXUQYC7WXYP,Loafers For Men Black,1,llama3.2,impulsive,0,,,
+SHOFJVXUQYC7WXYP,Loafers For Men Black,1,llama3.2,rational,0,,,
+SHOFJVXUQYC7WXYP,Loafers For Men Black,1,qwen2.5:7b,anxious,0,,,
+SHOFJVXUQYC7WXYP,Loafers For Men Black,1,qwen2.5:7b,demanding,0,,,
+SHOFJVXUQYC7WXYP,Loafers For Men Black,1,qwen2.5:7b,economic,1,8.0,19.0,65.0
+SHOFJVXUQYC7WXYP,Loafers For Men Black,1,qwen2.5:7b,impulsive,0,,,
+SHOFJVXUQYC7WXYP,Loafers For Men Black,1,qwen2.5:7b,rational,0,,,
+SHOFU9EDGSMHWJS6,"VX-7.0 Running Shoes For Men Green, Black",1,llama3.2,anxious,0,,,
+SHOFU9EDGSMHWJS6,"VX-7.0 Running Shoes For Men Green, Black",1,llama3.2,demanding,0,,,
+SHOFU9EDGSMHWJS6,"VX-7.0 Running Shoes For Men Green, Black",1,llama3.2,economic,1,8.2,1.0,60.0
+SHOFU9EDGSMHWJS6,"VX-7.0 Running Shoes For Men Green, Black",1,llama3.2,impulsive,0,,,
+SHOFU9EDGSMHWJS6,"VX-7.0 Running Shoes For Men Green, Black",1,llama3.2,rational,0,,,
+SHOFU9EDGSMHWJS6,"VX-7.0 Running Shoes For Men Green, Black",1,qwen2.5:7b,anxious,0,,,
+SHOFU9EDGSMHWJS6,"VX-7.0 Running Shoes For Men Green, Black",1,qwen2.5:7b,demanding,0,,,
+SHOFU9EDGSMHWJS6,"VX-7.0 Running Shoes For Men Green, Black",1,qwen2.5:7b,economic,0,,,
+SHOFU9EDGSMHWJS6,"VX-7.0 Running Shoes For Men Green, Black",1,qwen2.5:7b,impulsive,0,,,
+SHOFU9EDGSMHWJS6,"VX-7.0 Running Shoes For Men Green, Black",1,qwen2.5:7b,rational,0,,,
+SHTFT26JWJ56GFXA,Men Regular Fit Solid Spread Collar Casual Shirt Pack of 2,1,llama3.2,anxious,0,,,
+SHTFT26JWJ56GFXA,Men Regular Fit Solid Spread Collar Casual Shirt Pack of 2,1,llama3.2,demanding,0,,,
+SHTFT26JWJ56GFXA,Men Regular Fit Solid Spread Collar Casual Shirt Pack of 2,1,llama3.2,economic,0,,,
+SHTFT26JWJ56GFXA,Men Regular Fit Solid Spread Collar Casual Shirt Pack of 2,1,llama3.2,impulsive,0,,,
+SHTFT26JWJ56GFXA,Men Regular Fit Solid Spread Collar Casual Shirt Pack of 2,1,llama3.2,rational,0,,,
+SHTFT26JWJ56GFXA,Men Regular Fit Solid Spread Collar Casual Shirt Pack of 2,1,qwen2.5:7b,anxious,0,,,
+SHTFT26JWJ56GFXA,Men Regular Fit Solid Spread Collar Casual Shirt Pack of 2,1,qwen2.5:7b,demanding,0,,,
+SHTFT26JWJ56GFXA,Men Regular Fit Solid Spread Collar Casual Shirt Pack of 2,1,qwen2.5:7b,economic,1,8.0,29.0,65.0
+SHTFT26JWJ56GFXA,Men Regular Fit Solid Spread Collar Casual Shirt Pack of 2,1,qwen2.5:7b,impulsive,0,,,
+SHTFT26JWJ56GFXA,Men Regular Fit Solid Spread Collar Casual Shirt Pack of 2,1,qwen2.5:7b,rational,0,,,
+SHTFWVZHZSYQZDFT,Men Regular Fit Solid Hood Collar Casual Shirt,1,llama3.2,anxious,0,,,
+SHTFWVZHZSYQZDFT,Men Regular Fit Solid Hood Collar Casual Shirt,1,llama3.2,demanding,0,,,
+SHTFWVZHZSYQZDFT,Men Regular Fit Solid Hood Collar Casual Shirt,1,llama3.2,economic,0,,,
+SHTFWVZHZSYQZDFT,Men Regular Fit Solid Hood Collar Casual Shirt,1,llama3.2,impulsive,0,,,
+SHTFWVZHZSYQZDFT,Men Regular Fit Solid Hood Collar Casual Shirt,1,llama3.2,rational,0,,,
+SHTFWVZHZSYQZDFT,Men Regular Fit Solid Hood Collar Casual Shirt,1,qwen2.5:7b,anxious,0,,,
+SHTFWVZHZSYQZDFT,Men Regular Fit Solid Hood Collar Casual Shirt,1,qwen2.5:7b,demanding,0,,,
+SHTFWVZHZSYQZDFT,Men Regular Fit Solid Hood Collar Casual Shirt,1,qwen2.5:7b,economic,0,,,
+SHTFWVZHZSYQZDFT,Men Regular Fit Solid Hood Collar Casual Shirt,1,qwen2.5:7b,impulsive,1,8.0,16.0,90.0
+SHTFWVZHZSYQZDFT,Men Regular Fit Solid Hood Collar Casual Shirt,1,qwen2.5:7b,rational,0,,,
+SHTFYW6FEVEMCZNT,Men Slim Fit Checkered Casual Shirt,1,llama3.2,anxious,0,,,
+SHTFYW6FEVEMCZNT,Men Slim Fit Checkered Casual Shirt,1,llama3.2,demanding,0,,,
+SHTFYW6FEVEMCZNT,Men Slim Fit Checkered Casual Shirt,1,llama3.2,economic,0,,,
+SHTFYW6FEVEMCZNT,Men Slim Fit Checkered Casual Shirt,1,llama3.2,impulsive,0,,,
+SHTFYW6FEVEMCZNT,Men Slim Fit Checkered Casual Shirt,1,llama3.2,rational,0,,,
+SHTFYW6FEVEMCZNT,Men Slim Fit Checkered Casual Shirt,1,qwen2.5:7b,anxious,0,,,
+SHTFYW6FEVEMCZNT,Men Slim Fit Checkered Casual Shirt,1,qwen2.5:7b,demanding,0,,,
+SHTFYW6FEVEMCZNT,Men Slim Fit Checkered Casual Shirt,1,qwen2.5:7b,economic,0,,,
+SHTFYW6FEVEMCZNT,Men Slim Fit Checkered Casual Shirt,1,qwen2.5:7b,impulsive,1,8.0,19.0,90.0
+SHTFYW6FEVEMCZNT,Men Slim Fit Checkered Casual Shirt,1,qwen2.5:7b,rational,0,,,
+SHTFZFE7AHGZNGQB,Men Regular Fit Solid Spread Collar Party Shirt,1,llama3.2,anxious,0,,,
+SHTFZFE7AHGZNGQB,Men Regular Fit Solid Spread Collar Party Shirt,1,llama3.2,demanding,0,,,
+SHTFZFE7AHGZNGQB,Men Regular Fit Solid Spread Collar Party Shirt,1,llama3.2,economic,0,,,
+SHTFZFE7AHGZNGQB,Men Regular Fit Solid Spread Collar Party Shirt,1,llama3.2,impulsive,0,,,
+SHTFZFE7AHGZNGQB,Men Regular Fit Solid Spread Collar Party Shirt,1,llama3.2,rational,0,,,
+SHTFZFE7AHGZNGQB,Men Regular Fit Solid Spread Collar Party Shirt,1,qwen2.5:7b,anxious,0,,,
+SHTFZFE7AHGZNGQB,Men Regular Fit Solid Spread Collar Party Shirt,1,qwen2.5:7b,demanding,0,,,
+SHTFZFE7AHGZNGQB,Men Regular Fit Solid Spread Collar Party Shirt,1,qwen2.5:7b,economic,0,,,
+SHTFZFE7AHGZNGQB,Men Regular Fit Solid Spread Collar Party Shirt,1,qwen2.5:7b,impulsive,1,8.0,18.0,95.0
+SHTFZFE7AHGZNGQB,Men Regular Fit Solid Spread Collar Party Shirt,1,qwen2.5:7b,rational,0,,,
+SRTFVHS947SYFFXR,Printed Men Black Bermuda Shorts,1,llama3.2,anxious,0,,,
+SRTFVHS947SYFFXR,Printed Men Black Bermuda Shorts,1,llama3.2,demanding,0,,,
+SRTFVHS947SYFFXR,Printed Men Black Bermuda Shorts,1,llama3.2,economic,0,,,
+SRTFVHS947SYFFXR,Printed Men Black Bermuda Shorts,1,llama3.2,impulsive,0,,,
+SRTFVHS947SYFFXR,Printed Men Black Bermuda Shorts,1,llama3.2,rational,0,,,
+SRTFVHS947SYFFXR,Printed Men Black Bermuda Shorts,1,qwen2.5:7b,anxious,0,,,
+SRTFVHS947SYFFXR,Printed Men Black Bermuda Shorts,1,qwen2.5:7b,demanding,0,,,
+SRTFVHS947SYFFXR,Printed Men Black Bermuda Shorts,1,qwen2.5:7b,economic,0,,,
+SRTFVHS947SYFFXR,Printed Men Black Bermuda Shorts,1,qwen2.5:7b,impulsive,1,8.0,21.0,95.0
+SRTFVHS947SYFFXR,Printed Men Black Bermuda Shorts,1,qwen2.5:7b,rational,0,,,
+TSHFHTGWAZUSMYHF,Self Design Men Polo Neck Light Green T-Shirt,1,llama3.2,anxious,0,,,
+TSHFHTGWAZUSMYHF,Self Design Men Polo Neck Light Green T-Shirt,1,llama3.2,demanding,0,,,
+TSHFHTGWAZUSMYHF,Self Design Men Polo Neck Light Green T-Shirt,1,llama3.2,economic,0,,,
+TSHFHTGWAZUSMYHF,Self Design Men Polo Neck Light Green T-Shirt,1,llama3.2,impulsive,0,,,
+TSHFHTGWAZUSMYHF,Self Design Men Polo Neck Light Green T-Shirt,1,llama3.2,rational,0,,,
+TSHFHTGWAZUSMYHF,Self Design Men Polo Neck Light Green T-Shirt,1,qwen2.5:7b,anxious,0,,,
+TSHFHTGWAZUSMYHF,Self Design Men Polo Neck Light Green T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHFHTGWAZUSMYHF,Self Design Men Polo Neck Light Green T-Shirt,1,qwen2.5:7b,economic,1,8.0,16.0,65.0
+TSHFHTGWAZUSMYHF,Self Design Men Polo Neck Light Green T-Shirt,1,qwen2.5:7b,impulsive,0,,,
+TSHFHTGWAZUSMYHF,Self Design Men Polo Neck Light Green T-Shirt,1,qwen2.5:7b,rational,0,,,
+SWSF9W4YHXUXETXV,Full Sleeve Self Design Men Sweatshirt,1,llama3.2,anxious,0,,,
+SWSF9W4YHXUXETXV,Full Sleeve Self Design Men Sweatshirt,1,llama3.2,demanding,1,8.0,16.0,80.0
+SWSF9W4YHXUXETXV,Full Sleeve Self Design Men Sweatshirt,1,llama3.2,economic,0,,,
+SWSF9W4YHXUXETXV,Full Sleeve Self Design Men Sweatshirt,1,llama3.2,impulsive,0,,,
+SWSF9W4YHXUXETXV,Full Sleeve Self Design Men Sweatshirt,1,llama3.2,rational,0,,,
+SWSF9W4YHXUXETXV,Full Sleeve Self Design Men Sweatshirt,1,qwen2.5:7b,anxious,0,,,
+SWSF9W4YHXUXETXV,Full Sleeve Self Design Men Sweatshirt,1,qwen2.5:7b,demanding,0,,,
+SWSF9W4YHXUXETXV,Full Sleeve Self Design Men Sweatshirt,1,qwen2.5:7b,economic,0,,,
+SWSF9W4YHXUXETXV,Full Sleeve Self Design Men Sweatshirt,1,qwen2.5:7b,impulsive,0,,,
+SWSF9W4YHXUXETXV,Full Sleeve Self Design Men Sweatshirt,1,qwen2.5:7b,rational,0,,,
+SWSFJY5ZS7G9ZHQA,Full Sleeve Printed Men Sweatshirt,1,llama3.2,anxious,1,8.0,29.0,60.0
+SWSFJY5ZS7G9ZHQA,Full Sleeve Printed Men Sweatshirt,1,llama3.2,demanding,0,,,
+SWSFJY5ZS7G9ZHQA,Full Sleeve Printed Men Sweatshirt,1,llama3.2,economic,0,,,
+SWSFJY5ZS7G9ZHQA,Full Sleeve Printed Men Sweatshirt,1,llama3.2,impulsive,0,,,
+SWSFJY5ZS7G9ZHQA,Full Sleeve Printed Men Sweatshirt,1,llama3.2,rational,0,,,
+SWSFJY5ZS7G9ZHQA,Full Sleeve Printed Men Sweatshirt,1,qwen2.5:7b,anxious,0,,,
+SWSFJY5ZS7G9ZHQA,Full Sleeve Printed Men Sweatshirt,1,qwen2.5:7b,demanding,0,,,
+SWSFJY5ZS7G9ZHQA,Full Sleeve Printed Men Sweatshirt,1,qwen2.5:7b,economic,0,,,
+SWSFJY5ZS7G9ZHQA,Full Sleeve Printed Men Sweatshirt,1,qwen2.5:7b,impulsive,0,,,
+SWSFJY5ZS7G9ZHQA,Full Sleeve Printed Men Sweatshirt,1,qwen2.5:7b,rational,0,,,
+TKPFDGYPNYMYH4KH,Solid Men Black Track Pants,1,llama3.2,anxious,0,,,
+TKPFDGYPNYMYH4KH,Solid Men Black Track Pants,1,llama3.2,demanding,1,8.5,1.0,100.0
+TKPFDGYPNYMYH4KH,Solid Men Black Track Pants,1,llama3.2,economic,0,,,
+TKPFDGYPNYMYH4KH,Solid Men Black Track Pants,1,llama3.2,impulsive,0,,,
+TKPFDGYPNYMYH4KH,Solid Men Black Track Pants,1,llama3.2,rational,0,,,
+TKPFDGYPNYMYH4KH,Solid Men Black Track Pants,1,qwen2.5:7b,anxious,0,,,
+TKPFDGYPNYMYH4KH,Solid Men Black Track Pants,1,qwen2.5:7b,demanding,0,,,
+TKPFDGYPNYMYH4KH,Solid Men Black Track Pants,1,qwen2.5:7b,economic,0,,,
+TKPFDGYPNYMYH4KH,Solid Men Black Track Pants,1,qwen2.5:7b,impulsive,0,,,
+TKPFDGYPNYMYH4KH,Solid Men Black Track Pants,1,qwen2.5:7b,rational,0,,,
+TROFTQUMTPDZDHUR,Tapered Men Dark Blue Cotton Lycra Blend Trousers,1,llama3.2,anxious,0,,,
+TROFTQUMTPDZDHUR,Tapered Men Dark Blue Cotton Lycra Blend Trousers,1,llama3.2,demanding,0,,,
+TROFTQUMTPDZDHUR,Tapered Men Dark Blue Cotton Lycra Blend Trousers,1,llama3.2,economic,0,,,
+TROFTQUMTPDZDHUR,Tapered Men Dark Blue Cotton Lycra Blend Trousers,1,llama3.2,impulsive,0,,,
+TROFTQUMTPDZDHUR,Tapered Men Dark Blue Cotton Lycra Blend Trousers,1,llama3.2,rational,0,,,
+TROFTQUMTPDZDHUR,Tapered Men Dark Blue Cotton Lycra Blend Trousers,1,qwen2.5:7b,anxious,0,,,
+TROFTQUMTPDZDHUR,Tapered Men Dark Blue Cotton Lycra Blend Trousers,1,qwen2.5:7b,demanding,0,,,
+TROFTQUMTPDZDHUR,Tapered Men Dark Blue Cotton Lycra Blend Trousers,1,qwen2.5:7b,economic,0,,,
+TROFTQUMTPDZDHUR,Tapered Men Dark Blue Cotton Lycra Blend Trousers,1,qwen2.5:7b,impulsive,1,8.0,14.0,90.0
+TROFTQUMTPDZDHUR,Tapered Men Dark Blue Cotton Lycra Blend Trousers,1,qwen2.5:7b,rational,0,,,
+TROFWFHY7YU2YZ2Y,Regular Fit Men Grey Cotton Blend Trousers,1,llama3.2,anxious,0,,,
+TROFWFHY7YU2YZ2Y,Regular Fit Men Grey Cotton Blend Trousers,1,llama3.2,demanding,0,,,
+TROFWFHY7YU2YZ2Y,Regular Fit Men Grey Cotton Blend Trousers,1,llama3.2,economic,0,,,
+TROFWFHY7YU2YZ2Y,Regular Fit Men Grey Cotton Blend Trousers,1,llama3.2,impulsive,0,,,
+TROFWFHY7YU2YZ2Y,Regular Fit Men Grey Cotton Blend Trousers,1,llama3.2,rational,0,,,
+TROFWFHY7YU2YZ2Y,Regular Fit Men Grey Cotton Blend Trousers,1,qwen2.5:7b,anxious,0,,,
+TROFWFHY7YU2YZ2Y,Regular Fit Men Grey Cotton Blend Trousers,1,qwen2.5:7b,demanding,0,,,
+TROFWFHY7YU2YZ2Y,Regular Fit Men Grey Cotton Blend Trousers,1,qwen2.5:7b,economic,0,,,
+TROFWFHY7YU2YZ2Y,Regular Fit Men Grey Cotton Blend Trousers,1,qwen2.5:7b,impulsive,0,,,
+TROFWFHY7YU2YZ2Y,Regular Fit Men Grey Cotton Blend Trousers,1,qwen2.5:7b,rational,1,8.0,29.0,60.0
+TSHEPHYZR3WRNYEZ,Printed Men Round Neck Blue T-Shirt,1,llama3.2,anxious,0,,,
+TSHEPHYZR3WRNYEZ,Printed Men Round Neck Blue T-Shirt,1,llama3.2,demanding,1,8.0,20.0,100.0
+TSHEPHYZR3WRNYEZ,Printed Men Round Neck Blue T-Shirt,1,llama3.2,economic,0,,,
+TSHEPHYZR3WRNYEZ,Printed Men Round Neck Blue T-Shirt,1,llama3.2,impulsive,0,,,
+TSHEPHYZR3WRNYEZ,Printed Men Round Neck Blue T-Shirt,1,llama3.2,rational,0,,,
+TSHEPHYZR3WRNYEZ,Printed Men Round Neck Blue T-Shirt,1,qwen2.5:7b,anxious,0,,,
+TSHEPHYZR3WRNYEZ,Printed Men Round Neck Blue T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHEPHYZR3WRNYEZ,Printed Men Round Neck Blue T-Shirt,1,qwen2.5:7b,economic,0,,,
+TSHEPHYZR3WRNYEZ,Printed Men Round Neck Blue T-Shirt,1,qwen2.5:7b,impulsive,0,,,
+TSHEPHYZR3WRNYEZ,Printed Men Round Neck Blue T-Shirt,1,qwen2.5:7b,rational,0,,,
+TSHEZ9S6H9TKWNV5,Solid Men Round Neck Multicolor T-Shirt Pack of 2,1,llama3.2,anxious,0,,,
+TSHEZ9S6H9TKWNV5,Solid Men Round Neck Multicolor T-Shirt Pack of 2,1,llama3.2,demanding,0,,,
+TSHEZ9S6H9TKWNV5,Solid Men Round Neck Multicolor T-Shirt Pack of 2,1,llama3.2,economic,0,,,
+TSHEZ9S6H9TKWNV5,Solid Men Round Neck Multicolor T-Shirt Pack of 2,1,llama3.2,impulsive,0,,,
+TSHEZ9S6H9TKWNV5,Solid Men Round Neck Multicolor T-Shirt Pack of 2,1,llama3.2,rational,0,,,
+TSHEZ9S6H9TKWNV5,Solid Men Round Neck Multicolor T-Shirt Pack of 2,1,qwen2.5:7b,anxious,1,8.0,25.0,65.0
+TSHEZ9S6H9TKWNV5,Solid Men Round Neck Multicolor T-Shirt Pack of 2,1,qwen2.5:7b,demanding,0,,,
+TSHEZ9S6H9TKWNV5,Solid Men Round Neck Multicolor T-Shirt Pack of 2,1,qwen2.5:7b,economic,0,,,
+TSHEZ9S6H9TKWNV5,Solid Men Round Neck Multicolor T-Shirt Pack of 2,1,qwen2.5:7b,impulsive,0,,,
+TSHEZ9S6H9TKWNV5,Solid Men Round Neck Multicolor T-Shirt Pack of 2,1,qwen2.5:7b,rational,0,,,
+TSHF4PGJ5BVUCFZ3,Solid Men Hooded Neck Grey T-Shirt,1,llama3.2,anxious,0,,,
+TSHF4PGJ5BVUCFZ3,Solid Men Hooded Neck Grey T-Shirt,1,llama3.2,demanding,0,,,
+TSHF4PGJ5BVUCFZ3,Solid Men Hooded Neck Grey T-Shirt,1,llama3.2,economic,0,,,
+TSHF4PGJ5BVUCFZ3,Solid Men Hooded Neck Grey T-Shirt,1,llama3.2,impulsive,0,,,
+TSHF4PGJ5BVUCFZ3,Solid Men Hooded Neck Grey T-Shirt,1,llama3.2,rational,0,,,
+TSHF4PGJ5BVUCFZ3,Solid Men Hooded Neck Grey T-Shirt,1,qwen2.5:7b,anxious,0,,,
+TSHF4PGJ5BVUCFZ3,Solid Men Hooded Neck Grey T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHF4PGJ5BVUCFZ3,Solid Men Hooded Neck Grey T-Shirt,1,qwen2.5:7b,economic,0,,,
+TSHF4PGJ5BVUCFZ3,Solid Men Hooded Neck Grey T-Shirt,1,qwen2.5:7b,impulsive,1,9.0,7.0,85.0
+TSHF4PGJ5BVUCFZ3,Solid Men Hooded Neck Grey T-Shirt,1,qwen2.5:7b,rational,0,,,
+TSHFACGSMSYJ8R6E,Printed Men Round or Crew Black T-Shirt,1,llama3.2,anxious,0,,,
+TSHFACGSMSYJ8R6E,Printed Men Round or Crew Black T-Shirt,1,llama3.2,demanding,0,,,
+TSHFACGSMSYJ8R6E,Printed Men Round or Crew Black T-Shirt,1,llama3.2,economic,0,,,
+TSHFACGSMSYJ8R6E,Printed Men Round or Crew Black T-Shirt,1,llama3.2,impulsive,0,,,
+TSHFACGSMSYJ8R6E,Printed Men Round or Crew Black T-Shirt,1,llama3.2,rational,0,,,
+TSHFACGSMSYJ8R6E,Printed Men Round or Crew Black T-Shirt,1,qwen2.5:7b,anxious,0,,,
+TSHFACGSMSYJ8R6E,Printed Men Round or Crew Black T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHFACGSMSYJ8R6E,Printed Men Round or Crew Black T-Shirt,1,qwen2.5:7b,economic,0,,,
+TSHFACGSMSYJ8R6E,Printed Men Round or Crew Black T-Shirt,1,qwen2.5:7b,impulsive,1,8.0,28.0,95.0
+TSHFACGSMSYJ8R6E,Printed Men Round or Crew Black T-Shirt,1,qwen2.5:7b,rational,0,,,
+TSHFDT66DJTFN64D,Printed Men Round Neck Blue T-Shirt,1,llama3.2,anxious,0,,,
+TSHFDT66DJTFN64D,Printed Men Round Neck Blue T-Shirt,1,llama3.2,demanding,0,,,
+TSHFDT66DJTFN64D,Printed Men Round Neck Blue T-Shirt,1,llama3.2,economic,0,,,
+TSHFDT66DJTFN64D,Printed Men Round Neck Blue T-Shirt,1,llama3.2,impulsive,0,,,
+TSHFDT66DJTFN64D,Printed Men Round Neck Blue T-Shirt,1,llama3.2,rational,0,,,
+TSHFDT66DJTFN64D,Printed Men Round Neck Blue T-Shirt,1,qwen2.5:7b,anxious,0,,,
+TSHFDT66DJTFN64D,Printed Men Round Neck Blue T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHFDT66DJTFN64D,Printed Men Round Neck Blue T-Shirt,1,qwen2.5:7b,economic,0,,,
+TSHFDT66DJTFN64D,Printed Men Round Neck Blue T-Shirt,1,qwen2.5:7b,impulsive,0,,,
+TSHFDT66DJTFN64D,Printed Men Round Neck Blue T-Shirt,1,qwen2.5:7b,rational,1,8.0,23.0,60.0
+TSHFGPJJRGWPQAKJ,Self Design Men Hooded Neck Black T-Shirt,1,llama3.2,anxious,0,,,
+TSHFGPJJRGWPQAKJ,Self Design Men Hooded Neck Black T-Shirt,1,llama3.2,demanding,0,,,
+TSHFGPJJRGWPQAKJ,Self Design Men Hooded Neck Black T-Shirt,1,llama3.2,economic,0,,,
+TSHFGPJJRGWPQAKJ,Self Design Men Hooded Neck Black T-Shirt,1,llama3.2,impulsive,0,,,
+TSHFGPJJRGWPQAKJ,Self Design Men Hooded Neck Black T-Shirt,1,llama3.2,rational,0,,,
+TSHFGPJJRGWPQAKJ,Self Design Men Hooded Neck Black T-Shirt,1,qwen2.5:7b,anxious,1,8.0,27.0,70.0
+TSHFGPJJRGWPQAKJ,Self Design Men Hooded Neck Black T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHFGPJJRGWPQAKJ,Self Design Men Hooded Neck Black T-Shirt,1,qwen2.5:7b,economic,0,,,
+TSHFGPJJRGWPQAKJ,Self Design Men Hooded Neck Black T-Shirt,1,qwen2.5:7b,impulsive,0,,,
+TSHFGPJJRGWPQAKJ,Self Design Men Hooded Neck Black T-Shirt,1,qwen2.5:7b,rational,0,,,
+TSHFHJSZ4JRGG3CR,Self Design Men Round Neck Grey T-Shirt,1,llama3.2,anxious,0,,,
+TSHFHJSZ4JRGG3CR,Self Design Men Round Neck Grey T-Shirt,1,llama3.2,demanding,0,,,
+TSHFHJSZ4JRGG3CR,Self Design Men Round Neck Grey T-Shirt,1,llama3.2,economic,0,,,
+TSHFHJSZ4JRGG3CR,Self Design Men Round Neck Grey T-Shirt,1,llama3.2,impulsive,0,,,
+TSHFHJSZ4JRGG3CR,Self Design Men Round Neck Grey T-Shirt,1,llama3.2,rational,0,,,
+TSHFHJSZ4JRGG3CR,Self Design Men Round Neck Grey T-Shirt,1,qwen2.5:7b,anxious,0,,,
+TSHFHJSZ4JRGG3CR,Self Design Men Round Neck Grey T-Shirt,1,qwen2.5:7b,demanding,0,,,
+TSHFHJSZ4JRGG3CR,Self Design Men Round Neck Grey T-Shirt,1,qwen2.5:7b,economic,0,,,
+TSHFHJSZ4JRGG3CR,Self Design Men Round Neck Grey T-Shirt,1,qwen2.5:7b,impulsive,0,,,
+TSHFHJSZ4JRGG3CR,Self Design Men Round Neck Grey T-Shirt,1,qwen2.5:7b,rational,1,8.0,30.0,65.0
+WSCFWVPWQNKCAMGM,Solid Men Waistcoat,1,llama3.2,anxious,0,,,
+WSCFWVPWQNKCAMGM,Solid Men Waistcoat,1,llama3.2,demanding,0,,,
+WSCFWVPWQNKCAMGM,Solid Men Waistcoat,1,llama3.2,economic,0,,,
+WSCFWVPWQNKCAMGM,Solid Men Waistcoat,1,llama3.2,impulsive,0,,,
+WSCFWVPWQNKCAMGM,Solid Men Waistcoat,1,llama3.2,rational,0,,,
+WSCFWVPWQNKCAMGM,Solid Men Waistcoat,1,qwen2.5:7b,anxious,1,8.0,30.0,65.0
+WSCFWVPWQNKCAMGM,Solid Men Waistcoat,1,qwen2.5:7b,demanding,0,,,
+WSCFWVPWQNKCAMGM,Solid Men Waistcoat,1,qwen2.5:7b,economic,0,,,
+WSCFWVPWQNKCAMGM,Solid Men Waistcoat,1,qwen2.5:7b,impulsive,0,,,
+WSCFWVPWQNKCAMGM,Solid Men Waistcoat,1,qwen2.5:7b,rational,0,,,

@@ -1,0 +1,51 @@
+Modelo,Tipo,Termo,Frequência
+llama3.2,Bigrama,reduzir dúvidas,315
+llama3.2,Bigrama,melhorar publicação,305
+llama3.2,Bigrama,apesar peça,300
+llama3.2,Bigrama,oportunidades melhoria,299
+llama3.2,Bigrama,peça material,297
+llama3.2,Bigrama,publicação produto,296
+llama3.2,Bigrama,produto aumentar,288
+llama3.2,Bigrama,aumentar vendas,286
+llama3.2,Bigrama,boa qualidade,283
+llama3.2,Bigrama,material boa,282
+llama3.2,Bigrama,aumentar conversão,272
+llama3.2,Bigrama,pode ajudar,272
+llama3.2,Bigrama,ajudar melhorar,269
+llama3.2,Bigrama,conversão publicação,267
+llama3.2,Bigrama,análise pode,266
+llama3.2,Trigrama,apesar peça material,297
+llama3.2,Trigrama,melhorar publicação produto,295
+llama3.2,Trigrama,peça material boa,282
+llama3.2,Trigrama,material boa qualidade,282
+llama3.2,Trigrama,publicação produto aumentar,279
+llama3.2,Trigrama,produto aumentar vendas,278
+llama3.2,Trigrama,ajudar melhorar publicação,269
+llama3.2,Trigrama,análise pode ajudar,266
+llama3.2,Trigrama,pode ajudar melhorar,266
+llama3.2,Trigrama,aumentar conversão publicação,262
+qwen2.5:7b,Bigrama,oportunidades melhorar,296
+qwen2.5:7b,Bigrama,existem oportunidades,290
+qwen2.5:7b,Bigrama,tabela medidas,264
+qwen2.5:7b,Bigrama,apesar peça,245
+qwen2.5:7b,Bigrama,boa qualidade,245
+qwen2.5:7b,Bigrama,design atraente,245
+qwen2.5:7b,Bigrama,material boa,242
+qwen2.5:7b,Bigrama,peça material,241
+qwen2.5:7b,Bigrama,atraente existem,241
+qwen2.5:7b,Bigrama,qualidade design,240
+qwen2.5:7b,Bigrama,reduzir dúvidas,231
+qwen2.5:7b,Bigrama,medidas detalhada,205
+qwen2.5:7b,Bigrama,dúvidas devoluções,202
+qwen2.5:7b,Bigrama,compradores precisam,190
+qwen2.5:7b,Bigrama,atender compradores,179
+qwen2.5:7b,Trigrama,existem oportunidades melhorar,290
+qwen2.5:7b,Trigrama,material boa qualidade,242
+qwen2.5:7b,Trigrama,apesar peça material,241
+qwen2.5:7b,Trigrama,atraente existem oportunidades,241
+qwen2.5:7b,Trigrama,peça material boa,240
+qwen2.5:7b,Trigrama,boa qualidade design,240
+qwen2.5:7b,Trigrama,qualidade design atraente,240
+qwen2.5:7b,Trigrama,design atraente existem,239
+qwen2.5:7b,Trigrama,tabela medidas detalhada,205
+qwen2.5:7b,Trigrama,reduzir dúvidas devoluções,185

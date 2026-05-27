@@ -1,0 +1,101 @@
+Perfil,Tipo,Termo,Frequência
+Ansioso,Preocupação,nota,335
+Ansioso,Preocupação,média,289
+Ansioso,Preocupação,compradores,288
+Ansioso,Preocupação,baixa,279
+Ansioso,Preocupação,descrição,265
+Ansioso,Preocupação,cor,226
+Ansioso,Preocupação,preço,184
+Ansioso,Preocupação,original,153
+Ansioso,Preocupação,alto,153
+Ansioso,Preocupação,informada,143
+Ansioso,Ponto forte,material,339
+Ansioso,Ponto forte,preço,242
+Ansioso,Ponto forte,qualidade,235
+Ansioso,Ponto forte,cotton,204
+Ansioso,Ponto forte,desconto,201
+Ansioso,Ponto forte,alta,192
+Ansioso,Ponto forte,disponível,188
+Ansioso,Ponto forte,foto,174
+Ansioso,Ponto forte,blend,149
+Ansioso,Ponto forte,atraente,144
+Exigente,Preocupação,descrição,286
+Exigente,Preocupação,compradores,240
+Exigente,Preocupação,cor,231
+Exigente,Preocupação,nota,227
+Exigente,Preocupação,baixa,184
+Exigente,Preocupação,média,180
+Exigente,Preocupação,marca,159
+Exigente,Preocupação,informada,159
+Exigente,Preocupação,falta,135
+Exigente,Preocupação,pode,109
+Exigente,Ponto forte,material,383
+Exigente,Ponto forte,qualidade,296
+Exigente,Ponto forte,preço,241
+Exigente,Ponto forte,desconto,237
+Exigente,Ponto forte,atraente,223
+Exigente,Ponto forte,alta,221
+Exigente,Ponto forte,cotton,213
+Exigente,Ponto forte,blend,143
+Exigente,Ponto forte,disponível,112
+Exigente,Ponto forte,foto,100
+Econômico,Preocupação,preço,311
+Econômico,Preocupação,original,286
+Econômico,Preocupação,compradores,250
+Econômico,Preocupação,nota,244
+Econômico,Preocupação,descrição,218
+Econômico,Preocupação,cor,205
+Econômico,Preocupação,baixa,198
+Econômico,Preocupação,média,182
+Econômico,Preocupação,alto,145
+Econômico,Preocupação,pode,143
+Econômico,Ponto forte,desconto,476
+Econômico,Ponto forte,preço,438
+Econômico,Ponto forte,significativo,236
+Econômico,Ponto forte,qualidade,212
+Econômico,Ponto forte,material,202
+Econômico,Ponto forte,alta,159
+Econômico,Ponto forte,cotton,119
+Econômico,Ponto forte,marca,104
+Econômico,Ponto forte,atraente,92
+Econômico,Ponto forte,original,87
+Impulsivo,Preocupação,descrição,293
+Impulsivo,Preocupação,compradores,281
+Impulsivo,Preocupação,nota,265
+Impulsivo,Preocupação,baixa,204
+Impulsivo,Preocupação,cor,202
+Impulsivo,Preocupação,média,174
+Impulsivo,Preocupação,informada,139
+Impulsivo,Preocupação,marca,135
+Impulsivo,Preocupação,preço,130
+Impulsivo,Preocupação,pode,126
+Impulsivo,Ponto forte,desconto,502
+Impulsivo,Ponto forte,atraente,292
+Impulsivo,Ponto forte,preço,261
+Impulsivo,Ponto forte,expressivo,232
+Impulsivo,Ponto forte,foto,194
+Impulsivo,Ponto forte,disponível,177
+Impulsivo,Ponto forte,material,145
+Impulsivo,Ponto forte,qualidade,141
+Impulsivo,Ponto forte,alta,123
+Impulsivo,Ponto forte,cotton,85
+Racional,Preocupação,nota,336
+Racional,Preocupação,compradores,333
+Racional,Preocupação,falta,239
+Racional,Preocupação,média,239
+Racional,Preocupação,cor,223
+Racional,Preocupação,marca,207
+Racional,Preocupação,baixa,189
+Racional,Preocupação,preço,176
+Racional,Preocupação,descrição,174
+Racional,Preocupação,informações,164
+Racional,Ponto forte,material,314
+Racional,Ponto forte,desconto,289
+Racional,Ponto forte,preço,277
+Racional,Ponto forte,qualidade,258
+Racional,Ponto forte,alta,183
+Racional,Ponto forte,cotton,165
+Racional,Ponto forte,atraente,163
+Racional,Ponto forte,compradores,121
+Racional,Ponto forte,blend,114
+Racional,Ponto forte,disponível,108

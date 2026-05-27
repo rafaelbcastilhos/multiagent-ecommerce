@@ -1,0 +1,8 @@
+Métrica,Média llama3.2,Média qwen2.5:7b,Δ (llama − qwen),Wilcoxon p-valor,Mann-Whitney p-valor,Cohen's d,Cliff's δ,Interp. d,Interp. δ,"Significativo (α=0,05)"
+Score Médio,5.7220,5.9640,-0.2420,0.0000,0.0291,-0.3190,-0.1030,pequeno,desprezível,sim
+Apelo Geral,5.7220,5.9640,-0.2420,0.0000,0.0291,-0.3190,-0.1030,pequeno,desprezível,sim
+Potencial de Conversão,55.7790,49.8720,5.9070,0.0000,0.0000,0.4390,0.2270,pequeno,pequeno,sim
+Risco,40.1610,36.7170,3.4440,0.0030,0.1166,0.1530,0.0710,desprezível,desprezível,sim
+Nível de Consenso,95.8230,92.0190,3.8040,0.0000,0.0000,0.4440,0.2490,pequeno,pequeno,sim
+Cobertura,30.2220,47.3330,-17.1110,0.0000,0.0000,-0.7500,-0.3120,médio,pequeno,sim
+Potencial de Melhoria,42.7800,40.3600,2.4200,0.0000,0.0291,0.3190,0.1030,pequeno,desprezível,sim

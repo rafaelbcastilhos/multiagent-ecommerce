@@ -1,0 +1,301 @@
+modelo,perfil,product_id,title,brand,category,current_price,discount_pct,rating_dataset,score,purchase_intention,status,mean_score,consensus_level,rank
+llama3.2,impulsive,TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,VARTe,clothing,369.0,63.0,5.0,8.0,100.0,Muito Satisfeito,6.0,84.0,1
+llama3.2,demanding,TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,VARTe,clothing,369.0,63.0,5.0,8.0,80.0,Muito Satisfeito,6.0,84.0,7
+llama3.2,impulsive,DHTFZYFZGCZFJYBS,Mps Striped Men Dhoti,,ethnic_wear,1499.0,50.0,3.8,8.0,100.0,Muito Satisfeito,6.25,88.3,2
+llama3.2,rational,SHTFZKUFJSP9RJWN,Men Slim Fit Solid Casual Shirt,FOREVER YOU,clothing,725.0,63.0,5.0,8.0,70.0,Muito Satisfeito,5.6,80.8,3
+llama3.2,impulsive,SHTFZKUFJSP9RJWN,Men Slim Fit Solid Casual Shirt,FOREVER YOU,clothing,725.0,63.0,5.0,8.0,100.0,Muito Satisfeito,5.6,80.8,3
+llama3.2,impulsive,TSHFPZY7ZNFBHM3U,Printed Men Round Neck White T-Shirt,Keo,clothing,284.0,52.0,3.8,8.0,90.0,Muito Satisfeito,7.0,96.0,4
+llama3.2,anxious,TSHFPZY7ZNFBHM3U,Printed Men Round Neck White T-Shirt,Keo,clothing,284.0,52.0,3.8,8.0,60.0,Muito Satisfeito,7.0,96.0,2
+llama3.2,economic,SFFFUZAZZFFUDFBE,Slides,Black Beat,footwear,308.0,63.0,4.2,8.0,75.0,Muito Satisfeito,7.0,96.0,2
+llama3.2,impulsive,SFFFUZAZZFFUDFBE,Slides,Black Beat,footwear,308.0,63.0,4.2,8.0,100.0,Muito Satisfeito,7.0,96.0,5
+llama3.2,impulsive,TSHF2DZ6NMBSVBKB,Solid Men Round Neck Grey T-Shirt,rockha,clothing,299.0,66.0,3.8,8.0,100.0,Muito Satisfeito,5.44,88.5,6
+llama3.2,impulsive,SHTFACSAYNHFFRYF,Men Slim Fit Solid Mandarin Collar Casual Shirt,Jai Textil,clothing,420.0,77.0,3.9,8.0,100.0,Muito Satisfeito,6.0,92.0,7
+llama3.2,impulsive,SWSF8922GWPP4QKF,Full Sleeve Self Design Men Sweatshirt,AXMA,clothing,923.0,49.0,3.8,8.0,100.0,Muito Satisfeito,6.44,90.5,8
+llama3.2,anxious,SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,SUR,clothing,699.0,46.0,4.6,8.0,80.0,Muito Satisfeito,8.0,100.0,3
+llama3.2,impulsive,SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,SUR,clothing,699.0,46.0,4.6,8.0,100.0,Muito Satisfeito,8.0,100.0,9
+llama3.2,demanding,SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,SUR,clothing,699.0,46.0,4.6,8.0,100.0,Muito Satisfeito,8.0,100.0,8
+llama3.2,economic,SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,SUR,clothing,699.0,46.0,4.6,8.0,80.0,Muito Satisfeito,8.0,100.0,3
+llama3.2,rational,SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,SUR,clothing,699.0,46.0,4.6,8.0,60.0,Muito Satisfeito,8.0,100.0,4
+llama3.2,demanding,CRGFGQRH8JTUDNHW,Men Cargos,Mountain colou,clothing,823.0,62.0,4.3,8.0,80.0,Muito Satisfeito,8.04,100.0,9
+llama3.2,anxious,CRGFGQRH8JTUDNHW,Men Cargos,Mountain colou,clothing,823.0,62.0,4.3,8.0,80.0,Muito Satisfeito,8.04,100.0,4
+llama3.2,economic,CRGFGQRH8JTUDNHW,Men Cargos,Mountain colou,clothing,823.0,62.0,4.3,8.0,80.0,Muito Satisfeito,8.04,100.0,4
+llama3.2,rational,CRGFGQRH8JTUDNHW,Men Cargos,Mountain colou,clothing,823.0,62.0,4.3,8.2,60.0,Muito Satisfeito,8.04,100.0,1
+llama3.2,impulsive,CRGFGQRH8JTUDNHW,Men Cargos,Mountain colou,clothing,823.0,62.0,4.3,8.0,100.0,Muito Satisfeito,8.04,100.0,10
+llama3.2,impulsive,SWSFM8B6K2QZJUFB,Full Sleeve Solid Men Sweatshirt,ARBO,clothing,664.0,48.0,3.7,8.0,75.0,Muito Satisfeito,6.56,88.9,11
+llama3.2,demanding,SWSFM8B6K2QZJUFB,Full Sleeve Solid Men Sweatshirt,ARBO,clothing,664.0,48.0,3.7,8.0,80.0,Muito Satisfeito,6.56,88.9,10
+llama3.2,impulsive,TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,Adam Park,clothing,640.0,32.0,4.1,8.0,100.0,Muito Satisfeito,7.64,96.6,12
+llama3.2,anxious,TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,Adam Park,clothing,640.0,32.0,4.1,8.0,80.0,Muito Satisfeito,7.64,96.6,5
+llama3.2,demanding,TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,Adam Park,clothing,640.0,32.0,4.1,8.2,90.0,Muito Satisfeito,7.64,96.6,3
+llama3.2,economic,TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,Adam Park,clothing,640.0,32.0,4.1,8.0,80.0,Muito Satisfeito,7.64,96.6,5
+llama3.2,impulsive,TSHFPNR322XKKCKW,Printed Men Polo Neck White T-Shirt,ARBO,clothing,408.0,52.0,4.2,8.0,100.0,Muito Satisfeito,8.0,100.0,13
+llama3.2,anxious,TSHFPNR322XKKCKW,Printed Men Polo Neck White T-Shirt,ARBO,clothing,408.0,52.0,4.2,8.0,75.0,Muito Satisfeito,8.0,100.0,6
+llama3.2,economic,TSHFPNR322XKKCKW,Printed Men Polo Neck White T-Shirt,ARBO,clothing,408.0,52.0,4.2,8.0,50.0,Muito Satisfeito,8.0,100.0,6
+llama3.2,rational,TSHFPNR322XKKCKW,Printed Men Polo Neck White T-Shirt,ARBO,clothing,408.0,52.0,4.2,8.0,75.0,Muito Satisfeito,8.0,100.0,5
+llama3.2,demanding,TSHFPNR322XKKCKW,Printed Men Polo Neck White T-Shirt,ARBO,clothing,408.0,52.0,4.2,8.0,80.0,Muito Satisfeito,8.0,100.0,11
+llama3.2,demanding,SFFFUZAZMPVDGAPZ,Slides,Black Beat,footwear,308.0,63.0,4.2,8.0,80.0,Muito Satisfeito,6.2,91.2,12
+llama3.2,rational,TSHFWCPH77RAYAFF,Solid Men Polo Neck White T-Shirt,Scott Internation,clothing,499.0,66.0,4.0,8.0,70.0,Muito Satisfeito,6.6,96.8,6
+llama3.2,rational,SHTFVVCNDWPWPQDE,Men Tailored Fit Solid Casual Shirt,DISCOUNT OUTL,clothing,649.0,60.0,4.3,8.0,80.0,Muito Satisfeito,7.6,98.8,7
+llama3.2,impulsive,SHTFVVCNDWPWPQDE,Men Tailored Fit Solid Casual Shirt,DISCOUNT OUTL,clothing,649.0,60.0,4.3,8.0,80.0,Muito Satisfeito,7.6,98.8,14
+llama3.2,anxious,SHTFVVCNDWPWPQDE,Men Tailored Fit Solid Casual Shirt,DISCOUNT OUTL,clothing,649.0,60.0,4.3,8.0,75.0,Muito Satisfeito,7.6,98.8,7
+llama3.2,economic,TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",ARBO,clothing,379.0,44.0,4.2,8.0,60.0,Muito Satisfeito,8.0,100.0,7
+llama3.2,rational,TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",ARBO,clothing,379.0,44.0,4.2,8.0,80.0,Muito Satisfeito,8.0,100.0,8
+llama3.2,impulsive,TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",ARBO,clothing,379.0,44.0,4.2,8.0,100.0,Muito Satisfeito,8.0,100.0,15
+llama3.2,demanding,TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",ARBO,clothing,379.0,44.0,4.2,8.0,90.0,Muito Satisfeito,8.0,100.0,13
+llama3.2,anxious,TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",ARBO,clothing,379.0,44.0,4.2,8.0,80.0,Muito Satisfeito,8.0,100.0,8
+llama3.2,impulsive,TSHFHBQXJE8FFKVH,Self Design Men Round Neck Black T-Shirt,rockha,clothing,299.0,66.0,4.1,8.0,100.0,Muito Satisfeito,6.6,96.8,16
+llama3.2,impulsive,TSHFUH9ZFFUYDM9Z,Printed Men Round Neck Grey T-Shirt,Free Authori,clothing,419.0,30.0,3.9,8.0,100.0,Muito Satisfeito,7.26,97.0,17
+llama3.2,demanding,TSHFUH9ZFFUYDM9Z,Printed Men Round Neck Grey T-Shirt,Free Authori,clothing,419.0,30.0,3.9,8.0,50.0,Muito Satisfeito,7.26,97.0,14
+llama3.2,impulsive,TSHEUUPDTD5AKZP2,Striped Men Polo Neck Green T-Shirt,AXMA,clothing,547.0,50.0,3.8,8.0,100.0,Muito Satisfeito,7.0,96.0,18
+llama3.2,demanding,TSHEUUPDTD5AKZP2,Striped Men Polo Neck Green T-Shirt,AXMA,clothing,547.0,50.0,3.8,8.0,90.0,Muito Satisfeito,7.0,96.0,15
+llama3.2,demanding,SWSF9W4YHXUXETXV,Full Sleeve Self Design Men Sweatshirt,AXMA,clothing,713.0,49.0,3.8,8.0,80.0,Muito Satisfeito,5.6,88.8,16
+llama3.2,demanding,TSHFME2ENATAPJBP,Solid Men Polo Neck Dark Blue T-Shirt,Steenb,clothing,799.0,40.0,3.7,8.2,60.0,Muito Satisfeito,8.05,100.0,4
+llama3.2,anxious,TSHFME2ENATAPJBP,Solid Men Polo Neck Dark Blue T-Shirt,Steenb,clothing,799.0,40.0,3.7,8.0,60.0,Muito Satisfeito,8.05,100.0,9
+llama3.2,impulsive,TSHFME2ENATAPJBP,Solid Men Polo Neck Dark Blue T-Shirt,Steenb,clothing,799.0,40.0,3.7,8.0,100.0,Muito Satisfeito,8.05,100.0,19
+llama3.2,economic,TSHFME2ENATAPJBP,Solid Men Polo Neck Dark Blue T-Shirt,Steenb,clothing,799.0,40.0,3.7,8.0,90.0,Muito Satisfeito,8.05,100.0,8
+llama3.2,demanding,TSHFRAMFGRD6FHGU,Graphic Print Men Round Neck Grey T-Shirt,Pu,clothing,714.0,45.0,4.5,8.0,80.0,Muito Satisfeito,7.2,95.2,17
+llama3.2,anxious,TSHFRAMFGRD6FHGU,Graphic Print Men Round Neck Grey T-Shirt,Pu,clothing,714.0,45.0,4.5,8.0,70.0,Muito Satisfeito,7.2,95.2,10
+llama3.2,impulsive,TSHFRAMFGRD6FHGU,Graphic Print Men Round Neck Grey T-Shirt,Pu,clothing,714.0,45.0,4.5,8.0,100.0,Muito Satisfeito,7.2,95.2,20
+llama3.2,economic,TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,PixF,clothing,299.0,76.0,4.5,8.0,60.0,Muito Satisfeito,7.6,96.8,9
+llama3.2,demanding,TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,PixF,clothing,299.0,76.0,4.5,8.0,90.0,Muito Satisfeito,7.6,96.8,18
+llama3.2,rational,TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,PixF,clothing,299.0,76.0,4.5,8.0,80.0,Muito Satisfeito,7.6,96.8,9
+llama3.2,impulsive,TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,PixF,clothing,299.0,76.0,4.5,8.0,80.0,Muito Satisfeito,7.6,96.8,21
+llama3.2,rational,BRFFZJG8WPC6W3UQ,Men Brief Pack of 6,V,clothing,783.0,11.0,3.9,8.0,60.0,Muito Satisfeito,7.2,87.2,10
+llama3.2,demanding,BRFFZJG8WPC6W3UQ,Men Brief Pack of 6,V,clothing,783.0,11.0,3.9,8.0,60.0,Muito Satisfeito,7.2,87.2,19
+llama3.2,anxious,BRFFZJG8WPC6W3UQ,Men Brief Pack of 6,V,clothing,783.0,11.0,3.9,8.0,60.0,Muito Satisfeito,7.2,87.2,11
+llama3.2,impulsive,BRFFZJG8WPC6W3UQ,Men Brief Pack of 6,V,clothing,783.0,11.0,3.9,8.0,100.0,Muito Satisfeito,7.2,87.2,22
+llama3.2,rational,JEAFF4YGFVA5EWQG,Regular Men Blue Jeans,M.R. FASHI,clothing,649.0,56.0,4.1,8.0,50.0,Muito Satisfeito,6.8,95.2,11
+llama3.2,impulsive,JEAFF4YGFVA5EWQG,Regular Men Blue Jeans,M.R. FASHI,clothing,649.0,56.0,4.1,8.0,100.0,Muito Satisfeito,6.8,95.2,23
+llama3.2,economic,JCKFRP3HZPQNZ9VM,Full Sleeve Printed Men Jacket,ECKO Unl,clothing,1539.0,23.0,3.5,8.0,60.0,Muito Satisfeito,6.56,94.0,10
+llama3.2,anxious,SRTFDT7FY3CFFNYV,Self Design Men Black Sports Shorts,REEB,clothing,1749.0,30.0,3.9,8.0,60.0,Muito Satisfeito,7.6,98.8,12
+llama3.2,impulsive,SRTFDT7FY3CFFNYV,Self Design Men Black Sports Shorts,REEB,clothing,1749.0,30.0,3.9,8.0,100.0,Muito Satisfeito,7.6,98.8,24
+llama3.2,rational,SRTFDT7FY3CFFNYV,Self Design Men Black Sports Shorts,REEB,clothing,1749.0,30.0,3.9,8.0,100.0,Muito Satisfeito,7.6,98.8,12
+llama3.2,impulsive,SFFFUZB3AYVGD8FM,Slides,Black Beat,footwear,308.0,63.0,3.7,8.0,100.0,Muito Satisfeito,5.76,90.8,25
+llama3.2,impulsive,JCKFMYFZHXZH4FGE,Full Sleeve Colorblock Men Sports Jacket,Pu,clothing,3149.0,55.0,4.1,8.0,100.0,Muito Satisfeito,7.44,96.5,26
+llama3.2,demanding,JCKFMYFZHXZH4FGE,Full Sleeve Colorblock Men Sports Jacket,Pu,clothing,3149.0,55.0,4.1,8.2,75.0,Muito Satisfeito,7.44,96.5,5
+llama3.2,anxious,JCKFMYFZHXZH4FGE,Full Sleeve Colorblock Men Sports Jacket,Pu,clothing,3149.0,55.0,4.1,8.0,60.0,Muito Satisfeito,7.44,96.5,13
+llama3.2,demanding,TSHEPHYZR3WRNYEZ,Printed Men Round Neck Blue T-Shirt,FLEXIM,clothing,299.0,60.0,3.8,8.0,100.0,Muito Satisfeito,6.2,91.2,20
+llama3.2,impulsive,TSHFPVNS3HFFYGBM,Printed Men Round Neck White T-Shirt,Keo,clothing,284.0,52.0,3.9,8.0,100.0,Muito Satisfeito,6.96,96.0,27
+llama3.2,rational,TSHFPVNS3HFFYGBM,Printed Men Round Neck White T-Shirt,Keo,clothing,284.0,52.0,3.9,8.0,60.0,Muito Satisfeito,6.96,96.0,13
+llama3.2,impulsive,TSHFVYHATEUHCF3W,Solid Men Round Neck Yellow T-Shirt,Steenb,clothing,449.0,55.0,3.7,8.0,80.0,Muito Satisfeito,7.25,96.3,28
+llama3.2,economic,TSHFVYHATEUHCF3W,Solid Men Round Neck Yellow T-Shirt,Steenb,clothing,449.0,55.0,3.7,8.0,60.0,Muito Satisfeito,7.25,96.3,11
+llama3.2,impulsive,HKFFUG57ZW6KWUCX,Cotson Premium Cotton Handkerchief for Men Red Handkerchief Pack of 12,,clothing,449.0,35.0,4.7,8.0,100.0,Muito Satisfeito,6.8,97.1,29
+llama3.2,rational,CAPETCFNFDHFYGYZ,ADJUSTER Cap,Disn,clothing,419.0,30.0,3.9,8.0,60.0,Muito Satisfeito,7.6,98.8,14
+llama3.2,demanding,CAPETCFNFDHFYGYZ,ADJUSTER Cap,Disn,clothing,419.0,30.0,3.9,8.0,80.0,Muito Satisfeito,7.6,98.8,21
+llama3.2,anxious,CAPETCFNFDHFYGYZ,ADJUSTER Cap,Disn,clothing,419.0,30.0,3.9,8.0,100.0,Muito Satisfeito,7.6,98.8,14
+llama3.2,impulsive,TSHFNUGVREHCPWGE,Solid Men Round Neck Black T-Shirt,ARBO,clothing,426.0,43.0,5.0,8.0,100.0,Muito Satisfeito,7.6,98.8,30
+llama3.2,demanding,TSHFNUGVREHCPWGE,Solid Men Round Neck Black T-Shirt,ARBO,clothing,426.0,43.0,5.0,8.0,80.0,Muito Satisfeito,7.6,98.8,22
+llama3.2,anxious,TSHFNUGVREHCPWGE,Solid Men Round Neck Black T-Shirt,ARBO,clothing,426.0,43.0,5.0,8.0,80.0,Muito Satisfeito,7.6,98.8,15
+llama3.2,rational,SRTFZ3JZAMDB3CAS,Solid Men Green Sports Shorts,REEB,clothing,2099.0,30.0,3.8,8.0,60.0,Muito Satisfeito,7.72,99.4,15
+llama3.2,economic,SRTFZ3JZAMDB3CAS,Solid Men Green Sports Shorts,REEB,clothing,2099.0,30.0,3.8,8.0,70.0,Muito Satisfeito,7.72,99.4,12
+llama3.2,anxious,SHTEDV4QBHABZSGE,Men Extra Slim Fit Solid Casual Shirt,Lafant,clothing,698.0,41.0,3.8,8.0,50.0,Muito Satisfeito,6.75,85.7,16
+llama3.2,demanding,TSHFY24P2NUSRAZN,Printed Men Round Neck Multicolor T-Shirt Pack of 2,Free Authori,clothing,769.0,45.0,3.9,8.0,80.0,Muito Satisfeito,7.2,95.2,23
+llama3.2,anxious,TSHFY24P2NUSRAZN,Printed Men Round Neck Multicolor T-Shirt Pack of 2,Free Authori,clothing,769.0,45.0,3.9,8.0,80.0,Muito Satisfeito,7.2,95.2,17
+llama3.2,economic,TSHFVG9UHHD2YZUE,Solid Men Round Neck Multicolor T-Shirt Pack of 2,Lucky Bi,clothing,829.0,44.0,4.1,8.0,60.0,Muito Satisfeito,6.4,88.8,13
+llama3.2,anxious,SHTFH24CEGU2HGXP,Men Slim Fit Checkered Casual Shirt,SUR,clothing,699.0,46.0,4.3,8.0,80.0,Muito Satisfeito,7.6,96.8,18
+llama3.2,demanding,SHTFH24CEGU2HGXP,Men Slim Fit Checkered Casual Shirt,SUR,clothing,699.0,46.0,4.3,8.0,60.0,Muito Satisfeito,7.6,96.8,24
+llama3.2,rational,SHTFH24CEGU2HGXP,Men Slim Fit Checkered Casual Shirt,SUR,clothing,699.0,46.0,4.3,8.0,60.0,Muito Satisfeito,7.6,96.8,16
+llama3.2,economic,TSHFW8F9PZH9RRQK,Solid Men Polo Neck Green T-Shirt,Pu,clothing,2274.0,35.0,4.3,8.0,100.0,Muito Satisfeito,7.6,96.8,14
+llama3.2,anxious,TSHFW8F9PZH9RRQK,Solid Men Polo Neck Green T-Shirt,Pu,clothing,2274.0,35.0,4.3,8.0,75.0,Muito Satisfeito,7.6,96.8,19
+llama3.2,demanding,TSHFW8F9PZH9RRQK,Solid Men Polo Neck Green T-Shirt,Pu,clothing,2274.0,35.0,4.3,8.0,60.0,Muito Satisfeito,7.6,96.8,25
+llama3.2,economic,TSHFYWFQMUCGYVUV,Graphic Print Men Round Neck Dark Blue T-Shirt,Vibrant Vestu,clothing,299.0,50.0,4.2,8.0,80.0,Muito Satisfeito,6.76,87.6,15
+llama3.2,economic,TSHFYY3Z9R2NHVGJ,Printed Men Henley Neck Black T-Shirt,ARBO,clothing,447.0,43.0,3.8,8.0,80.0,Muito Satisfeito,6.6,88.8,16
+llama3.2,demanding,TSHFZ3JDZGXTEQ6M,Printed Men Round Neck Grey T-Shirt,REEB,clothing,1539.0,45.0,4.5,8.0,80.0,Muito Satisfeito,7.8,99.2,26
+llama3.2,rational,TSHFZ3JDZGXTEQ6M,Printed Men Round Neck Grey T-Shirt,REEB,clothing,1539.0,45.0,4.5,8.0,60.0,Muito Satisfeito,7.8,99.2,17
+llama3.2,anxious,TSHFZ3JDZGXTEQ6M,Printed Men Round Neck Grey T-Shirt,REEB,clothing,1539.0,45.0,4.5,8.0,100.0,Muito Satisfeito,7.8,99.2,20
+llama3.2,economic,TSHFWMRVHM3RXYUQ,Printed Men Round Neck Black T-Shirt,PixF,clothing,299.0,76.0,4.5,8.0,50.0,Muito Satisfeito,7.2,97.2,17
+llama3.2,rational,BXRFWGB4DMGNF6VZ,Checkered Men Boxer Pack of 3,Sharar,clothing,799.0,38.0,3.7,8.0,60.0,Muito Satisfeito,6.6,96.8,18
+llama3.2,demanding,TSHFW7F3FMEMUSX2,"Solid Men Polo Neck Yellow, Orange T-Shirt Pack of 2",ModeWa,clothing,495.0,64.0,3.8,8.0,50.0,Muito Satisfeito,6.4,96.8,27
+llama3.2,anxious,JEAFGUGYHZHGZSE4,Regular Men Light Blue Jeans,M.R. FASHI,clothing,799.0,46.0,4.1,8.0,70.0,Muito Satisfeito,7.64,96.6,21
+llama3.2,rational,JEAFGUGYHZHGZSE4,Regular Men Light Blue Jeans,M.R. FASHI,clothing,799.0,46.0,4.1,8.2,80.0,Muito Satisfeito,7.64,96.6,2
+llama3.2,economic,JEAFGUGYHZHGZSE4,Regular Men Light Blue Jeans,M.R. FASHI,clothing,799.0,46.0,4.1,8.0,75.0,Muito Satisfeito,7.64,96.6,18
+llama3.2,anxious,KTAFD3ZMPXPC3GE4,Men Printed Cotton Blend Straight Kurta Orange,LDHSA,ethnic_wear,749.0,62.0,4.0,8.0,60.0,Muito Satisfeito,7.0,96.0,22
+llama3.2,demanding,KTAFD3ZMPXPC3GE4,Men Printed Cotton Blend Straight Kurta Orange,LDHSA,ethnic_wear,749.0,62.0,4.0,8.0,80.0,Muito Satisfeito,7.0,96.0,28
+llama3.2,demanding,TRKFC3YSEZ5HJEH8,Men Trunks,V,clothing,840.0,0.0,4.5,8.0,80.0,Muito Satisfeito,6.4,80.8,29
+llama3.2,rational,TRKFC3YSEZ5HJEH8,Men Trunks,V,clothing,840.0,0.0,4.5,8.0,60.0,Muito Satisfeito,6.4,80.8,19
+llama3.2,anxious,TRKFC3YSEZ5HJEH8,Men Trunks,V,clothing,840.0,0.0,4.5,8.0,60.0,Muito Satisfeito,6.4,80.8,23
+llama3.2,anxious,TSHFZ5BF8FDR9HQC,Solid Men Collared Neck Yellow T-Shirt,ARBO,clothing,361.0,52.0,4.0,8.0,80.0,Muito Satisfeito,6.8,95.2,24
+llama3.2,demanding,TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,Onei,clothing,479.0,52.0,4.2,8.0,100.0,Muito Satisfeito,8.0,100.0,30
+llama3.2,economic,TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,Onei,clothing,479.0,52.0,4.2,8.0,60.0,Muito Satisfeito,8.0,100.0,19
+llama3.2,anxious,TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,Onei,clothing,479.0,52.0,4.2,8.0,100.0,Muito Satisfeito,8.0,100.0,25
+llama3.2,rational,TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,Onei,clothing,479.0,52.0,4.2,8.0,60.0,Muito Satisfeito,8.0,100.0,20
+llama3.2,anxious,TKPFP8KHSHYDJGPW,Solid Men Multicolor Track Pants,,clothing,647.0,26.0,4.0,8.0,60.0,Muito Satisfeito,7.4,96.8,26
+llama3.2,economic,TKPFP8KHSHYDJGPW,Solid Men Multicolor Track Pants,,clothing,647.0,26.0,4.0,8.0,60.0,Muito Satisfeito,7.4,96.8,20
+llama3.2,anxious,CAPEXJZKJX86NZKH,Self Design Woolen Cap Cap Pack of 2,Gracew,clothing,429.0,57.0,4.5,8.0,50.0,Muito Satisfeito,7.0,96.0,27
+llama3.2,economic,TSHFQ37HHHGHHHBJ,Printed Men Round Neck Black T-Shirt,Free Authori,clothing,599.0,40.0,3.9,8.0,60.0,Muito Satisfeito,7.6,98.8,21
+llama3.2,anxious,TSHFQ37HHHGHHHBJ,Printed Men Round Neck Black T-Shirt,Free Authori,clothing,599.0,40.0,3.9,8.0,60.0,Muito Satisfeito,7.6,98.8,28
+llama3.2,anxious,SWSFJY5ZS7G9ZHQA,Full Sleeve Printed Men Sweatshirt,REEB,clothing,1304.0,40.0,3.8,8.0,60.0,Muito Satisfeito,7.2,95.2,29
+llama3.2,anxious,TSHFGJB52TQ8SUKM,Abstract Men Round Neck Light Blue T-Shirt,TOM BU,clothing,599.0,25.0,4.1,8.0,60.0,Muito Satisfeito,6.96,96.0,30
+llama3.2,rational,SWSFX6YYPCV87HUA,Full Sleeve Self Design Men Sweatshirt,ATHL,clothing,381.0,61.0,4.0,8.0,60.0,Muito Satisfeito,7.56,96.9,21
+llama3.2,economic,VESFN9F3FJY5G4FC,VIP Men Vest Pack of 3,,clothing,350.0,14.0,4.1,8.0,60.0,Muito Satisfeito,7.2,95.2,22
+llama3.2,rational,TSHFDT664Q5KTZ4A,Solid Men Round Neck Dark Blue T-Shirt,REEB,clothing,937.0,33.0,3.8,8.0,60.0,Muito Satisfeito,8.0,100.0,22
+llama3.2,economic,TSHFDT664Q5KTZ4A,Solid Men Round Neck Dark Blue T-Shirt,REEB,clothing,937.0,33.0,3.8,8.0,60.0,Muito Satisfeito,8.0,100.0,23
+llama3.2,economic,TSHFV9YU6KVGNTKF,Solid Men Round Neck Dark Blue T-Shirt,ARBO,clothing,331.0,54.0,4.2,8.0,90.0,Muito Satisfeito,7.76,98.8,24
+llama3.2,economic,TSHFXZXMFMBZNHZE,"Color Block Men Hooded Neck Black, Yellow T-Shirt",NEXT ,clothing,349.0,82.0,4.0,8.0,60.0,Muito Satisfeito,6.8,95.2,25
+llama3.2,economic,TSHFSA794HV3GJ5Z,Printed Men Round Neck White T-Shirt,Keo,clothing,331.0,44.0,3.9,8.0,80.0,Muito Satisfeito,5.76,87.6,26
+llama3.2,economic,TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,U.S.Polo As,clothing,1194.0,37.0,4.8,8.0,80.0,Muito Satisfeito,8.08,100.0,27
+llama3.2,rational,TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,U.S.Polo As,clothing,1194.0,37.0,4.8,8.0,80.0,Muito Satisfeito,8.08,100.0,23
+llama3.2,demanding,TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,U.S.Polo As,clothing,1194.0,37.0,4.8,8.2,100.0,Muito Satisfeito,8.08,100.0,6
+llama3.2,anxious,TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,U.S.Polo As,clothing,1194.0,37.0,4.8,8.2,75.0,Muito Satisfeito,8.08,100.0,1
+llama3.2,economic,SHTFNGP5DCW4KZS4,Men Slim Fit Printed Casual Shirt,FOREVER YOU,clothing,1048.0,65.0,4.0,8.0,60.0,Muito Satisfeito,6.56,88.9,28
+llama3.2,rational,TROFGQSFMPC8HGZU,Regular Fit Men Brown Pure Cotton Trousers,Mountain colou,clothing,849.0,61.0,4.1,8.0,75.0,Muito Satisfeito,7.6,96.8,24
+llama3.2,rational,SNDFVJ9HGZHFYQVM,Men Black Sandal,Black Beat,footwear,430.0,48.0,3.9,8.0,75.0,Muito Satisfeito,7.2,87.2,25
+llama3.2,economic,SNDFVJ9HGZHFYQVM,Men Black Sandal,Black Beat,footwear,430.0,48.0,3.9,8.0,100.0,Muito Satisfeito,7.2,87.2,29
+llama3.2,economic,VESFN8F5PANCPHWF,VIP Men Vest Pack of 6,,clothing,630.0,7.0,3.8,8.0,80.0,Muito Satisfeito,6.64,97.0,30
+llama3.2,rational,SHTFNZRGEY73BGAH,Men Regular Fit Solid Formal Shirt,GANTI,clothing,549.0,65.0,4.2,8.0,60.0,Muito Satisfeito,7.2,95.2,26
+llama3.2,rational,NSTFUYHQW7K5FUFT,Men Solid Multicolor Top Pyjama Set,INTER CREATI,clothing,899.0,47.0,4.8,8.0,70.0,Muito Satisfeito,8.0,100.0,27
+llama3.2,rational,BRFFMUKDBU3DDZZ9,Men Brief Pack of 12,V,clothing,1240.0,4.0,4.4,8.0,60.0,Muito Satisfeito,8.0,100.0,28
+llama3.2,rational,TSHFWJZEZYHJFJQU,Solid Men Polo Neck Light Green T-Shirt,Scott Internation,clothing,499.0,66.0,4.0,8.0,60.0,Muito Satisfeito,8.0,100.0,29
+llama3.2,rational,TKPFZ3JRZGNUZQEY,Solid Men Black Track Pants,REEBOK CLASSI,clothing,2203.0,42.0,4.5,8.0,50.0,Muito Satisfeito,7.6,96.8,30
+llama3.2,demanding,TKPFDGYPNYMYH4KH,Solid Men Black Track Pants,Pu,clothing,1819.0,35.0,4.2,8.5,100.0,Muito Satisfeito,8.1,99.8,1
+llama3.2,demanding,TSHFUF5SDEUQNY96,Solid Men Round Neck Black T-Shirt,ARBO,clothing,331.0,33.0,4.2,8.5,100.0,Muito Satisfeito,8.1,99.8,2
+llama3.2,economic,SHOFU9EDGSMHWJS6,"VX-7.0 Running Shoes For Men Green, Black",Vector,footwear,675.0,9.0,4.4,8.2,60.0,Muito Satisfeito,8.05,100.0,1
+qwen2.5:7b,anxious,TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,VARTe,clothing,369.0,63.0,5.0,8.0,95.0,Muito Satisfeito,8.0,100.0,2
+qwen2.5:7b,demanding,TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,VARTe,clothing,369.0,63.0,5.0,8.0,95.0,Muito Satisfeito,8.0,100.0,2
+qwen2.5:7b,economic,TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,VARTe,clothing,369.0,63.0,5.0,8.0,90.0,Muito Satisfeito,8.0,100.0,1
+qwen2.5:7b,rational,TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,VARTe,clothing,369.0,63.0,5.0,8.0,60.0,Muito Satisfeito,8.0,100.0,1
+qwen2.5:7b,impulsive,TSHFVWQUHFZEHTUK,Typography Men Round Neck Gold T-Shirt,VARTe,clothing,369.0,63.0,5.0,8.0,90.0,Muito Satisfeito,8.0,100.0,13
+qwen2.5:7b,impulsive,TROFTQUMTPDZDHUR,Tapered Men Dark Blue Cotton Lycra Blend Trousers,MagMatri,clothing,546.0,63.0,0.0,8.0,90.0,Muito Satisfeito,3.6,72.8,14
+qwen2.5:7b,impulsive,ETHFYE22SZXXAZKY,Men Kurta and Pyjama Set Pure Cotton,Jagdish Garmen,ethnic_wear,895.0,55.0,0.0,8.0,90.0,Muito Satisfeito,3.6,72.8,15
+qwen2.5:7b,impulsive,SHTFWVZHZSYQZDFT,Men Regular Fit Solid Hood Collar Casual Shirt,A,clothing,999.0,60.0,2.8,8.0,90.0,Muito Satisfeito,4.4,80.8,16
+qwen2.5:7b,impulsive,DHTFZYFZGCZFJYBS,Mps Striped Men Dhoti,,ethnic_wear,1499.0,50.0,3.8,8.0,90.0,Muito Satisfeito,5.6,88.8,17
+qwen2.5:7b,impulsive,SHTFZFE7AHGZNGQB,Men Regular Fit Solid Spread Collar Party Shirt,VRAJCREATI,clothing,499.0,75.0,1.6,8.0,95.0,Muito Satisfeito,3.6,72.8,18
+qwen2.5:7b,economic,SHTFZKUFJSP9RJWN,Men Slim Fit Solid Casual Shirt,FOREVER YOU,clothing,725.0,63.0,5.0,8.0,65.0,Muito Satisfeito,8.0,98.0,2
+qwen2.5:7b,anxious,SHTFZKUFJSP9RJWN,Men Slim Fit Solid Casual Shirt,FOREVER YOU,clothing,725.0,63.0,5.0,8.0,60.0,Muito Satisfeito,8.0,98.0,3
+qwen2.5:7b,impulsive,SHTFZKUFJSP9RJWN,Men Slim Fit Solid Casual Shirt,FOREVER YOU,clothing,725.0,63.0,5.0,9.0,85.0,Muito Satisfeito,8.0,98.0,1
+qwen2.5:7b,demanding,SHTFZKUFJSP9RJWN,Men Slim Fit Solid Casual Shirt,FOREVER YOU,clothing,725.0,63.0,5.0,8.0,65.0,Muito Satisfeito,8.0,98.0,3
+qwen2.5:7b,impulsive,SHTFYW6FEVEMCZNT,Men Slim Fit Checkered Casual Shirt,Purple Sta,clothing,449.0,77.0,2.9,8.0,90.0,Muito Satisfeito,4.8,87.2,19
+qwen2.5:7b,impulsive,TSHFU63CFYRHYKGT,Printed Men Round Neck Multicolor T-Shirt Pack of 3,REF,clothing,849.0,64.0,3.6,8.0,90.0,Muito Satisfeito,5.2,89.2,20
+qwen2.5:7b,impulsive,SRTFVHS947SYFFXR,Printed Men Black Bermuda Shorts,WILD,clothing,350.0,64.0,2.9,8.0,95.0,Muito Satisfeito,5.0,84.0,21
+qwen2.5:7b,impulsive,TSHFPZY7ZNFBHM3U,Printed Men Round Neck White T-Shirt,Keo,clothing,284.0,52.0,3.8,8.0,95.0,Muito Satisfeito,6.6,88.8,22
+qwen2.5:7b,economic,TSHFPZY7ZNFBHM3U,Printed Men Round Neck White T-Shirt,Keo,clothing,284.0,52.0,3.8,8.0,65.0,Muito Satisfeito,6.6,88.8,3
+qwen2.5:7b,economic,SFFFUZAZZFFUDFBE,Slides,Black Beat,footwear,308.0,63.0,4.2,8.0,60.0,Muito Satisfeito,7.0,90.0,4
+qwen2.5:7b,impulsive,SFFFUZAZZFFUDFBE,Slides,Black Beat,footwear,308.0,63.0,4.2,9.0,85.0,Muito Satisfeito,7.0,90.0,2
+qwen2.5:7b,impulsive,CTPFBM2GGNGA9NBR,Tripin Stainless Steel Tie Pin Silver,,clothing,350.0,64.0,3.7,8.0,90.0,Muito Satisfeito,6.0,84.0,23
+qwen2.5:7b,economic,CTPFBM2GGNGA9NBR,Tripin Stainless Steel Tie Pin Silver,,clothing,350.0,64.0,3.7,8.0,60.0,Muito Satisfeito,6.0,84.0,5
+qwen2.5:7b,impulsive,TSHFTX4FQMM5DEM2,Printed Men Round Neck Blue T-Shirt,yellowvib,clothing,340.0,65.0,3.2,8.0,90.0,Muito Satisfeito,4.8,87.2,24
+qwen2.5:7b,impulsive,TSHF2DZ6NMBSVBKB,Solid Men Round Neck Grey T-Shirt,rockha,clothing,299.0,66.0,3.8,8.0,90.0,Muito Satisfeito,5.4,84.8,25
+qwen2.5:7b,impulsive,SHTF7YU85HHDMZZM,Men Slim Fit Solid Mandarin Collar Party Shirt,Jai Textil,clothing,419.0,72.0,3.7,8.0,95.0,Muito Satisfeito,6.6,92.8,26
+qwen2.5:7b,economic,SHTF7YU85HHDMZZM,Men Slim Fit Solid Mandarin Collar Party Shirt,Jai Textil,clothing,419.0,72.0,3.7,8.0,65.0,Muito Satisfeito,6.6,92.8,6
+qwen2.5:7b,demanding,SHTFACSAYNHFFRYF,Men Slim Fit Solid Mandarin Collar Casual Shirt,Jai Textil,clothing,420.0,77.0,3.9,8.0,65.0,Muito Satisfeito,7.8,97.2,4
+qwen2.5:7b,economic,SHTFACSAYNHFFRYF,Men Slim Fit Solid Mandarin Collar Casual Shirt,Jai Textil,clothing,420.0,77.0,3.9,8.0,65.0,Muito Satisfeito,7.8,97.2,7
+qwen2.5:7b,impulsive,SHTFACSAYNHFFRYF,Men Slim Fit Solid Mandarin Collar Casual Shirt,Jai Textil,clothing,420.0,77.0,3.9,9.0,85.0,Muito Satisfeito,7.8,97.2,3
+qwen2.5:7b,impulsive,SWSF8922GWPP4QKF,Full Sleeve Self Design Men Sweatshirt,AXMA,clothing,923.0,49.0,3.8,8.0,95.0,Muito Satisfeito,5.8,91.2,27
+qwen2.5:7b,impulsive,TSHFACGSMSYJ8R6E,Printed Men Round or Crew Black T-Shirt,Dudli,clothing,299.0,70.0,2.9,8.0,95.0,Muito Satisfeito,4.8,87.2,28
+qwen2.5:7b,impulsive,SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,SUR,clothing,699.0,46.0,4.6,8.0,90.0,Muito Satisfeito,7.6,98.8,29
+qwen2.5:7b,demanding,SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,SUR,clothing,699.0,46.0,4.6,8.0,90.0,Muito Satisfeito,7.6,98.8,5
+qwen2.5:7b,economic,SHTFMKQNW8HJ3XZH,Men Slim Fit Solid Casual Shirt,SUR,clothing,699.0,46.0,4.6,8.0,75.0,Muito Satisfeito,7.6,98.8,8
+qwen2.5:7b,impulsive,BXRFM6KHJ2ZWWKCG,Printed Men Boxer Pack of 2,Urban D,clothing,545.0,61.0,3.4,8.0,95.0,Muito Satisfeito,4.8,87.2,30
+qwen2.5:7b,anxious,CRGFGQRH8JTUDNHW,Men Cargos,Mountain colou,clothing,823.0,62.0,4.3,8.0,65.0,Muito Satisfeito,8.0,100.0,4
+qwen2.5:7b,economic,CRGFGQRH8JTUDNHW,Men Cargos,Mountain colou,clothing,823.0,62.0,4.3,8.0,80.0,Muito Satisfeito,8.0,100.0,9
+qwen2.5:7b,demanding,CRGFGQRH8JTUDNHW,Men Cargos,Mountain colou,clothing,823.0,62.0,4.3,8.0,90.0,Muito Satisfeito,8.0,100.0,6
+qwen2.5:7b,rational,CRGFGQRH8JTUDNHW,Men Cargos,Mountain colou,clothing,823.0,62.0,4.3,8.0,60.0,Muito Satisfeito,8.0,100.0,2
+qwen2.5:7b,rational,TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,Adam Park,clothing,640.0,32.0,4.1,8.0,60.0,Muito Satisfeito,7.8,99.2,3
+qwen2.5:7b,economic,TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,Adam Park,clothing,640.0,32.0,4.1,8.0,60.0,Muito Satisfeito,7.8,99.2,10
+qwen2.5:7b,demanding,TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,Adam Park,clothing,640.0,32.0,4.1,8.0,90.0,Muito Satisfeito,7.8,99.2,7
+qwen2.5:7b,anxious,TSHFE4JPXV56KKB2,Solid Men Polo Neck Black T-Shirt,Adam Park,clothing,640.0,32.0,4.1,8.0,75.0,Muito Satisfeito,7.8,99.2,5
+qwen2.5:7b,anxious,TSHFPNR322XKKCKW,Printed Men Polo Neck White T-Shirt,ARBO,clothing,408.0,52.0,4.2,8.0,60.0,Muito Satisfeito,7.4,98.8,6
+qwen2.5:7b,demanding,SFFFUZAZMPVDGAPZ,Slides,Black Beat,footwear,308.0,63.0,4.2,8.0,65.0,Muito Satisfeito,7.2,95.2,8
+qwen2.5:7b,economic,SFFFUZAZMPVDGAPZ,Slides,Black Beat,footwear,308.0,63.0,4.2,8.0,60.0,Muito Satisfeito,7.2,95.2,11
+qwen2.5:7b,demanding,TSHFWCPH77RAYAFF,Solid Men Polo Neck White T-Shirt,Scott Internation,clothing,499.0,66.0,4.0,8.0,95.0,Muito Satisfeito,8.0,100.0,9
+qwen2.5:7b,anxious,TSHFWCPH77RAYAFF,Solid Men Polo Neck White T-Shirt,Scott Internation,clothing,499.0,66.0,4.0,8.0,60.0,Muito Satisfeito,8.0,100.0,7
+qwen2.5:7b,economic,TSHFWCPH77RAYAFF,Solid Men Polo Neck White T-Shirt,Scott Internation,clothing,499.0,66.0,4.0,8.0,60.0,Muito Satisfeito,8.0,100.0,12
+qwen2.5:7b,rational,TSHFWCPH77RAYAFF,Solid Men Polo Neck White T-Shirt,Scott Internation,clothing,499.0,66.0,4.0,8.0,60.0,Muito Satisfeito,8.0,100.0,4
+qwen2.5:7b,economic,TSHFWYWDM7PCZGVQ,Printed Men Round Neck Green T-Shirt,ATHL,clothing,253.0,63.0,3.3,8.0,70.0,Muito Satisfeito,5.8,83.2,13
+qwen2.5:7b,economic,SHTFVVCNDWPWPQDE,Men Tailored Fit Solid Casual Shirt,DISCOUNT OUTL,clothing,649.0,60.0,4.3,8.0,80.0,Muito Satisfeito,7.8,99.2,14
+qwen2.5:7b,demanding,SHTFVVCNDWPWPQDE,Men Tailored Fit Solid Casual Shirt,DISCOUNT OUTL,clothing,649.0,60.0,4.3,8.0,65.0,Muito Satisfeito,7.8,99.2,10
+qwen2.5:7b,rational,SHTFVVCNDWPWPQDE,Men Tailored Fit Solid Casual Shirt,DISCOUNT OUTL,clothing,649.0,60.0,4.3,8.0,65.0,Muito Satisfeito,7.8,99.2,5
+qwen2.5:7b,economic,SHTFZTRRMYSXTV74,Men Regular Fit Solid Formal Shirt,PROLI,clothing,595.0,62.0,3.0,8.0,65.0,Muito Satisfeito,6.0,84.0,15
+qwen2.5:7b,economic,TSHFHTGWAZUSMYHF,Self Design Men Polo Neck Light Green T-Shirt,ATHL,clothing,322.0,67.0,3.3,8.0,65.0,Muito Satisfeito,6.0,84.0,16
+qwen2.5:7b,demanding,TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",ARBO,clothing,379.0,44.0,4.2,8.0,65.0,Muito Satisfeito,8.0,100.0,11
+qwen2.5:7b,economic,TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",ARBO,clothing,379.0,44.0,4.2,8.0,85.0,Muito Satisfeito,8.0,100.0,17
+qwen2.5:7b,anxious,TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",ARBO,clothing,379.0,44.0,4.2,8.0,75.0,Muito Satisfeito,8.0,100.0,8
+qwen2.5:7b,rational,TSHFUH9EYGGA8YCN,"Printed Men Round Neck Grey, Black T-Shirt",ARBO,clothing,379.0,44.0,4.2,8.0,60.0,Muito Satisfeito,8.0,100.0,6
+qwen2.5:7b,economic,TSHFHBQXJE8FFKVH,Self Design Men Round Neck Black T-Shirt,rockha,clothing,299.0,66.0,4.1,8.0,65.0,Muito Satisfeito,7.4,96.8,18
+qwen2.5:7b,demanding,TSHFHBQXJE8FFKVH,Self Design Men Round Neck Black T-Shirt,rockha,clothing,299.0,66.0,4.1,8.0,65.0,Muito Satisfeito,7.4,96.8,12
+qwen2.5:7b,economic,SHOFJVXUQYC7WXYP,Loafers For Men Black,Bone,footwear,474.0,52.0,3.9,8.0,65.0,Muito Satisfeito,6.6,88.8,19
+qwen2.5:7b,demanding,TSHEUUPDTD5AKZP2,Striped Men Polo Neck Green T-Shirt,AXMA,clothing,547.0,50.0,3.8,8.0,65.0,Muito Satisfeito,7.2,95.2,13
+qwen2.5:7b,economic,TSHEUUPDTD5AKZP2,Striped Men Polo Neck Green T-Shirt,AXMA,clothing,547.0,50.0,3.8,8.0,65.0,Muito Satisfeito,7.2,95.2,20
+qwen2.5:7b,economic,TSHFME2ENATAPJBP,Solid Men Polo Neck Dark Blue T-Shirt,Steenb,clothing,799.0,40.0,3.7,8.0,65.0,Muito Satisfeito,6.8,95.2,21
+qwen2.5:7b,economic,TSHFRAMFGRD6FHGU,Graphic Print Men Round Neck Grey T-Shirt,Pu,clothing,714.0,45.0,4.5,8.0,65.0,Muito Satisfeito,7.4,98.8,22
+qwen2.5:7b,rational,TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,PixF,clothing,299.0,76.0,4.5,8.0,60.0,Muito Satisfeito,7.8,99.2,7
+qwen2.5:7b,economic,TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,PixF,clothing,299.0,76.0,4.5,8.0,85.0,Muito Satisfeito,7.8,99.2,23
+qwen2.5:7b,demanding,TSHFSGN6JYGZMXPS,Typography Men Round Neck Black T-Shirt,PixF,clothing,299.0,76.0,4.5,8.0,65.0,Muito Satisfeito,7.8,99.2,14
+qwen2.5:7b,economic,BRFFZJG8WPC6W3UQ,Men Brief Pack of 6,V,clothing,783.0,11.0,3.9,8.0,65.0,Muito Satisfeito,7.4,96.8,24
+qwen2.5:7b,demanding,BRFFZJG8WPC6W3UQ,Men Brief Pack of 6,V,clothing,783.0,11.0,3.9,8.0,65.0,Muito Satisfeito,7.4,96.8,15
+qwen2.5:7b,demanding,JEAFF4YGFVA5EWQG,Regular Men Blue Jeans,M.R. FASHI,clothing,649.0,56.0,4.1,8.0,65.0,Muito Satisfeito,7.4,98.8,16
+qwen2.5:7b,demanding,SRTFDT7FY3CFFNYV,Self Design Men Black Sports Shorts,REEB,clothing,1749.0,30.0,3.9,8.0,65.0,Muito Satisfeito,7.8,99.2,17
+qwen2.5:7b,anxious,SRTFDT7FY3CFFNYV,Self Design Men Black Sports Shorts,REEB,clothing,1749.0,30.0,3.9,8.0,65.0,Muito Satisfeito,7.8,99.2,9
+qwen2.5:7b,rational,SRTFDT7FY3CFFNYV,Self Design Men Black Sports Shorts,REEB,clothing,1749.0,30.0,3.9,8.0,60.0,Muito Satisfeito,7.8,99.2,8
+qwen2.5:7b,demanding,JCKFMYFZHXZH4FGE,Full Sleeve Colorblock Men Sports Jacket,Pu,clothing,3149.0,55.0,4.1,8.0,65.0,Muito Satisfeito,7.8,99.2,18
+qwen2.5:7b,economic,JCKFMYFZHXZH4FGE,Full Sleeve Colorblock Men Sports Jacket,Pu,clothing,3149.0,55.0,4.1,8.0,65.0,Muito Satisfeito,7.8,99.2,25
+qwen2.5:7b,anxious,JCKFMYFZHXZH4FGE,Full Sleeve Colorblock Men Sports Jacket,Pu,clothing,3149.0,55.0,4.1,8.0,65.0,Muito Satisfeito,7.8,99.2,10
+qwen2.5:7b,demanding,TSHFPVNS3HFFYGBM,Printed Men Round Neck White T-Shirt,Keo,clothing,284.0,52.0,3.9,8.0,60.0,Muito Satisfeito,7.2,95.2,19
+qwen2.5:7b,economic,TSHFPVNS3HFFYGBM,Printed Men Round Neck White T-Shirt,Keo,clothing,284.0,52.0,3.9,8.0,60.0,Muito Satisfeito,7.2,95.2,26
+qwen2.5:7b,economic,TSHEGAWGSHXYAZ6Z,Solid Men Round Neck Brown T-Shirt,Tees Collecti,clothing,419.0,60.0,3.9,8.0,65.0,Muito Satisfeito,6.6,92.8,27
+qwen2.5:7b,demanding,HKFFUG57ZW6KWUCX,Cotson Premium Cotton Handkerchief for Men Red Handkerchief Pack of 12,,clothing,449.0,35.0,4.7,8.0,60.0,Muito Satisfeito,7.0,96.0,20
+qwen2.5:7b,anxious,TSHFNUGVREHCPWGE,Solid Men Round Neck Black T-Shirt,ARBO,clothing,426.0,43.0,5.0,8.0,65.0,Muito Satisfeito,7.8,99.2,11
+qwen2.5:7b,rational,TSHFNUGVREHCPWGE,Solid Men Round Neck Black T-Shirt,ARBO,clothing,426.0,43.0,5.0,8.0,60.0,Muito Satisfeito,7.8,99.2,9
+qwen2.5:7b,economic,TSHFNUGVREHCPWGE,Solid Men Round Neck Black T-Shirt,ARBO,clothing,426.0,43.0,5.0,8.0,60.0,Muito Satisfeito,7.8,99.2,28
+qwen2.5:7b,economic,SHTFT26JWJ56GFXA,Men Regular Fit Solid Spread Collar Casual Shirt Pack of 2,A J STYL,clothing,816.0,59.0,4.0,8.0,65.0,Muito Satisfeito,7.0,96.0,29
+qwen2.5:7b,economic,SHTEDV4QBHABZSGE,Men Extra Slim Fit Solid Casual Shirt,Lafant,clothing,698.0,41.0,3.8,8.0,65.0,Muito Satisfeito,7.4,96.8,30
+qwen2.5:7b,demanding,SHTEDV4QBHABZSGE,Men Extra Slim Fit Solid Casual Shirt,Lafant,clothing,698.0,41.0,3.8,8.0,65.0,Muito Satisfeito,7.4,96.8,21
+qwen2.5:7b,demanding,TSHFVG9UHHD2YZUE,Solid Men Round Neck Multicolor T-Shirt Pack of 2,Lucky Bi,clothing,829.0,44.0,4.1,8.0,60.0,Muito Satisfeito,7.8,99.2,22
+qwen2.5:7b,rational,TSHFVG9UHHD2YZUE,Solid Men Round Neck Multicolor T-Shirt Pack of 2,Lucky Bi,clothing,829.0,44.0,4.1,8.0,60.0,Muito Satisfeito,7.8,99.2,10
+qwen2.5:7b,demanding,SHTFH24CEGU2HGXP,Men Slim Fit Checkered Casual Shirt,SUR,clothing,699.0,46.0,4.3,8.0,65.0,Muito Satisfeito,7.4,96.8,23
+qwen2.5:7b,anxious,TSHFW8F9PZH9RRQK,Solid Men Polo Neck Green T-Shirt,Pu,clothing,2274.0,35.0,4.3,8.0,65.0,Muito Satisfeito,7.8,99.2,12
+qwen2.5:7b,demanding,TSHFW8F9PZH9RRQK,Solid Men Polo Neck Green T-Shirt,Pu,clothing,2274.0,35.0,4.3,8.0,65.0,Muito Satisfeito,7.8,99.2,24
+qwen2.5:7b,anxious,TSHFYWFQMUCGYVUV,Graphic Print Men Round Neck Dark Blue T-Shirt,Vibrant Vestu,clothing,299.0,50.0,4.2,8.0,60.0,Muito Satisfeito,7.8,99.2,13
+qwen2.5:7b,demanding,TSHFYWFQMUCGYVUV,Graphic Print Men Round Neck Dark Blue T-Shirt,Vibrant Vestu,clothing,299.0,50.0,4.2,8.0,65.0,Muito Satisfeito,7.8,99.2,25
+qwen2.5:7b,demanding,TSHFZ3JDZGXTEQ6M,Printed Men Round Neck Grey T-Shirt,REEB,clothing,1539.0,45.0,4.5,8.0,90.0,Muito Satisfeito,8.0,100.0,26
+qwen2.5:7b,anxious,TSHFZ3JDZGXTEQ6M,Printed Men Round Neck Grey T-Shirt,REEB,clothing,1539.0,45.0,4.5,8.0,65.0,Muito Satisfeito,8.0,100.0,14
+qwen2.5:7b,rational,TSHFZ3JDZGXTEQ6M,Printed Men Round Neck Grey T-Shirt,REEB,clothing,1539.0,45.0,4.5,8.0,60.0,Muito Satisfeito,8.0,100.0,11
+qwen2.5:7b,rational,TSHFWMRVHM3RXYUQ,Printed Men Round Neck Black T-Shirt,PixF,clothing,299.0,76.0,4.5,8.0,60.0,Muito Satisfeito,7.6,98.8,12
+qwen2.5:7b,rational,JEAFGUGYHZHGZSE4,Regular Men Light Blue Jeans,M.R. FASHI,clothing,799.0,46.0,4.1,8.0,60.0,Muito Satisfeito,8.0,100.0,13
+qwen2.5:7b,anxious,JEAFGUGYHZHGZSE4,Regular Men Light Blue Jeans,M.R. FASHI,clothing,799.0,46.0,4.1,8.0,60.0,Muito Satisfeito,8.0,100.0,15
+qwen2.5:7b,demanding,JEAFGUGYHZHGZSE4,Regular Men Light Blue Jeans,M.R. FASHI,clothing,799.0,46.0,4.1,8.0,65.0,Muito Satisfeito,8.0,100.0,27
+qwen2.5:7b,rational,KTAFD3ZMPXPC3GE4,Men Printed Cotton Blend Straight Kurta Orange,LDHSA,ethnic_wear,749.0,62.0,4.0,8.0,65.0,Muito Satisfeito,8.0,100.0,14
+qwen2.5:7b,demanding,KTAFD3ZMPXPC3GE4,Men Printed Cotton Blend Straight Kurta Orange,LDHSA,ethnic_wear,749.0,62.0,4.0,8.0,65.0,Muito Satisfeito,8.0,100.0,28
+qwen2.5:7b,anxious,KTAFD3ZMPXPC3GE4,Men Printed Cotton Blend Straight Kurta Orange,LDHSA,ethnic_wear,749.0,62.0,4.0,8.0,65.0,Muito Satisfeito,8.0,100.0,16
+qwen2.5:7b,rational,TRKFC3YSEZ5HJEH8,Men Trunks,V,clothing,840.0,0.0,4.5,8.0,65.0,Muito Satisfeito,6.0,68.0,15
+qwen2.5:7b,anxious,TRKFC3YSEZ5HJEH8,Men Trunks,V,clothing,840.0,0.0,4.5,8.0,65.0,Muito Satisfeito,6.0,68.0,17
+qwen2.5:7b,demanding,TRKFC3YSEZ5HJEH8,Men Trunks,V,clothing,840.0,0.0,4.5,8.0,90.0,Muito Satisfeito,6.0,68.0,29
+qwen2.5:7b,rational,TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,Onei,clothing,479.0,52.0,4.2,8.0,60.0,Muito Satisfeito,8.2,99.2,16
+qwen2.5:7b,anxious,TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,Onei,clothing,479.0,52.0,4.2,8.0,65.0,Muito Satisfeito,8.2,99.2,18
+qwen2.5:7b,demanding,TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,Onei,clothing,479.0,52.0,4.2,8.0,95.0,Muito Satisfeito,8.2,99.2,30
+qwen2.5:7b,impulsive,TKPFWV6JCPGUZEBG,Solid Men Grey Track Pants,Onei,clothing,479.0,52.0,4.2,9.0,85.0,Muito Satisfeito,8.2,99.2,4
+qwen2.5:7b,anxious,CAPEXJZKJX86NZKH,Self Design Woolen Cap Cap Pack of 2,Gracew,clothing,429.0,57.0,4.5,8.0,60.0,Muito Satisfeito,8.0,100.0,19
+qwen2.5:7b,rational,CAPEXJZKJX86NZKH,Self Design Woolen Cap Cap Pack of 2,Gracew,clothing,429.0,57.0,4.5,8.0,60.0,Muito Satisfeito,8.0,100.0,17
+qwen2.5:7b,anxious,TSHFGJB52TQ8SUKM,Abstract Men Round Neck Light Blue T-Shirt,TOM BU,clothing,599.0,25.0,4.1,8.0,65.0,Muito Satisfeito,8.0,100.0,20
+qwen2.5:7b,rational,TSHFGJB52TQ8SUKM,Abstract Men Round Neck Light Blue T-Shirt,TOM BU,clothing,599.0,25.0,4.1,8.0,60.0,Muito Satisfeito,8.0,100.0,18
+qwen2.5:7b,rational,SWSFX6YYPCV87HUA,Full Sleeve Self Design Men Sweatshirt,ATHL,clothing,381.0,61.0,4.0,8.0,65.0,Muito Satisfeito,8.0,100.0,19
+qwen2.5:7b,anxious,SWSFX6YYPCV87HUA,Full Sleeve Self Design Men Sweatshirt,ATHL,clothing,381.0,61.0,4.0,8.0,60.0,Muito Satisfeito,8.0,100.0,21
+qwen2.5:7b,anxious,VESFN9F3FJY5G4FC,VIP Men Vest Pack of 3,,clothing,350.0,14.0,4.1,8.0,65.0,Muito Satisfeito,7.6,98.8,22
+qwen2.5:7b,rational,VESFN9F3FJY5G4FC,VIP Men Vest Pack of 3,,clothing,350.0,14.0,4.1,8.0,65.0,Muito Satisfeito,7.6,98.8,20
+qwen2.5:7b,impulsive,TSHFXZXMFMBZNHZE,"Color Block Men Hooded Neck Black, Yellow T-Shirt",NEXT ,clothing,349.0,82.0,4.0,9.0,85.0,Muito Satisfeito,7.4,92.8,5
+qwen2.5:7b,anxious,VESFKGD9Y5EXQKHK,ATTIITUDE Men Vest,,clothing,937.0,6.0,5.0,8.0,65.0,Muito Satisfeito,7.6,98.8,23
+qwen2.5:7b,anxious,TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,U.S.Polo As,clothing,1194.0,37.0,4.8,9.0,80.0,Muito Satisfeito,8.2,97.2,1
+qwen2.5:7b,demanding,TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,U.S.Polo As,clothing,1194.0,37.0,4.8,9.0,85.0,Muito Satisfeito,8.2,97.2,1
+qwen2.5:7b,rational,TSHFXVKEYERWGGXY,Solid Men Collared Neck White T-Shirt,U.S.Polo As,clothing,1194.0,37.0,4.8,8.0,60.0,Muito Satisfeito,8.2,97.2,21
+qwen2.5:7b,anxious,SHTFNGP5DCW4KZS4,Men Slim Fit Printed Casual Shirt,FOREVER YOU,clothing,1048.0,65.0,4.0,8.0,60.0,Muito Satisfeito,7.8,95.2,24
+qwen2.5:7b,impulsive,SHTFNGP5DCW4KZS4,Men Slim Fit Printed Casual Shirt,FOREVER YOU,clothing,1048.0,65.0,4.0,9.0,85.0,Muito Satisfeito,7.8,95.2,6
+qwen2.5:7b,anxious,TSHEZ9S6H9TKWNV5,Solid Men Round Neck Multicolor T-Shirt Pack of 2,NEBRAS,clothing,699.0,48.0,5.0,8.0,65.0,Muito Satisfeito,7.8,99.2,25
+qwen2.5:7b,anxious,TROFGQSFMPC8HGZU,Regular Fit Men Brown Pure Cotton Trousers,Mountain colou,clothing,849.0,61.0,4.1,8.0,65.0,Muito Satisfeito,8.0,100.0,26
+qwen2.5:7b,rational,TROFGQSFMPC8HGZU,Regular Fit Men Brown Pure Cotton Trousers,Mountain colou,clothing,849.0,61.0,4.1,8.0,60.0,Muito Satisfeito,8.0,100.0,22
+qwen2.5:7b,anxious,TSHFGPJJRGWPQAKJ,Self Design Men Hooded Neck Black T-Shirt,Dudli,clothing,550.0,44.0,4.1,8.0,70.0,Muito Satisfeito,7.8,99.2,27
+qwen2.5:7b,anxious,SHTFNZRGEY73BGAH,Men Regular Fit Solid Formal Shirt,GANTI,clothing,549.0,65.0,4.2,8.0,65.0,Muito Satisfeito,7.8,99.2,28
+qwen2.5:7b,anxious,NSTFUYHQW7K5FUFT,Men Solid Multicolor Top Pyjama Set,INTER CREATI,clothing,899.0,47.0,4.8,8.0,60.0,Muito Satisfeito,7.8,99.2,29
+qwen2.5:7b,anxious,WSCFWVPWQNKCAMGM,Solid Men Waistcoat,Zack Fo,clothing,974.0,55.0,4.5,8.0,65.0,Muito Satisfeito,7.8,99.2,30
+qwen2.5:7b,rational,TSHFDT66DJTFN64D,Printed Men Round Neck Blue T-Shirt,REEB,clothing,702.0,53.0,4.0,8.0,60.0,Muito Satisfeito,8.0,100.0,23
+qwen2.5:7b,impulsive,TSHF4PGJ5BVUCFZ3,Solid Men Hooded Neck Grey T-Shirt,Tees Collecti,clothing,279.0,77.0,4.1,9.0,85.0,Muito Satisfeito,7.6,94.8,7
+qwen2.5:7b,rational,BRFFMUKDBU3DDZZ9,Men Brief Pack of 12,V,clothing,1240.0,4.0,4.4,8.0,60.0,Muito Satisfeito,7.6,98.8,24
+qwen2.5:7b,rational,TSHFY24Q875XUHDZ,Graphic Print Men Round Neck Multicolor T-Shirt Pack of 2,Free Authori,clothing,769.0,45.0,3.9,8.0,60.0,Muito Satisfeito,7.8,99.2,25
+qwen2.5:7b,impulsive,TSHFWJZEZYHJFJQU,Solid Men Polo Neck Light Green T-Shirt,Scott Internation,clothing,499.0,66.0,4.0,9.0,85.0,Muito Satisfeito,8.2,99.2,8
+qwen2.5:7b,rational,TSHFWJZEZYHJFJQU,Solid Men Polo Neck Light Green T-Shirt,Scott Internation,clothing,499.0,66.0,4.0,8.0,60.0,Muito Satisfeito,8.2,99.2,26
+qwen2.5:7b,rational,TKPFZ3JRZGNUZQEY,Solid Men Black Track Pants,REEBOK CLASSI,clothing,2203.0,42.0,4.5,8.0,65.0,Muito Satisfeito,8.0,100.0,27
+qwen2.5:7b,rational,TSHFVWQUKSE3YBH4,Typography Men Round Neck White T-Shirt,VARTe,clothing,369.0,63.0,5.0,8.0,65.0,Muito Satisfeito,8.2,99.2,28
+qwen2.5:7b,impulsive,TSHFVWQUKSE3YBH4,Typography Men Round Neck White T-Shirt,VARTe,clothing,369.0,63.0,5.0,9.0,85.0,Muito Satisfeito,8.2,99.2,9
+qwen2.5:7b,impulsive,TSHFSPXR5BZMUEC8,Printed Men Round Neck Dark Blue T-Shirt,PixF,clothing,359.0,72.0,4.5,9.0,85.0,Muito Satisfeito,8.0,98.0,10
+qwen2.5:7b,rational,TROFWFHY7YU2YZ2Y,Regular Fit Men Grey Cotton Blend Trousers,Bra,clothing,599.0,46.0,4.7,8.0,60.0,Muito Satisfeito,7.8,99.2,29
+qwen2.5:7b,rational,TSHFHJSZ4JRGG3CR,Self Design Men Round Neck Grey T-Shirt,SEVN,clothing,188.0,73.0,3.9,8.0,65.0,Muito Satisfeito,7.6,96.8,30
+qwen2.5:7b,impulsive,KTAFDVG4HGJQMZQK,"Men Solid Cotton Blend Straight Kurta Black, Yellow",LDHSA,ethnic_wear,899.0,77.0,4.5,9.0,85.0,Muito Satisfeito,8.2,99.2,11
+qwen2.5:7b,impulsive,TSHFSPXRGRE5SDYG,Solid Men Round Neck Yellow T-Shirt,PixF,clothing,299.0,76.0,4.5,9.0,85.0,Muito Satisfeito,7.8,97.2,12

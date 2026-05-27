@@ -1,0 +1,7 @@
+Nível,n produtos,Concordância exata (%),Kappa quadrático,Kappa linear,"ICC(2,1) score",Interpretação κ
+Ansioso,296,52.3600,0.7190,0.5620,0.7360,substancial
+Exigente,292,53.0800,0.7120,0.5610,0.7210,substancial
+Econômico,297,44.7800,0.5060,0.3970,0.5480,moderada
+Impulsivo,295,45.7600,0.1800,0.1630,0.1990,leve
+Racional,292,54.4500,0.7220,0.5600,0.7300,substancial
+GERAL (todos os perfis),1472,50.0700,0.5830,0.4760,0.6060,moderada

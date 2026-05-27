@@ -1,0 +1,3 @@
+Modelo,n produtos com rating,Pearson r,Pearson p,Spearman ρ,Spearman p,MAE,RMSE,Viés (sistema − humano)
+llama3.2,280,0.8060,0.0000,0.8300,0.0000,0.6900,0.7990,-0.6810
+qwen2.5:7b,280,0.8590,0.0000,0.8940,0.0000,0.5690,0.6690,-0.5640

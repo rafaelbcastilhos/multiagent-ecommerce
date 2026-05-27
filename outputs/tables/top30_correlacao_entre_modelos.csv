@@ -1,0 +1,6 @@
+perfil,perfil_pt,n,pearson_r,pearson_p,spearman_r,spearman_p,significancia
+anxious,Ansioso,296,0.7485,0.0,0.7436,0.0,***
+demanding,Exigente,292,0.7299,0.0,0.7196,0.0,***
+economic,Econômico,297,0.5828,0.0,0.5798,0.0,***
+impulsive,Impulsivo,295,0.2638,4e-06,0.267,3e-06,***
+rational,Racional,292,0.7388,0.0,0.7315,0.0,***
