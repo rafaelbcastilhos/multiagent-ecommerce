@@ -394,6 +394,8 @@ def fig_metricas_agregadas(product_evals: pd.DataFrame) -> None:
 
 
 def fig_distribuicao_consensus(product_evals: pd.DataFrame) -> None:
+    all_values = product_evals["consensus_level"].dropna()
+    shared_bins = np.linspace(all_values.min(), all_values.max(), 21)
     fig, ax = plt.subplots(figsize=(8, 4.2))
     for model in sorted(product_evals["llm_model"].unique()):
         values = product_evals[product_evals["llm_model"] == model][
@@ -401,7 +403,7 @@ def fig_distribuicao_consensus(product_evals: pd.DataFrame) -> None:
         ].dropna()
         ax.hist(
             values,
-            bins=20,
+            bins=shared_bins,
             alpha=0.55,
             label=model,
             color=MODEL_COLORS.get(model, None),
